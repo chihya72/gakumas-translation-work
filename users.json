@@ -2,5 +2,9 @@
   "chihya72": {
     "name": "pm",
     "role": "admin"
+  },
+  "kitsurato": {
+    "name": "病毒",
+    "role": "user"
   }
 }
