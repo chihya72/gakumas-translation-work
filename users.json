@@ -7,12 +7,16 @@
     "name": "病毒",
     "role": "admin"
   },
+  "kkdou3": {
+    "name": "悸动",
+    "role": "user"
+  },
   "klsddd": {
     "name": "mk2",
     "role": "user"
   },
-  "kkdou3": {
-    "name": "悸动",
+  "lawsonlisz": {
+    "name": "Lawson",
     "role": "user"
   }
 }
