@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_pstory_001_kllj_after-audition-mid-normal-03",
+  "batch": "",
+  "category": "pstory",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "2156963391",
+    "operator_github": "",
+    "display_id": "2156963391",
+    "display_source": "qq",
+    "timestamp": "2026-03-15T13:12:31Z",
+    "state": "完成"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-03-15T13:12:31.573945+00:00",
+    "state": "待认领"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_pstory_001_kllj_after-audition-mid-normal-03.txt"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/pstory/001/kllj/after-audition-mid-normal-03.csv",
+      "operator_qq": "2156963391",
+      "operator_github": "",
+      "display_id": "2156963391",
+      "display_source": "qq",
+      "timestamp": "2026-03-15T13:12:31Z"
+    },
+    "proofread_csv": {
+      "path": "resources/csv/adv_pstory_001_kllj_after-audition-mid-normal-03.csv"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/pstory/001/kllj/after-audition-mid-normal-03.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_pstory_001_kllj_after-audition-mid-normal-03.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.961786Z"
+  }
+}

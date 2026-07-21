@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_dear_hmsz_027",
+  "batch": "",
+  "category": "dear",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "1072536235",
+    "operator_github": "chihya72",
+    "display_id": "pm",
+    "display_source": "qq",
+    "timestamp": "2026-04-28T14:27:51Z",
+    "state": "完成"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "948279048",
+    "operator_github": "",
+    "display_id": "煉金術式",
+    "display_source": "qq",
+    "timestamp": "2026-04-28T18:09:19Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_dear_hmsz_027.txt"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/dear/hmsz/027.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "qq",
+      "timestamp": "2026-04-28T14:27:51Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/dear/hmsz/027.csv",
+      "operator_qq": "948279048",
+      "operator_github": "",
+      "display_id": "煉金術式",
+      "display_source": "qq",
+      "timestamp": "2026-04-28T18:09:19Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/dear/hmsz/027.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_dear_hmsz_027.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.589225Z"
+  }
+}

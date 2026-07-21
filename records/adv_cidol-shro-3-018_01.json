@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_cidol-shro-3-018_01",
+  "batch": "",
+  "category": "cidol",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 0,
+    "draft_revision": 0,
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-05-25T15:18:42.283435+00:00",
+    "state": "待认领"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "769185426",
+    "operator_github": "kitsurato",
+    "display_id": "病毒",
+    "display_source": "qq",
+    "timestamp": "2026-05-25T15:18:42Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_cidol-shro-3-018_01.txt"
+    },
+    "translation_csv": {
+      "path": ""
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/cidol-shro-3-018/01.csv",
+      "operator_qq": "769185426",
+      "operator_github": "kitsurato",
+      "display_id": "病毒",
+      "display_source": "qq",
+      "timestamp": "2026-05-25T15:18:42Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/cidol-shro-3-018/01.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_cidol-shro-3-018_01.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.432958Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_cidol-hmsz-3-016_03",
+  "batch": "",
+  "category": "cidol",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "360930289",
+    "operator_github": "",
+    "display_id": "360930289",
+    "display_source": "qq",
+    "timestamp": "2026-04-28T12:34:44Z",
+    "state": "完成"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "871013773",
+    "operator_github": "GAKUKAKANG",
+    "display_id": "框框",
+    "display_source": "qq",
+    "timestamp": "2026-04-28T17:22:46Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_cidol-hmsz-3-016_03.txt"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/cidol-hmsz-3-016/03.csv",
+      "operator_qq": "360930289",
+      "operator_github": "",
+      "display_id": "360930289",
+      "display_source": "qq",
+      "timestamp": "2026-04-28T12:34:44Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/cidol-hmsz-3-016/03.csv",
+      "operator_qq": "871013773",
+      "operator_github": "GAKUKAKANG",
+      "display_id": "框框",
+      "display_source": "qq",
+      "timestamp": "2026-04-28T17:22:46Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/cidol-hmsz-3-016/03.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_cidol-hmsz-3-016_03.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.354524Z"
+  }
+}

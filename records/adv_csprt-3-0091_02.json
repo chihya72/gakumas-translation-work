@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_csprt-3-0091_02",
+  "batch": "",
+  "category": "csprt",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 0,
+    "draft_revision": 0,
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-03-09T05:30:36.235022+00:00",
+    "state": "待认领"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "769185426",
+    "operator_github": "kitsurato",
+    "display_id": "病毒",
+    "display_source": "qq",
+    "timestamp": "2026-03-09T05:30:36Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_csprt-3-0091_02.txt"
+    },
+    "translation_csv": {
+      "path": ""
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/csprt-3-0091/02.csv",
+      "operator_qq": "769185426",
+      "operator_github": "kitsurato",
+      "display_id": "病毒",
+      "display_source": "qq",
+      "timestamp": "2026-03-09T05:30:36Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/csprt-3-0091/02.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_csprt-3-0091_02.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.477786Z"
+  }
+}

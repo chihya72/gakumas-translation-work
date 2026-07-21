@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_pstory_001_hski_after-audition-mid-failure-01",
+  "batch": "",
+  "category": "pstory",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 0,
+    "draft_revision": 0,
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-03-14T15:26:26.395725+00:00",
+    "state": "待认领"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "948279048",
+    "operator_github": "",
+    "display_id": "煉金術式",
+    "display_source": "qq",
+    "timestamp": "2026-03-14T15:26:26Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_pstory_001_hski_after-audition-mid-failure-01.txt"
+    },
+    "translation_csv": {
+      "path": ""
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/pstory/001/hski/after-audition-mid-failure-01.csv",
+      "operator_qq": "948279048",
+      "operator_github": "",
+      "display_id": "煉金術式",
+      "display_source": "qq",
+      "timestamp": "2026-03-14T15:26:26Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/pstory/001/hski/after-audition-mid-failure-01.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_pstory_001_hski_after-audition-mid-failure-01.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.938116Z"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_dear_ssmk_034",
+  "batch": "",
+  "category": "dear",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 0,
+    "draft_revision": 0,
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-06-05T07:34:09.926214+00:00",
+    "state": "待认领"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "752720409",
+    "operator_github": "",
+    "display_id": "752720409",
+    "display_source": "qq",
+    "timestamp": "2026-06-05T07:34:09Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_dear_ssmk_034.txt"
+    },
+    "translation_csv": {
+      "path": ""
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/dear/ssmk/034.csv",
+      "operator_qq": "752720409",
+      "operator_github": "",
+      "display_id": "752720409",
+      "display_source": "qq",
+      "timestamp": "2026-06-05T07:34:09Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/dear/ssmk/034.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_dear_ssmk_034.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.834634Z"
+  }
+}

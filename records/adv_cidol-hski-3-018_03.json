@@ -18,14 +18,14 @@
     "timestamp": "2026-07-20T05:04:22Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
-    "operator_qq": "",
-    "operator_github": "klsddd",
-    "display_id": "klsddd",
-    "display_source": "github",
-    "timestamp": "2026-07-20T05:04:22Z"
+    "state": "完成",
+    "operator_qq": "948279048",
+    "operator_github": "",
+    "display_id": "煉金術式",
+    "display_source": "qq",
+    "timestamp": "2026-07-20T07:51:31Z"
   },
   "artifacts": {
     "source_csv": {
@@ -38,11 +38,16 @@
       "path": "translated_csv/adv/cidol-hski-3-018/03.csv"
     },
     "proofread_csv": {
-      "path": "proofread_csv/adv/cidol-hski-3-018/03.csv"
+      "path": "proofread_csv/adv/cidol-hski-3-018/03.csv",
+      "operator_qq": "948279048",
+      "operator_github": "",
+      "display_id": "煉金術式",
+      "display_source": "qq",
+      "timestamp": "2026-07-20T07:51:31Z"
     }
   },
   "github": {
     "issue_number": 31,
-    "updated_at": "2026-07-20T05:04:22Z"
+    "updated_at": "2026-07-21T21:18:20.385453Z"
   }
 }

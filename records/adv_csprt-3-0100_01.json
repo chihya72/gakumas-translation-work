@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_csprt-3-0100_01",
+  "batch": "",
+  "category": "csprt",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "1072536235",
+    "operator_github": "chihya72",
+    "display_id": "pm",
+    "display_source": "qq",
+    "timestamp": "2026-05-25T09:08:33Z",
+    "state": "完成"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "769185426",
+    "operator_github": "kitsurato",
+    "display_id": "病毒",
+    "display_source": "qq",
+    "timestamp": "2026-05-25T16:02:52Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_csprt-3-0100_01.txt"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/csprt-3-0100/01.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "qq",
+      "timestamp": "2026-05-25T09:08:33Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/csprt-3-0100/01.csv",
+      "operator_qq": "769185426",
+      "operator_github": "kitsurato",
+      "display_id": "病毒",
+      "display_source": "qq",
+      "timestamp": "2026-05-25T16:02:52Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/csprt-3-0100/01.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_csprt-3-0100_01.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.525974Z"
+  }
+}

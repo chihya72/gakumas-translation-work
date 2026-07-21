@@ -15,7 +15,7 @@
     "operator_github": "GAKUKAKANG",
     "display_id": "框框",
     "display_source": "qq",
-    "timestamp": "2026-07-21T19:08:47.890749+00:00"
+    "timestamp": "2026-07-21T19:08:47Z"
   },
   "proofread": {
     "revision": 0,
@@ -40,7 +40,7 @@
       "operator_github": "GAKUKAKANG",
       "display_id": "框框",
       "display_source": "qq",
-      "timestamp": "2026-07-21T19:08:47.890749+00:00"
+      "timestamp": "2026-07-21T19:08:47Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/csprt-3-0104/01.csv"
@@ -48,6 +48,6 @@
   },
   "github": {
     "issue_number": 32,
-    "updated_at": "2026-07-20T06:53:53Z"
+    "updated_at": "2026-07-21T21:18:20.532938Z"
   }
 }

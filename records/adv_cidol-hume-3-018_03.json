@@ -11,21 +11,21 @@
     "revision": 1,
     "draft_revision": 0,
     "state": "完成",
-    "operator_qq": "",
-    "operator_github": "chihya72",
-    "display_id": "chihya72",
-    "display_source": "github",
-    "timestamp": "2026-07-09T06:25:58Z"
+    "operator_qq": "1262703928",
+    "operator_github": "dante-rian",
+    "display_id": "丹特丽安",
+    "display_source": "qq",
+    "timestamp": "2026-07-08T12:27:29Z"
   },
   "proofread": {
     "revision": 1,
     "draft_revision": 0,
     "state": "完成",
-    "operator_qq": "",
+    "operator_qq": "1009440971",
     "operator_github": "klsddd",
-    "display_id": "klsddd",
-    "display_source": "github",
-    "timestamp": "2026-07-09T06:25:58Z"
+    "display_id": "mk2",
+    "display_source": "qq",
+    "timestamp": "2026-07-08T12:52:09Z"
   },
   "artifacts": {
     "source_csv": {
@@ -35,14 +35,24 @@
       "path": "ai_csv/adv/cidol-hume-3-018/03.csv"
     },
     "translation_csv": {
-      "path": "translated_csv/adv/cidol-hume-3-018/03.csv"
+      "path": "translated_csv/adv/cidol-hume-3-018/03.csv",
+      "operator_qq": "1262703928",
+      "operator_github": "dante-rian",
+      "display_id": "丹特丽安",
+      "display_source": "qq",
+      "timestamp": "2026-07-08T12:27:29Z"
     },
     "proofread_csv": {
-      "path": "proofread_csv/adv/cidol-hume-3-018/03.csv"
+      "path": "proofread_csv/adv/cidol-hume-3-018/03.csv",
+      "operator_qq": "1009440971",
+      "operator_github": "klsddd",
+      "display_id": "mk2",
+      "display_source": "qq",
+      "timestamp": "2026-07-08T12:52:09Z"
     }
   },
   "github": {
     "issue_number": 17,
-    "updated_at": "2026-07-09T06:25:58Z"
+    "updated_at": "2026-07-21T21:18:20.408633Z"
   }
 }

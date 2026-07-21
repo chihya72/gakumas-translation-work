@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_dear_kcna_028",
+  "batch": "",
+  "category": "dear",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "871013773",
+    "operator_github": "GAKUKAKANG",
+    "display_id": "框框",
+    "display_source": "qq",
+    "timestamp": "2026-05-25T11:01:26Z",
+    "state": "完成"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "752720409",
+    "operator_github": "",
+    "display_id": "752720409",
+    "display_source": "qq",
+    "timestamp": "2026-05-25T14:42:07Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_dear_kcna_028.txt"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/dear/kcna/028.csv",
+      "operator_qq": "871013773",
+      "operator_github": "GAKUKAKANG",
+      "display_id": "框框",
+      "display_source": "qq",
+      "timestamp": "2026-05-25T11:01:26Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/dear/kcna/028.csv",
+      "operator_qq": "752720409",
+      "operator_github": "",
+      "display_id": "752720409",
+      "display_source": "qq",
+      "timestamp": "2026-05-25T14:42:07Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/dear/kcna/028.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_dear_kcna_028.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.748586Z"
+  }
+}

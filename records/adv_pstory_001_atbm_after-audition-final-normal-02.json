@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_pstory_001_atbm_after-audition-final-normal-02",
+  "batch": "",
+  "category": "pstory",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "510746890",
+    "operator_github": "",
+    "display_id": "510746890",
+    "display_source": "qq",
+    "timestamp": "2026-03-20T06:51:21Z",
+    "state": "完成"
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0,
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-03-20T06:51:21.696189+00:00",
+    "state": "待认领"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_pstory_001_atbm_after-audition-final-normal-02.txt"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/pstory/001/atbm/after-audition-final-normal-02.csv",
+      "operator_qq": "510746890",
+      "operator_github": "",
+      "display_id": "510746890",
+      "display_source": "qq",
+      "timestamp": "2026-03-20T06:51:21Z"
+    },
+    "proofread_csv": {
+      "path": ""
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/pstory/001/atbm/after-audition-final-normal-02.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_pstory_001_atbm_after-audition-final-normal-02.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.922098Z"
+  }
+}

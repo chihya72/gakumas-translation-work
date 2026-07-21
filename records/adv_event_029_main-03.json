@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_event_029_main-03",
+  "batch": "",
+  "category": "event",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "1072536235",
+    "operator_github": "chihya72",
+    "display_id": "pm",
+    "display_source": "qq",
+    "timestamp": "2026-03-31T12:53:32Z",
+    "state": "完成"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "1009440971",
+    "operator_github": "klsddd",
+    "display_id": "mk2",
+    "display_source": "qq",
+    "timestamp": "2026-03-31T14:02:21Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_event_029_main-03.txt"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/event/029/main-03.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "qq",
+      "timestamp": "2026-03-31T12:53:32Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/event/029/main-03.csv",
+      "operator_qq": "1009440971",
+      "operator_github": "klsddd",
+      "display_id": "mk2",
+      "display_source": "qq",
+      "timestamp": "2026-03-31T14:02:21Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/event/029/main-03.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_event_029_main-03.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.913582Z"
+  }
+}

@@ -8,24 +8,24 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "待认领",
-    "operator_qq": "",
-    "operator_github": "",
-    "display_id": "",
-    "display_source": "",
-    "timestamp": "2026-07-17T12:19:19Z"
+    "state": "完成",
+    "operator_qq": "1262703928",
+    "operator_github": "dante-rian",
+    "display_id": "丹特丽安",
+    "display_source": "qq",
+    "timestamp": "2026-04-09T14:25:33Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "待认领",
-    "operator_qq": "",
-    "operator_github": "",
-    "display_id": "",
-    "display_source": "",
-    "timestamp": "2026-07-17T12:19:19Z"
+    "state": "完成",
+    "operator_qq": "769185426",
+    "operator_github": "kitsurato",
+    "display_id": "病毒",
+    "display_source": "qq",
+    "timestamp": "2026-04-10T07:49:20Z"
   },
   "artifacts": {
     "source_csv": {
@@ -35,14 +35,24 @@
       "path": "ai_csv/adv/dear/hume/022.csv"
     },
     "translation_csv": {
-      "path": "translated_csv/adv/dear/hume/022.csv"
+      "path": "translated_csv/adv/dear/hume/022.csv",
+      "operator_qq": "1262703928",
+      "operator_github": "dante-rian",
+      "display_id": "丹特丽安",
+      "display_source": "qq",
+      "timestamp": "2026-04-09T14:25:33Z"
     },
     "proofread_csv": {
-      "path": "proofread_csv/adv/dear/hume/022.csv"
+      "path": "proofread_csv/adv/dear/hume/022.csv",
+      "operator_qq": "769185426",
+      "operator_github": "kitsurato",
+      "display_id": "病毒",
+      "display_source": "qq",
+      "timestamp": "2026-04-10T07:49:20Z"
     }
   },
   "github": {
     "issue_number": 92,
-    "updated_at": "2026-07-17T12:19:19Z"
+    "updated_at": "2026-07-21T21:18:20.719379Z"
   }
 }

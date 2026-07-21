@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_cidol-kllj-3-017_02",
+  "batch": "",
+  "category": "cidol",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "752720409",
+    "operator_github": "",
+    "display_id": "752720409",
+    "display_source": "qq",
+    "timestamp": "2026-03-31T10:43:43Z",
+    "state": "完成"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "1009440971",
+    "operator_github": "klsddd",
+    "display_id": "mk2",
+    "display_source": "qq",
+    "timestamp": "2026-03-31T12:52:26Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_cidol-kllj-3-017_02.txt"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/cidol-kllj-3-017/02.csv",
+      "operator_qq": "752720409",
+      "operator_github": "",
+      "display_id": "752720409",
+      "display_source": "qq",
+      "timestamp": "2026-03-31T10:43:43Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/cidol-kllj-3-017/02.csv",
+      "operator_qq": "1009440971",
+      "operator_github": "klsddd",
+      "display_id": "mk2",
+      "display_source": "qq",
+      "timestamp": "2026-03-31T12:52:26Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/cidol-kllj-3-017/02.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_cidol-kllj-3-017_02.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.422940Z"
+  }
+}

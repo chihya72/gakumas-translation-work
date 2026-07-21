@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_cidol-hrnm-3-018_02",
+  "batch": "",
+  "category": "cidol",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "2923937518",
+    "operator_github": "",
+    "display_id": "2923937518",
+    "display_source": "qq",
+    "timestamp": "2026-06-13T01:58:55Z",
+    "state": "完成"
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0,
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-06-13T01:58:56.010024+00:00",
+    "state": "待认领"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_cidol-hrnm-3-018_02.txt"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/cidol-hrnm-3-018/02.csv",
+      "operator_qq": "2923937518",
+      "operator_github": "",
+      "display_id": "2923937518",
+      "display_source": "qq",
+      "timestamp": "2026-06-13T01:58:55Z"
+    },
+    "proofread_csv": {
+      "path": ""
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/cidol-hrnm-3-018/02.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_cidol-hrnm-3-018_02.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.366545Z"
+  }
+}

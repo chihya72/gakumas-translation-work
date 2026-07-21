@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_cidol-hski-3-017_03",
+  "batch": "",
+  "category": "cidol",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 0,
+    "draft_revision": 0,
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-03-18T13:56:50.623578+00:00",
+    "state": "待认领"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "948279048",
+    "operator_github": "",
+    "display_id": "煉金術式",
+    "display_source": "qq",
+    "timestamp": "2026-03-18T13:56:50Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_cidol-hski-3-017_03.txt"
+    },
+    "translation_csv": {
+      "path": ""
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/cidol-hski-3-017/03.csv",
+      "operator_qq": "948279048",
+      "operator_github": "",
+      "display_id": "煉金術式",
+      "display_source": "qq",
+      "timestamp": "2026-03-18T13:56:50Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/cidol-hski-3-017/03.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_cidol-hski-3-017_03.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.373923Z"
+  }
+}

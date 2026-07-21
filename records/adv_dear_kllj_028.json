@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_dear_kllj_028",
+  "batch": "",
+  "category": "dear",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 0,
+    "draft_revision": 0,
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-06-05T05:15:46.306183+00:00",
+    "state": "待认领"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "operator_qq": "1513442376",
+    "operator_github": "",
+    "display_id": "1513442376",
+    "display_source": "qq",
+    "timestamp": "2026-06-05T05:15:46Z",
+    "state": "完成"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_dear_kllj_028.txt"
+    },
+    "translation_csv": {
+      "path": ""
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/dear/kllj/028.csv",
+      "operator_qq": "1513442376",
+      "operator_github": "",
+      "display_id": "1513442376",
+      "display_source": "qq",
+      "timestamp": "2026-06-05T05:15:46Z"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/dear/kllj/028.csv"
+    }
+  },
+  "legacy": {
+    "source_name": "adv_dear_kllj_028.csv"
+  },
+  "github": {
+    "updated_at": "2026-07-21T21:18:20.780925Z"
+  }
+}
