@@ -12,7 +12,7 @@
     "draft_revision": 0,
     "operator_qq": "2156963391",
     "operator_github": "",
-    "display_id": "2156963391",
+    "display_id": "[时轴] 要来一包薯条吗",
     "display_source": "qq",
     "timestamp": "2026-03-15T13:12:29Z",
     "state": "完成"
@@ -24,7 +24,7 @@
     "operator_github": "",
     "display_id": "",
     "display_source": "",
-    "timestamp": "2026-03-15T13:12:29.120347+00:00",
+    "timestamp": "2026-03-15T21:12:29.120347+08:00",
     "state": "待认领"
   },
   "artifacts": {
@@ -35,7 +35,7 @@
       "path": "translated_csv/adv/pstory/001/kllj/after-audition-final-normal-04.csv",
       "operator_qq": "2156963391",
       "operator_github": "",
-      "display_id": "2156963391",
+      "display_id": "[时轴] 要来一包薯条吗",
       "display_source": "qq",
       "timestamp": "2026-03-15T13:12:29Z"
     },

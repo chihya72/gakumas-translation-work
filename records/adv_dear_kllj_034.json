@@ -11,8 +11,8 @@
     "revision": 1,
     "draft_revision": 0,
     "operator_qq": "1513442376",
-    "operator_github": "",
-    "display_id": "1513442376",
+    "operator_github": "kkdou3",
+    "display_id": "悸动",
     "display_source": "qq",
     "timestamp": "2026-06-05T07:46:45Z",
     "state": "完成"
@@ -21,8 +21,8 @@
     "revision": 1,
     "draft_revision": 0,
     "operator_qq": "1513442376",
-    "operator_github": "",
-    "display_id": "1513442376",
+    "operator_github": "kkdou3",
+    "display_id": "悸动",
     "display_source": "qq",
     "timestamp": "2026-06-05T18:17:10Z",
     "state": "完成"
@@ -34,16 +34,16 @@
     "translation_csv": {
       "path": "translated_csv/adv/dear/kllj/034.csv",
       "operator_qq": "1513442376",
-      "operator_github": "",
-      "display_id": "1513442376",
+      "operator_github": "kkdou3",
+      "display_id": "悸动",
       "display_source": "qq",
       "timestamp": "2026-06-05T07:46:45Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/dear/kllj/034.csv",
       "operator_qq": "1513442376",
-      "operator_github": "",
-      "display_id": "1513442376",
+      "operator_github": "kkdou3",
+      "display_id": "悸动",
       "display_source": "qq",
       "timestamp": "2026-06-05T18:17:10Z"
     },
