@@ -25,7 +25,7 @@
     "operator_github": "",
     "display_id": "煉金術式",
     "display_source": "qq",
-    "timestamp": "2026-07-21T20:35:22.425909+00:00"
+    "timestamp": "2026-07-21T04:45:02Z"
   },
   "artifacts": {
     "source_csv": {
@@ -43,11 +43,11 @@
       "operator_github": "",
       "display_id": "煉金術式",
       "display_source": "qq",
-      "timestamp": "2026-07-21T20:35:22.425589+00:00"
+      "timestamp": "2026-07-21T04:45:02Z"
     }
   },
   "github": {
     "issue_number": 111,
-    "updated_at": "2026-07-21T20:35:22.425589+00:00"
+    "updated_at": "2026-07-21T04:45:02Z"
   }
 }
