@@ -1,18 +1,19 @@
 {
   "chihya72": {
     "name": "pm",
-    "role": "admin",
-    "qq": "1072536235"
+    "role": "admin"
   },
   "dante-rian": {
     "name": "丹特丽安",
-    "role": "user",
-    "qq": "1262703928"
+    "role": "user"
+  },
+  "GAKUKAKANG": {
+    "name": "框框",
+    "role": "user"
   },
   "kitsurato": {
     "name": "病毒",
-    "role": "admin",
-    "qq": "769185426"
+    "role": "admin"
   },
   "kkdou3": {
     "name": "悸动",
@@ -20,16 +21,10 @@
   },
   "klsddd": {
     "name": "mk2",
-    "role": "user",
-    "qq": "1009440971"
+    "role": "user"
   },
   "lawsonlisz": {
     "name": "Lawson",
-    "role": "user",
-    "qq": "1303983858"
-  },
-  "GAKUKAKANG": {
-    "name": "口口",
     "role": "user"
   }
 }
