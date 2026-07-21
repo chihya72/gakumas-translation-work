@@ -3,6 +3,10 @@
     "name": "pm",
     "role": "admin"
   },
+  "dante-rian": {
+    "name": "丹特丽安",
+    "role": "user"
+  },
   "kitsurato": {
     "name": "病毒",
     "role": "admin"
@@ -19,8 +23,8 @@
     "name": "Lawson",
     "role": "user"
   },
-  "dante-rian": {
-    "name": "丹特丽安",
+  "GAKUKAKANG": {
+    "name": "口口",
     "role": "user"
   }
 }
