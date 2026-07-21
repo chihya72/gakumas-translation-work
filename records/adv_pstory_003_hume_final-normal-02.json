@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_pstory_003_hume_final-normal-02",
+  "batch": "",
+  "category": "adv",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 0,
+    "draft_revision": 0,
+    "state": "待认领",
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-07-21T19:30:32Z"
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0,
+    "state": "待认领",
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-07-21T19:30:32Z"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_pstory_003_hume_final-normal-02.txt"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/pstory/003/hume/final-normal-02.csv"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/pstory/003/hume/final-normal-02.csv"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/pstory/003/hume/final-normal-02.csv"
+    }
+  },
+  "github": {
+    "issue_number": 121,
+    "updated_at": "2026-07-21T19:30:32Z"
+  }
+}
