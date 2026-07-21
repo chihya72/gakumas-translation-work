@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
-    "operator_qq": "",
-    "operator_github": "klsddd",
-    "display_id": "klsddd",
-    "display_source": "github",
-    "timestamp": "2026-07-20T06:53:55Z"
+    "state": "完成",
+    "operator_qq": "871013773",
+    "operator_github": "GAKUKAKANG",
+    "display_id": "框框",
+    "display_source": "qq",
+    "timestamp": "2026-07-21T19:08:54.759784+00:00"
   },
   "proofread": {
     "revision": 0,
@@ -35,7 +35,12 @@
       "path": "ai_csv/adv/csprt-3-0104/02.csv"
     },
     "translation_csv": {
-      "path": "translated_csv/adv/csprt-3-0104/02.csv"
+      "path": "translated_csv/adv/csprt-3-0104/02.csv",
+      "operator_qq": "871013773",
+      "operator_github": "GAKUKAKANG",
+      "display_id": "框框",
+      "display_source": "qq",
+      "timestamp": "2026-07-21T19:08:54.759784+00:00"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/csprt-3-0104/02.csv"
