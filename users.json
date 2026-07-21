@@ -1,41 +1,42 @@
 {
-  "chihya72": {
-    "name": "pm",
-    "role": "admin",
-    "qq": "1072536235"
+  "pm": {
+    "github": "chihya72",
+    "qq": "1072536235",
+    "role": "admin"
   },
-  "dante-rian": {
-    "name": "丹特丽安",
-    "role": "user",
-    "qq": "1262703928"
-  },
-  "GAKUKAKANG": {
-    "name": "框框",
-    "role": "user",
-    "qq": "871013773"
-  },
-  "kitsurato": {
-    "name": "病毒",
-    "role": "admin",
-    "qq": "769185426"
-  },
-  "kkdou3": {
-    "name": "悸动",
+  "丹特丽安": {
+    "github": "dante-rian",
+    "qq": "1262703928",
     "role": "user"
   },
-  "klsddd": {
-    "name": "mk2",
-    "role": "user",
-    "qq": "1009440971"
+  "框框": {
+    "github": "GAKUKAKANG",
+    "qq": "871013773",
+    "role": "user"
   },
-  "lawsonlisz": {
-    "name": "Lawson",
-    "role": "user",
-    "qq": "1303983858"
+  "病毒": {
+    "github": "kitsurato",
+    "qq": "769185426",
+    "role": "admin"
   },
-  "qq-948279048": {
-    "name": "煉金術式",
-    "role": "user",
-    "qq": "948279048"
+  "悸动": {
+    "github": "kkdou3",
+    "qq": "",
+    "role": "user"
+  },
+  "mk2": {
+    "github": "klsddd",
+    "qq": "1009440971",
+    "role": "user"
+  },
+  "Lawson": {
+    "github": "lawsonlisz",
+    "qq": "1303983858",
+    "role": "user"
+  },
+  "煉金術式": {
+    "github": "",
+    "qq": "948279048",
+    "role": "user"
   }
 }
