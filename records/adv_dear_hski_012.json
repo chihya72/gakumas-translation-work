@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_dear_hski_012",
+  "batch": "",
+  "category": "adv",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 0,
+    "draft_revision": 0,
+    "state": "待认领",
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-07-17T12:18:03Z"
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0,
+    "state": "待认领",
+    "operator_qq": "",
+    "operator_github": "",
+    "display_id": "",
+    "display_source": "",
+    "timestamp": "2026-07-17T12:18:03Z"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_dear_hski_012.txt"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/dear/hski/012.csv"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/dear/hski/012.csv"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/dear/hski/012.csv"
+    }
+  },
+  "github": {
+    "issue_number": 47,
+    "updated_at": "2026-07-17T12:18:03Z"
+  }
+}

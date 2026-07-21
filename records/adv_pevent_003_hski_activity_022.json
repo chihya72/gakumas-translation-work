@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_pevent_003_hski_activity_022",
+  "batch": "",
+  "category": "adv",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "",
+    "operator_github": "deepseek-v4-pro",
+    "display_id": "deepseek-v4-pro",
+    "display_source": "github",
+    "timestamp": "2026-07-20T06:56:24Z"
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0,
+    "state": "进行中",
+    "operator_qq": "",
+    "operator_github": "klsddd",
+    "display_id": "klsddd",
+    "display_source": "github",
+    "timestamp": "2026-07-20T06:56:24Z"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_pevent_003_hski_activity_022.txt"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/pevent/003/hski/activity/022.csv"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/pevent/003/hski/activity/022.csv"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/pevent/003/hski/activity/022.csv"
+    }
+  },
+  "github": {
+    "issue_number": 107,
+    "updated_at": "2026-07-20T06:56:24Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_cidol-hume-3-018_02",
+  "batch": "",
+  "category": "adv",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "",
+    "operator_github": "chihya72",
+    "display_id": "chihya72",
+    "display_source": "github",
+    "timestamp": "2026-07-09T06:25:55Z"
+  },
+  "proofread": {
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "",
+    "operator_github": "klsddd",
+    "display_id": "klsddd",
+    "display_source": "github",
+    "timestamp": "2026-07-09T06:25:55Z"
+  },
+  "artifacts": {
+    "source_csv": {
+      "path": "raw_txt/adv_cidol-hume-3-018_02.txt"
+    },
+    "machine_csv": {
+      "path": "ai_csv/adv/cidol-hume-3-018/02.csv"
+    },
+    "translation_csv": {
+      "path": "translated_csv/adv/cidol-hume-3-018/02.csv"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/cidol-hume-3-018/02.csv"
+    }
+  },
+  "github": {
+    "issue_number": 16,
+    "updated_at": "2026-07-09T06:25:55Z"
+  }
+}
