@@ -19,7 +19,7 @@
   },
   "proofread": {
     "revision": 0,
-    "draft_revision": 0,
+    "draft_revision": 2,
     "state": "进行中",
     "operator_qq": "1072536235",
     "operator_github": "chihya72",
@@ -44,10 +44,19 @@
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/pstory/003/hski/final-failure-01.csv"
+    },
+    "proofread_draft": {
+      "path": "proofread_draft/adv/pstory/003/hski/final-failure-01.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "github",
+      "based_on_revision": 0,
+      "timestamp": "2026-07-22T18:20:08Z"
     }
   },
   "github": {
     "issue_number": 119,
-    "updated_at": "2026-07-22T17:30:14Z"
+    "updated_at": "2026-07-22T18:20:08Z"
   }
 }
