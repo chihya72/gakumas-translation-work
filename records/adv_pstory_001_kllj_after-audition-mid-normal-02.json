@@ -40,7 +40,7 @@
       "timestamp": "2026-03-15T13:12:31Z"
     },
     "proofread_csv": {
-      "path": "resources/csv/adv_pstory_001_kllj_after-audition-mid-normal-02.csv"
+      "path": "proofread_csv/adv/pstory/001/kllj/after-audition-mid-normal-02.csv"
     },
     "machine_csv": {
       "path": "ai_csv/adv/pstory/001/kllj/after-audition-mid-normal-02.csv"
