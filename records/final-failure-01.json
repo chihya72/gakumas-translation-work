@@ -13,7 +13,7 @@
   },
   "proofread": {
     "revision": 0,
-    "draft_revision": 1
+    "draft_revision": 2
   },
   "artifacts": {
     "proofread_draft": {
@@ -23,10 +23,10 @@
       "display_id": "pm",
       "display_source": "github",
       "based_on_revision": 0,
-      "timestamp": "2026-07-22T18:08:02Z"
+      "timestamp": "2026-07-22T18:20:08Z"
     }
   },
   "github": {
-    "updated_at": "2026-07-22T18:08:02Z"
+    "updated_at": "2026-07-22T18:20:08Z"
   }
 }
