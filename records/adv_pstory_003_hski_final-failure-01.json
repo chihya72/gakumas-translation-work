@@ -10,12 +10,12 @@
   "translation": {
     "revision": 0,
     "draft_revision": 0,
-    "state": "待认领",
-    "operator_qq": "",
-    "operator_github": "",
-    "display_id": "",
-    "display_source": "",
-    "timestamp": "2026-07-21T19:30:30Z"
+    "state": "进行中",
+    "operator_qq": "1072536235",
+    "operator_github": "chihya72",
+    "display_id": "pm",
+    "display_source": "qq",
+    "timestamp": "2026-07-22T06:27:36.492664+00:00"
   },
   "proofread": {
     "revision": 0,
@@ -43,6 +43,6 @@
   },
   "github": {
     "issue_number": 119,
-    "updated_at": "2026-07-21T19:30:30Z"
+    "updated_at": "2026-07-22T06:27:36.492803+00:00"
   }
 }
