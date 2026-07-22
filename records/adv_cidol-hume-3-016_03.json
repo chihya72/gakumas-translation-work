@@ -32,7 +32,7 @@
       "path": "raw_txt/adv_cidol-hume-3-016_03.txt"
     },
     "translation_csv": {
-      "path": "",
+      "path": "translated_csv/adv/cidol-hume-3-016/03.csv",
       "operator_qq": "1430780851",
       "operator_github": "",
       "display_id": "纱谱",

@@ -32,7 +32,7 @@
       "path": "raw_txt/adv_cidol-hski-3-017_03.txt"
     },
     "translation_csv": {
-      "path": "",
+      "path": "translated_csv/adv/cidol-hski-3-017/03.csv",
       "operator_qq": "948279048",
       "operator_github": "",
       "display_id": "煉金術式",

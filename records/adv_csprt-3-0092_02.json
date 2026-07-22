@@ -32,7 +32,7 @@
       "path": "raw_txt/adv_csprt-3-0092_02.txt"
     },
     "translation_csv": {
-      "path": "",
+      "path": "translated_csv/adv/csprt-3-0092/02.csv",
       "operator_qq": "948279048",
       "operator_github": "",
       "display_id": "煉金術式",

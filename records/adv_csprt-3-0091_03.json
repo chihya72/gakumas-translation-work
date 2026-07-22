@@ -32,7 +32,7 @@
       "path": "raw_txt/adv_csprt-3-0091_03.txt"
     },
     "translation_csv": {
-      "path": "",
+      "path": "translated_csv/adv/csprt-3-0091/03.csv",
       "operator_qq": "769185426",
       "operator_github": "kitsurato",
       "display_id": "病毒",

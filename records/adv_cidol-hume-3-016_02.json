@@ -32,7 +32,7 @@
       "path": "raw_txt/adv_cidol-hume-3-016_02.txt"
     },
     "translation_csv": {
-      "path": "",
+      "path": "translated_csv/adv/cidol-hume-3-016/02.csv",
       "operator_qq": "824973995",
       "operator_github": "",
       "display_id": "四季ナツメ",
