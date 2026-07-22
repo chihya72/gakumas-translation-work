@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "operator_qq": "",
-    "operator_github": "",
-    "display_id": "",
-    "display_source": "",
-    "timestamp": "2026-04-09T15:08:34.099951+00:00",
-    "state": "待认领"
+    "operator_qq": "769185426",
+    "operator_github": "kitsurato",
+    "display_id": "病毒",
+    "display_source": "qq",
+    "timestamp": "2026-04-09T15:08:34Z",
+    "state": "完成"
   },
   "proofread": {
     "revision": 1,
@@ -32,7 +32,12 @@
       "path": "raw_txt/adv_csprt-3-0094_02.txt"
     },
     "translation_csv": {
-      "path": ""
+      "path": "",
+      "operator_qq": "769185426",
+      "operator_github": "kitsurato",
+      "display_id": "病毒",
+      "display_source": "qq",
+      "timestamp": "2026-04-09T15:08:34Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/csprt-3-0094/02.csv",

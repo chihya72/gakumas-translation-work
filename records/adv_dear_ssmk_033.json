@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "operator_qq": "",
+    "operator_qq": "752720409",
     "operator_github": "",
-    "display_id": "",
-    "display_source": "",
-    "timestamp": "2026-06-05T15:34:11.455795+08:00",
-    "state": "待认领"
+    "display_id": "【翻】ノシ",
+    "display_source": "qq",
+    "timestamp": "2026-06-05T07:34:11Z",
+    "state": "完成"
   },
   "proofread": {
     "revision": 1,
@@ -32,7 +32,12 @@
       "path": "raw_txt/adv_dear_ssmk_033.txt"
     },
     "translation_csv": {
-      "path": ""
+      "path": "",
+      "operator_qq": "752720409",
+      "operator_github": "",
+      "display_id": "【翻】ノシ",
+      "display_source": "qq",
+      "timestamp": "2026-06-05T07:34:11Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/dear/ssmk/033.csv",

@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "operator_qq": "",
+    "operator_qq": "1430780851",
     "operator_github": "",
-    "display_id": "",
-    "display_source": "",
-    "timestamp": "2026-03-02T23:39:04.421271+08:00",
-    "state": "待认领"
+    "display_id": "纱谱",
+    "display_source": "qq",
+    "timestamp": "2026-03-02T15:39:04Z",
+    "state": "完成"
   },
   "proofread": {
     "revision": 1,
@@ -32,7 +32,12 @@
       "path": "raw_txt/adv_cidol-hume-3-016_01.txt"
     },
     "translation_csv": {
-      "path": ""
+      "path": "",
+      "operator_qq": "1430780851",
+      "operator_github": "",
+      "display_id": "纱谱",
+      "display_source": "qq",
+      "timestamp": "2026-03-02T15:39:04Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/cidol-hume-3-016/01.csv",

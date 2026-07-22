@@ -11,11 +11,11 @@
     "revision": 1,
     "draft_revision": 0,
     "state": "完成",
-    "operator_qq": "",
-    "operator_github": "deepseek-v4-pro",
-    "display_id": "deepseek-v4-pro",
-    "display_source": "github",
-    "timestamp": "2026-07-20T05:04:22Z"
+    "operator_qq": "948279048",
+    "operator_github": "",
+    "display_id": "煉金術式",
+    "display_source": "qq",
+    "timestamp": "2026-07-20T07:51:31Z"
   },
   "proofread": {
     "revision": 1,
@@ -35,7 +35,12 @@
       "path": "ai_csv/adv/cidol-hski-3-018/03.csv"
     },
     "translation_csv": {
-      "path": "translated_csv/adv/cidol-hski-3-018/03.csv"
+      "path": "translated_csv/adv/cidol-hski-3-018/03.csv",
+      "operator_qq": "948279048",
+      "operator_github": "",
+      "display_id": "煉金術式",
+      "display_source": "qq",
+      "timestamp": "2026-07-20T07:51:31Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/cidol-hski-3-018/03.csv",

@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "待认领",
-    "operator_qq": "",
+    "state": "完成",
+    "operator_qq": "948279048",
     "operator_github": "",
-    "display_id": "",
-    "display_source": "",
-    "timestamp": "2026-07-17T11:28:48Z"
+    "display_id": "煉金術式",
+    "display_source": "qq",
+    "timestamp": "2026-07-18T11:30:32Z"
   },
   "proofread": {
     "revision": 1,
@@ -35,7 +35,12 @@
       "path": "ai_csv/adv/dear/hski/028.csv"
     },
     "translation_csv": {
-      "path": "translated_csv/adv/dear/hski/028.csv"
+      "path": "translated_csv/adv/dear/hski/028.csv",
+      "operator_qq": "948279048",
+      "operator_github": "",
+      "display_id": "煉金術式",
+      "display_source": "qq",
+      "timestamp": "2026-07-18T11:30:32Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/dear/hski/028.csv",

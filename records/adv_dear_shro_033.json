@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "operator_qq": "",
-    "operator_github": "",
-    "display_id": "",
-    "display_source": "",
-    "timestamp": "2026-05-25T11:22:53.613705+00:00",
-    "state": "待认领"
+    "operator_qq": "769185426",
+    "operator_github": "kitsurato",
+    "display_id": "病毒",
+    "display_source": "qq",
+    "timestamp": "2026-05-25T11:22:53Z",
+    "state": "完成"
   },
   "proofread": {
     "revision": 1,
@@ -32,7 +32,12 @@
       "path": "raw_txt/adv_dear_shro_033.txt"
     },
     "translation_csv": {
-      "path": ""
+      "path": "",
+      "operator_qq": "769185426",
+      "operator_github": "kitsurato",
+      "display_id": "病毒",
+      "display_source": "qq",
+      "timestamp": "2026-05-25T11:22:53Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/dear/shro/033.csv",

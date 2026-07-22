@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "operator_qq": "",
-    "operator_github": "",
-    "display_id": "",
-    "display_source": "",
-    "timestamp": "2026-05-25T15:51:20.062973+00:00",
-    "state": "待认领"
+    "operator_qq": "769185426",
+    "operator_github": "kitsurato",
+    "display_id": "病毒",
+    "display_source": "qq",
+    "timestamp": "2026-05-25T15:51:20Z",
+    "state": "完成"
   },
   "proofread": {
     "revision": 1,
@@ -32,7 +32,12 @@
       "path": "raw_txt/adv_cidol-shro-3-018_03.txt"
     },
     "translation_csv": {
-      "path": ""
+      "path": "",
+      "operator_qq": "769185426",
+      "operator_github": "kitsurato",
+      "display_id": "病毒",
+      "display_source": "qq",
+      "timestamp": "2026-05-25T15:51:20Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/cidol-shro-3-018/03.csv",
