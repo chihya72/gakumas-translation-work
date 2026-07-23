@@ -11,11 +11,11 @@
     "revision": 0,
     "draft_revision": 0,
     "state": "进行中",
-    "operator_qq": "",
-    "operator_github": "klsddd",
-    "display_id": "mk2",
+    "operator_qq": "1072536235",
+    "operator_github": "chihya72",
+    "display_id": "pm",
     "display_source": "github",
-    "timestamp": "2026-07-13T01:24:31Z"
+    "timestamp": "2026-07-23T01:00:45.951Z"
   },
   "proofread": {
     "revision": 0,
@@ -43,6 +43,6 @@
   },
   "github": {
     "issue_number": 27,
-    "updated_at": "2026-07-13T01:24:31Z"
+    "updated_at": "2026-07-23T01:00:45.951Z"
   }
 }
