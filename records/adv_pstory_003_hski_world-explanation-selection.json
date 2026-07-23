@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "待认领",
-    "operator_qq": "",
-    "operator_github": "",
-    "display_id": "",
-    "display_source": "",
-    "timestamp": "2026-07-21T19:30:31Z"
+    "state": "完成",
+    "operator_qq": "1072536235",
+    "operator_github": "chihya72",
+    "display_id": "pm",
+    "display_source": "github",
+    "timestamp": "2026-07-23T04:54:41Z"
   },
   "proofread": {
     "revision": 0,
@@ -35,7 +35,12 @@
       "path": "ai_csv/adv/pstory/003/hski/world-explanation-selection.csv"
     },
     "translation_csv": {
-      "path": "translated_csv/adv/pstory/003/hski/world-explanation-selection.csv"
+      "path": "translated_csv/adv/pstory/003/hski/world-explanation-selection.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "github",
+      "timestamp": "2026-07-23T04:54:41Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/pstory/003/hski/world-explanation-selection.csv"
@@ -43,6 +48,6 @@
   },
   "github": {
     "issue_number": 120,
-    "updated_at": "2026-07-21T19:30:31Z"
+    "updated_at": "2026-07-23T04:54:41Z"
   }
 }
