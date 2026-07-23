@@ -18,14 +18,14 @@
     "timestamp": "2026-07-23T05:01:44Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
     "state": "完成",
     "operator_qq": "1072536235",
     "operator_github": "chihya72",
     "display_id": "pm",
-    "display_source": "",
-    "timestamp": "2026-07-23T05:04:07.707Z"
+    "display_source": "github",
+    "timestamp": "2026-07-23T06:01:29Z"
   },
   "artifacts": {
     "source_csv": {
@@ -43,11 +43,16 @@
       "timestamp": "2026-07-23T05:01:44Z"
     },
     "proofread_csv": {
-      "path": "proofread_csv/adv/pstory/003/hume/selection-normal-02.csv"
+      "path": "proofread_csv/adv/pstory/003/hume/selection-normal-02.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "github",
+      "timestamp": "2026-07-23T06:01:29Z"
     }
   },
   "github": {
     "issue_number": 122,
-    "updated_at": "2026-07-23T05:04:07.707Z"
+    "updated_at": "2026-07-23T06:01:29Z"
   }
 }
