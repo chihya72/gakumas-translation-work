@@ -1,48 +1,8 @@
 {
-  "要来一包薯条吗": {
-    "github": "",
-    "role": "user",
-    "qq": "2156963391"
-  },
   "阿朔 さく": {
     "github": "",
     "role": "user",
     "qq": "3209564291"
-  },
-  "Aimyon": {
-    "github": "",
-    "role": "user",
-    "qq": "2642287318"
-  },
-  "L R": {
-    "github": "",
-    "role": "user",
-    "qq": "2511462508"
-  },
-  "ノシ": {
-    "github": "",
-    "role": "user",
-    "qq": "752720409"
-  },
-  "フォーラ": {
-    "github": "",
-    "role": "user",
-    "qq": "510746890"
-  },
-  "Aquaノ美兎": {
-    "github": "",
-    "role": "user",
-    "qq": "910636071"
-  },
-  "yiari": {
-    "github": "",
-    "role": "user",
-    "qq": "206745624"
-  },
-  "芹菜P": {
-    "github": "",
-    "role": "user",
-    "qq": "2241439211"
   },
   "病毒": {
     "github": "kitsurato",
@@ -69,7 +29,7 @@
     "role": "user",
     "qq": "2423883934"
   },
-  "悸动": {
+  "悸动Douki": {
     "github": "kkdou3",
     "role": "user",
     "qq": "1513442376"
@@ -89,6 +49,11 @@
     "role": "user",
     "qq": "798478109"
   },
+  "芹菜P": {
+    "github": "",
+    "role": "user",
+    "qq": "2241439211"
+  },
   "纱谱": {
     "github": "",
     "role": "user",
@@ -104,10 +69,25 @@
     "role": "user",
     "qq": "2253982911"
   },
+  "要来一包薯条吗": {
+    "github": "",
+    "role": "user",
+    "qq": "2156963391"
+  },
   "在下狗头": {
     "github": "",
     "role": "user",
     "qq": "2923937518"
+  },
+  "Aimyon": {
+    "github": "",
+    "role": "user",
+    "qq": "2642287318"
+  },
+  "Aquaノ美兎": {
+    "github": "",
+    "role": "user",
+    "qq": "910636071"
   },
   "DZ": {
     "github": "",
@@ -123,6 +103,11 @@
     "github": "",
     "role": "user",
     "qq": "2434046831"
+  },
+  "L R": {
+    "github": "",
+    "role": "user",
+    "qq": "2511462508"
   },
   "Lawson": {
     "github": "lawsonlisz",
@@ -148,5 +133,20 @@
     "github": "",
     "role": "user",
     "qq": "861773550"
+  },
+  "yiari": {
+    "github": "",
+    "role": "user",
+    "qq": "206745624"
+  },
+  "ノシ": {
+    "github": "",
+    "role": "user",
+    "qq": "752720409"
+  },
+  "フォーラ": {
+    "github": "",
+    "role": "user",
+    "qq": "510746890"
   }
 }
