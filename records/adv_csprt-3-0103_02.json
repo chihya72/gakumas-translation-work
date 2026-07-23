@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "1072536235",
     "operator_github": "chihya72",
     "display_id": "pm",
     "display_source": "github",
-    "timestamp": "2026-07-23T01:00:40.279Z"
+    "timestamp": "2026-07-23T02:04:54Z"
   },
   "proofread": {
     "revision": 0,
@@ -35,7 +35,12 @@
       "path": "ai_csv/adv/csprt-3-0103/02.csv"
     },
     "translation_csv": {
-      "path": "translated_csv/adv/csprt-3-0103/02.csv"
+      "path": "translated_csv/adv/csprt-3-0103/02.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "github",
+      "timestamp": "2026-07-23T02:04:54Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/csprt-3-0103/02.csv"
@@ -43,6 +48,6 @@
   },
   "github": {
     "issue_number": 26,
-    "updated_at": "2026-07-23T01:00:40.279Z"
+    "updated_at": "2026-07-23T02:04:54Z"
   }
 }
