@@ -18,14 +18,14 @@
     "timestamp": "2026-07-21T05:56:03Z"
   },
   "proofread": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
-    "operator_qq": "1009440971",
-    "operator_github": "klsddd",
-    "display_id": "mk2",
+    "operator_qq": "1072536235",
+    "operator_github": "chihya72",
+    "display_id": "pm",
     "display_source": "github",
-    "timestamp": "2026-07-23T11:26:38Z"
+    "timestamp": "2026-07-23T12:29:14Z"
   },
   "artifacts": {
     "source_csv": {
@@ -39,15 +39,15 @@
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/dear/hume/037.csv",
-      "operator_qq": "1009440971",
-      "operator_github": "klsddd",
-      "display_id": "mk2",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
       "display_source": "github",
-      "timestamp": "2026-07-23T11:26:38Z"
+      "timestamp": "2026-07-23T12:29:14Z"
     }
   },
   "github": {
     "issue_number": 105,
-    "updated_at": "2026-07-23T11:26:38Z"
+    "updated_at": "2026-07-23T12:29:14Z"
   }
 }
