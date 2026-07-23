@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
     "operator_qq": "1072536235",
     "operator_github": "chihya72",
     "display_id": "pm",
     "display_source": "github",
-    "timestamp": "2026-07-23T00:38:27Z"
+    "timestamp": "2026-07-23T00:52:39Z"
   },
   "proofread": {
     "revision": 0,
@@ -40,7 +40,7 @@
       "operator_github": "chihya72",
       "display_id": "pm",
       "display_source": "github",
-      "timestamp": "2026-07-23T00:38:27Z"
+      "timestamp": "2026-07-23T00:52:39Z"
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/csprt-3-0102/01.csv"
@@ -48,6 +48,6 @@
   },
   "github": {
     "issue_number": 22,
-    "updated_at": "2026-07-23T00:38:27Z"
+    "updated_at": "2026-07-23T00:52:39Z"
   }
 }
