@@ -20,12 +20,12 @@
   "proofread": {
     "revision": 0,
     "draft_revision": 0,
-    "state": "待认领",
-    "operator_qq": "",
-    "operator_github": "",
-    "display_id": "",
+    "state": "完成",
+    "operator_qq": "1072536235",
+    "operator_github": "chihya72",
+    "display_id": "pm",
     "display_source": "",
-    "timestamp": "2026-07-21T19:30:28Z"
+    "timestamp": "2026-07-23T05:03:46.175Z"
   },
   "artifacts": {
     "source_csv": {
@@ -48,6 +48,6 @@
   },
   "github": {
     "issue_number": 117,
-    "updated_at": "2026-07-23T04:47:27Z"
+    "updated_at": "2026-07-23T05:03:46.175Z"
   }
 }
