@@ -18,14 +18,14 @@
     "timestamp": "2026-07-20T07:32:41Z"
   },
   "proofread": {
-    "revision": 3,
+    "revision": 4,
     "draft_revision": 0,
     "state": "完成",
     "operator_qq": "1072536235",
     "operator_github": "chihya72",
     "display_id": "pm",
     "display_source": "github",
-    "timestamp": "2026-07-23T10:00:59Z"
+    "timestamp": "2026-07-23T11:26:00Z"
   },
   "artifacts": {
     "source_csv": {
@@ -43,11 +43,11 @@
       "operator_github": "chihya72",
       "display_id": "pm",
       "display_source": "github",
-      "timestamp": "2026-07-23T10:00:59Z"
+      "timestamp": "2026-07-23T11:26:00Z"
     }
   },
   "github": {
     "issue_number": 113,
-    "updated_at": "2026-07-23T10:00:59Z"
+    "updated_at": "2026-07-23T11:26:00Z"
   }
 }
