@@ -18,14 +18,14 @@
     "timestamp": "2026-07-23T01:34:07Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "待认领",
-    "operator_qq": "",
-    "operator_github": "",
-    "display_id": "",
-    "display_source": "",
-    "timestamp": "2026-07-13T01:24:28Z"
+    "state": "完成",
+    "operator_qq": "1072536235",
+    "operator_github": "chihya72",
+    "display_id": "pm",
+    "display_source": "github",
+    "timestamp": "2026-07-23T02:08:40Z"
   },
   "artifacts": {
     "source_csv": {
@@ -43,11 +43,16 @@
       "timestamp": "2026-07-23T01:34:07Z"
     },
     "proofread_csv": {
-      "path": "proofread_csv/adv/csprt-3-0103/01.csv"
+      "path": "proofread_csv/adv/csprt-3-0103/01.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "github",
+      "timestamp": "2026-07-23T02:08:40Z"
     }
   },
   "github": {
     "issue_number": 25,
-    "updated_at": "2026-07-23T01:34:07Z"
+    "updated_at": "2026-07-23T02:08:40Z"
   }
 }
