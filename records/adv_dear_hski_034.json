@@ -18,14 +18,14 @@
     "timestamp": "2026-07-18T18:03:48Z"
   },
   "proofread": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
-    "operator_qq": "",
-    "operator_github": "qq-948279048",
-    "display_id": "qq-948279048",
-    "display_source": "github",
-    "timestamp": "2026-07-23T11:25:35Z"
+    "operator_qq": "948279048",
+    "operator_github": "",
+    "display_id": "煉金術式",
+    "display_source": "qq",
+    "timestamp": "2026-07-24T02:47:11Z"
   },
   "artifacts": {
     "source_csv": {
@@ -44,15 +44,15 @@
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/dear/hski/034.csv",
-      "operator_qq": "",
-      "operator_github": "qq-948279048",
-      "display_id": "qq-948279048",
-      "display_source": "github",
-      "timestamp": "2026-07-23T11:25:35Z"
+      "operator_qq": "948279048",
+      "operator_github": "",
+      "display_id": "煉金術式",
+      "display_source": "qq",
+      "timestamp": "2026-07-24T02:47:11Z"
     }
   },
   "github": {
     "issue_number": 68,
-    "updated_at": "2026-07-23T11:25:35Z"
+    "updated_at": "2026-07-24T02:47:11Z"
   }
 }
