@@ -8,21 +8,30 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "871013773",
     "operator_github": "GAKUKAKANG",
     "display_id": "框框",
     "display_source": "github",
-    "timestamp": "2026-07-30T10:12:36Z"
+    "timestamp": "2026-07-30T10:20:52Z"
   },
   "proofread": {
     "revision": 0,
     "draft_revision": 0
   },
-  "artifacts": {},
+  "artifacts": {
+    "translation_csv": {
+      "path": "translated_csv/adv/csprt-3-0108/01.csv",
+      "operator_qq": "871013773",
+      "operator_github": "GAKUKAKANG",
+      "display_id": "框框",
+      "display_source": "github",
+      "timestamp": "2026-07-30T10:20:52Z"
+    }
+  },
   "github": {
-    "updated_at": "2026-07-30T10:12:36Z"
+    "updated_at": "2026-07-30T10:20:52Z"
   }
 }
