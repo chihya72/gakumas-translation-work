@@ -18,14 +18,14 @@
     "timestamp": "2026-08-13T06:38:25Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "1009440971",
     "operator_github": "klsddd",
     "display_id": "mk2",
     "display_source": "github",
-    "timestamp": "2026-08-13T06:38:39Z"
+    "timestamp": "2026-08-13T06:38:52Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -35,9 +35,17 @@
       "display_id": "mk2",
       "display_source": "github",
       "timestamp": "2026-08-13T06:38:25Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/dear/atbm/025.csv",
+      "operator_qq": "1009440971",
+      "operator_github": "klsddd",
+      "display_id": "mk2",
+      "display_source": "github",
+      "timestamp": "2026-08-13T06:38:52Z"
     }
   },
   "github": {
-    "updated_at": "2026-08-13T06:38:39Z"
+    "updated_at": "2026-08-13T06:38:52Z"
   }
 }
