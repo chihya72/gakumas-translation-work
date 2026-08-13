@@ -18,14 +18,14 @@
     "timestamp": "2026-08-13T06:54:46Z"
   },
   "proofread": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
     "operator_qq": "1009440971",
     "operator_github": "klsddd",
     "display_id": "mk2",
     "display_source": "github",
-    "timestamp": "2026-08-13T07:15:11Z"
+    "timestamp": "2026-08-13T07:15:44Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -42,10 +42,10 @@
       "operator_github": "klsddd",
       "display_id": "mk2",
       "display_source": "github",
-      "timestamp": "2026-08-13T07:15:11Z"
+      "timestamp": "2026-08-13T07:15:44Z"
     }
   },
   "github": {
-    "updated_at": "2026-08-13T07:15:11Z"
+    "updated_at": "2026-08-13T07:15:44Z"
   }
 }
