@@ -8,21 +8,30 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "871013773",
     "operator_github": "GAKUKAKANG",
     "display_id": "框框",
     "display_source": "github",
-    "timestamp": "2026-08-16T14:29:27Z"
+    "timestamp": "2026-08-16T15:20:31Z"
   },
   "proofread": {
     "revision": 0,
     "draft_revision": 0
   },
-  "artifacts": {},
+  "artifacts": {
+    "translation_csv": {
+      "path": "translated_csv/adv/event/027/main-03.csv",
+      "operator_qq": "871013773",
+      "operator_github": "GAKUKAKANG",
+      "display_id": "框框",
+      "display_source": "github",
+      "timestamp": "2026-08-16T15:20:31Z"
+    }
+  },
   "github": {
-    "updated_at": "2026-08-16T14:29:27Z"
+    "updated_at": "2026-08-16T15:20:31Z"
   }
 }
