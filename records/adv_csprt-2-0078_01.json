@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_csprt-2-0078_01",
+  "batch": "",
+  "category": "csprt",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "1072536235",
+    "operator_github": "chihya72",
+    "display_id": "pm",
+    "display_source": "github",
+    "timestamp": "2026-08-21T13:14:33Z"
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0
+  },
+  "artifacts": {
+    "translation_csv": {
+      "path": "translated_csv/adv/csprt-2-0078/01.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "github",
+      "timestamp": "2026-08-21T13:14:33Z"
+    }
+  },
+  "github": {
+    "updated_at": "2026-08-21T13:14:33Z"
+  }
+}
