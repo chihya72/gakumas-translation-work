@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_cidol-jsna-3-020_01",
+  "batch": "",
+  "category": "cidol",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "1009440971",
+    "operator_github": "klsddd",
+    "display_id": "mk2",
+    "display_source": "github",
+    "timestamp": "2026-08-24T01:41:12Z"
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0
+  },
+  "artifacts": {
+    "translation_csv": {
+      "path": "translated_csv/adv/cidol-jsna-3-020/01.csv",
+      "operator_qq": "1009440971",
+      "operator_github": "klsddd",
+      "display_id": "mk2",
+      "display_source": "github",
+      "timestamp": "2026-08-24T01:41:12Z"
+    }
+  },
+  "direct_machine_proofread": true,
+  "github": {
+    "updated_at": "2026-08-24T01:41:12Z"
+  }
+}
