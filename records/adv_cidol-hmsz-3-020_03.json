@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_cidol-hmsz-3-020_03",
+  "batch": "",
+  "category": "cidol",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 0,
+    "draft_revision": 1
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0
+  },
+  "artifacts": {
+    "translation_draft": {
+      "path": "translated_draft/adv/cidol-hmsz-3-020/03.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "github",
+      "based_on_revision": 0,
+      "timestamp": "2026-08-25T08:01:04Z"
+    }
+  },
+  "github": {
+    "updated_at": "2026-08-25T08:01:04Z"
+  }
+}
