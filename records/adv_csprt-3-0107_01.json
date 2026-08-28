@@ -18,8 +18,14 @@
     "timestamp": "2026-08-25T18:48:28Z"
   },
   "proofread": {
-    "revision": 0,
-    "draft_revision": 0
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "1009440971",
+    "operator_github": "klsddd",
+    "display_id": "mk2",
+    "display_source": "github",
+    "timestamp": "2026-08-28T05:32:22Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -29,9 +35,17 @@
       "display_id": "pm",
       "display_source": "github",
       "timestamp": "2026-08-25T18:48:28Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/csprt-3-0107/01.csv",
+      "operator_qq": "1009440971",
+      "operator_github": "klsddd",
+      "display_id": "mk2",
+      "display_source": "github",
+      "timestamp": "2026-08-28T05:32:22Z"
     }
   },
   "github": {
-    "updated_at": "2026-08-25T18:48:28Z"
+    "updated_at": "2026-08-28T05:32:22Z"
   }
 }
