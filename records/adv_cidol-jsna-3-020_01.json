@@ -15,11 +15,17 @@
     "operator_github": "klsddd",
     "display_id": "mk2",
     "display_source": "github",
-    "timestamp": "2026-08-24T01:41:12Z"
+    "timestamp": "2026-08-28T05:45:57Z"
   },
   "proofread": {
-    "revision": 0,
-    "draft_revision": 0
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "1009440971",
+    "operator_github": "klsddd",
+    "display_id": "mk2",
+    "display_source": "github",
+    "timestamp": "2026-08-28T05:45:57Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -28,11 +34,18 @@
       "operator_github": "klsddd",
       "display_id": "mk2",
       "display_source": "github",
-      "timestamp": "2026-08-24T01:41:12Z"
+      "timestamp": "2026-08-28T05:45:57Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/cidol-jsna-3-020/01.csv",
+      "operator_qq": "1009440971",
+      "operator_github": "klsddd",
+      "display_id": "mk2",
+      "display_source": "github",
+      "timestamp": "2026-08-28T05:45:57Z"
     }
   },
-  "direct_machine_proofread": true,
   "github": {
-    "updated_at": "2026-08-24T01:41:12Z"
+    "updated_at": "2026-08-28T05:45:57Z"
   }
 }
