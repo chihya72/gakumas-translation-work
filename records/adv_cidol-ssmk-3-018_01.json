@@ -8,21 +8,30 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "752720409",
     "operator_github": "NoshiPchi",
     "display_id": "ノシ",
     "display_source": "github",
-    "timestamp": "2026-09-03T08:40:51Z"
+    "timestamp": "2026-09-03T09:12:37Z"
   },
   "proofread": {
     "revision": 0,
     "draft_revision": 0
   },
-  "artifacts": {},
+  "artifacts": {
+    "translation_csv": {
+      "path": "translated_csv/adv/cidol-ssmk-3-018/01.csv",
+      "operator_qq": "752720409",
+      "operator_github": "NoshiPchi",
+      "display_id": "ノシ",
+      "display_source": "github",
+      "timestamp": "2026-09-03T09:12:37Z"
+    }
+  },
   "github": {
-    "updated_at": "2026-09-03T08:40:51Z"
+    "updated_at": "2026-09-03T09:12:37Z"
   }
 }
