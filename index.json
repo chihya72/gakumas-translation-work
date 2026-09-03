@@ -93,6 +93,11 @@
   "adv_cidol-hume-3-018_02.txt": "./ai_csv/adv/cidol-hume-3-018/02.csv",
   "adv_cidol-amao-3-018_03.txt": "./ai_csv/adv/cidol-amao-3-018/03.csv",
   "adv_cidol-amao-3-018_01.txt": "./ai_csv/adv/cidol-amao-3-018/01.csv",
+  "adv_event_028_main-05.txt": "./ai_csv/adv/event/028/main-05.csv",
+  "adv_event_028_main-01.txt": "./ai_csv/adv/event/028/main-01.csv",
+  "adv_event_028_main-04.txt": "./ai_csv/adv/event/028/main-04.csv",
+  "adv_event_028_main-02.txt": "./ai_csv/adv/event/028/main-02.csv",
+  "adv_event_028_main-03.txt": "./ai_csv/adv/event/028/main-03.csv",
   "adv_event_027_main-05.txt": "./ai_csv/adv/event/027/main-05.csv",
   "adv_event_027_main-01.txt": "./ai_csv/adv/event/027/main-01.csv",
   "adv_event_027_main-04.txt": "./ai_csv/adv/event/027/main-04.csv",
@@ -155,5 +160,8 @@
   "adv_pstory_003_hume_selection-failure-01.txt": "./ai_csv/adv/pstory/003/hume/selection-failure-01.csv",
   "adv_cidol-ttmr-3-021_03.txt": "./ai_csv/adv/cidol-ttmr-3-021/03.csv",
   "adv_cidol-ttmr-3-021_01.txt": "./ai_csv/adv/cidol-ttmr-3-021/01.csv",
-  "adv_cidol-ttmr-3-021_02.txt": "./ai_csv/adv/cidol-ttmr-3-021/02.csv"
+  "adv_cidol-ttmr-3-021_02.txt": "./ai_csv/adv/cidol-ttmr-3-021/02.csv",
+  "adv_csprt-3-0110_03.txt": "./ai_csv/adv/csprt-3-0110/03.csv",
+  "adv_csprt-3-0110_01.txt": "./ai_csv/adv/csprt-3-0110/01.csv",
+  "adv_csprt-3-0110_02.txt": "./ai_csv/adv/csprt-3-0110/02.csv"
 }
