@@ -8,21 +8,30 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "2642287318",
     "operator_github": "Aimyon2333",
     "display_id": "Aimyon",
     "display_source": "github",
-    "timestamp": "2026-09-05T12:18:42Z"
+    "timestamp": "2026-09-05T13:48:22Z"
   },
   "proofread": {
     "revision": 0,
     "draft_revision": 0
   },
-  "artifacts": {},
+  "artifacts": {
+    "translation_csv": {
+      "path": "translated_csv/adv/event/028/main-05.csv",
+      "operator_qq": "2642287318",
+      "operator_github": "Aimyon2333",
+      "display_id": "Aimyon",
+      "display_source": "github",
+      "timestamp": "2026-09-05T13:48:22Z"
+    }
+  },
   "github": {
-    "updated_at": "2026-09-05T12:18:42Z"
+    "updated_at": "2026-09-05T13:48:22Z"
   }
 }
