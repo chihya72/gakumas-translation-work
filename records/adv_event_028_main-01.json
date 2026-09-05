@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
     "operator_qq": "2642287318",
     "operator_github": "Aimyon2333",
     "display_id": "Aimyon",
     "display_source": "github",
-    "timestamp": "2026-09-05T13:11:43Z"
+    "timestamp": "2026-09-05T14:14:46Z"
   },
   "proofread": {
     "revision": 0,
@@ -28,10 +28,10 @@
       "operator_github": "Aimyon2333",
       "display_id": "Aimyon",
       "display_source": "github",
-      "timestamp": "2026-09-05T13:11:43Z"
+      "timestamp": "2026-09-05T14:14:46Z"
     }
   },
   "github": {
-    "updated_at": "2026-09-05T13:11:43Z"
+    "updated_at": "2026-09-05T14:14:46Z"
   }
 }
