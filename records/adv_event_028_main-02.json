@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_event_028_main-02",
+  "batch": "",
+  "category": "event",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 0,
+    "draft_revision": 0,
+    "state": "进行中",
+    "operator_qq": "2642287318",
+    "operator_github": "Aimyon2333",
+    "display_id": "Aimyon",
+    "display_source": "github",
+    "timestamp": "2026-09-05T12:18:13Z"
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0
+  },
+  "artifacts": {},
+  "github": {
+    "updated_at": "2026-09-05T12:18:13Z"
+  }
+}
