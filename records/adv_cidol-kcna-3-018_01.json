@@ -18,8 +18,14 @@
     "timestamp": "2026-09-03T18:51:11Z"
   },
   "proofread": {
-    "revision": 0,
-    "draft_revision": 0
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "1009440971",
+    "operator_github": "klsddd",
+    "display_id": "mk2",
+    "display_source": "github",
+    "timestamp": "2026-09-08T07:27:01Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -29,9 +35,17 @@
       "display_id": "pm",
       "display_source": "github",
       "timestamp": "2026-09-03T18:51:11Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/cidol-kcna-3-018/01.csv",
+      "operator_qq": "1009440971",
+      "operator_github": "klsddd",
+      "display_id": "mk2",
+      "display_source": "github",
+      "timestamp": "2026-09-08T07:27:01Z"
     }
   },
   "github": {
-    "updated_at": "2026-09-03T18:51:11Z"
+    "updated_at": "2026-09-08T07:27:01Z"
   }
 }
