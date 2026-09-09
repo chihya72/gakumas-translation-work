@@ -123,6 +123,7 @@
   "adv_pstory_003_jsna_final-normal-02.txt": "./ai_csv/adv/pstory/003/jsna/final-normal-02.csv",
   "adv_pstory_003_jsna_world-explanation-final.txt": "./ai_csv/adv/pstory/003/jsna/world-explanation-final.csv",
   "adv_pstory_003_jsna_selection-failure-01.txt": "./ai_csv/adv/pstory/003/jsna/selection-failure-01.csv",
+  "adv_pstory_003_jsna_world-explanation-selection.txt": "./ai_csv/adv/pstory/003/jsna/world-explanation-selection.csv",
   "adv_pstory_003_jsna_selection-normal-02.txt": "./ai_csv/adv/pstory/003/jsna/selection-normal-02.csv",
   "adv_pstory_003_hume_final-failure-01.txt": "./ai_csv/adv/pstory/003/hume/final-failure-01.csv",
   "adv_pstory_003_hume_final-normal-02.txt": "./ai_csv/adv/pstory/003/hume/final-normal-02.csv",
