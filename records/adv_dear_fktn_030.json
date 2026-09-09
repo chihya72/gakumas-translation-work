@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_dear_fktn_030",
+  "batch": "",
+  "category": "dear",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 0,
+    "draft_revision": 0,
+    "state": "进行中",
+    "operator_qq": "2423883934",
+    "operator_github": "kuno-kurumi",
+    "display_id": "胡桃",
+    "display_source": "github",
+    "timestamp": "2026-09-09T18:49:20Z"
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0
+  },
+  "artifacts": {},
+  "github": {
+    "updated_at": "2026-09-09T18:49:20Z"
+  }
+}
