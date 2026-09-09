@@ -119,6 +119,7 @@
   "adv_dear_fktn_037-01.txt": "./ai_csv/adv/dear/fktn/037-01.csv",
   "adv_dear_fktn_033.txt": "./ai_csv/adv/dear/fktn/033.csv",
   "adv_dear_shro_037-01.txt": "./ai_csv/adv/dear/shro/037-01.csv",
+  "adv_pstory_003_jsna_final-failure-01.txt": "./ai_csv/adv/pstory/003/jsna/final-failure-01.csv",
   "adv_pstory_003_hume_final-failure-01.txt": "./ai_csv/adv/pstory/003/hume/final-failure-01.csv",
   "adv_pstory_003_hume_final-normal-02.txt": "./ai_csv/adv/pstory/003/hume/final-normal-02.csv",
   "adv_pstory_003_hume_selection-failure-01.txt": "./ai_csv/adv/pstory/003/hume/selection-failure-01.csv",
