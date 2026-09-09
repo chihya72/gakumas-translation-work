@@ -131,6 +131,7 @@
   "adv_pstory_003_hski_selection-normal-02.txt": "./ai_csv/adv/pstory/003/hski/selection-normal-02.csv",
   "adv_pstory_003_fktn_final-failure-01.txt": "./ai_csv/adv/pstory/003/fktn/final-failure-01.csv",
   "adv_pstory_003_fktn_final-normal-02.txt": "./ai_csv/adv/pstory/003/fktn/final-normal-02.csv",
+  "adv_pstory_003_fktn_selection-failure-01.txt": "./ai_csv/adv/pstory/003/fktn/selection-failure-01.csv",
   "adv_cidol-atbm-3-018_02.txt": "./ai_csv/adv/cidol-atbm-3-018/02.csv",
   "adv_cidol-atbm-3-018_03.txt": "./ai_csv/adv/cidol-atbm-3-018/03.csv",
   "adv_cidol-atbm-3-018_01.txt": "./ai_csv/adv/cidol-atbm-3-018/01.csv",
