@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
     "operator_qq": "2923937518",
     "operator_github": "GouTou264",
     "display_id": "在下狗头",
     "display_source": "github",
-    "timestamp": "2026-09-11T15:55:44Z"
+    "timestamp": "2026-09-11T15:56:53Z"
   },
   "proofread": {
     "revision": 0,
@@ -28,10 +28,10 @@
       "operator_github": "GouTou264",
       "display_id": "在下狗头",
       "display_source": "github",
-      "timestamp": "2026-09-11T15:55:44Z"
+      "timestamp": "2026-09-11T15:56:53Z"
     }
   },
   "github": {
-    "updated_at": "2026-09-11T15:55:44Z"
+    "updated_at": "2026-09-11T15:56:53Z"
   }
 }
