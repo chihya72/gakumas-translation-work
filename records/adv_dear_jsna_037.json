@@ -9,7 +9,7 @@
   },
   "translation": {
     "revision": 0,
-    "draft_revision": 0,
+    "draft_revision": 1,
     "state": "进行中",
     "operator_qq": "2923937518",
     "operator_github": "GouTou264",
@@ -21,8 +21,18 @@
     "revision": 0,
     "draft_revision": 0
   },
-  "artifacts": {},
+  "artifacts": {
+    "translation_draft": {
+      "path": "translated_draft/adv/dear/jsna/037.csv",
+      "operator_qq": "2923937518",
+      "operator_github": "GouTou264",
+      "display_id": "在下狗头",
+      "display_source": "github",
+      "based_on_revision": 0,
+      "timestamp": "2026-09-11T17:50:33Z"
+    }
+  },
   "github": {
-    "updated_at": "2026-09-10T08:53:39Z"
+    "updated_at": "2026-09-11T17:50:33Z"
   }
 }
