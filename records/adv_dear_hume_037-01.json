@@ -18,13 +18,14 @@
     "timestamp": "2026-09-10T11:26:06Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "1072536235",
     "operator_github": "chihya72",
     "display_id": "pm",
-    "timestamp": "2026-09-12T19:32:58Z"
+    "timestamp": "2026-09-12T21:50:08Z",
+    "display_source": "github"
   },
   "artifacts": {
     "translation_csv": {
@@ -34,9 +35,17 @@
       "display_id": "悸动Douki",
       "display_source": "github",
       "timestamp": "2026-09-10T11:26:06Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/dear/hume/037-01.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "github",
+      "timestamp": "2026-09-12T21:50:08Z"
     }
   },
   "github": {
-    "updated_at": "2026-09-12T19:32:58Z"
+    "updated_at": "2026-09-12T21:50:08Z"
   }
 }
