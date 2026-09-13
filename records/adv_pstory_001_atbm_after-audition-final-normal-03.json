@@ -12,20 +12,20 @@
     "draft_revision": 0,
     "operator_qq": "510746890",
     "operator_github": "",
-    "display_id": "【翻】フォーラ",
+    "display_id": "フォーラ",
     "display_source": "qq",
-    "timestamp": "2026-03-20T06:51:19Z",
+    "timestamp": "2026-09-13T18:28:18Z",
     "state": "完成"
   },
   "proofread": {
     "revision": 0,
     "draft_revision": 0,
-    "operator_qq": "",
-    "operator_github": "",
-    "display_id": "",
+    "operator_qq": "1009440971",
+    "operator_github": "klsddd",
+    "display_id": "mk2",
     "display_source": "",
-    "timestamp": "2026-03-20T06:51:19Z",
-    "state": "待认领"
+    "timestamp": "2026-09-13T18:28:18Z",
+    "state": "进行中"
   },
   "artifacts": {
     "source_csv": {
@@ -50,7 +50,7 @@
     "source_name": "adv_pstory_001_atbm_after-audition-final-normal-03.csv"
   },
   "github": {
-    "updated_at": "2026-07-21T21:30:12Z",
+    "updated_at": "2026-09-13T18:28:18Z",
     "issue_number": 314
   }
 }
