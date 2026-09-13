@@ -12,20 +12,20 @@
     "draft_revision": 0,
     "operator_qq": "2156963391",
     "operator_github": "",
-    "display_id": "[时轴] 要来一包薯条吗",
+    "display_id": "要来一包薯条吗",
     "display_source": "qq",
-    "timestamp": "2026-03-15T13:12:32Z",
+    "timestamp": "2026-09-13T18:29:44Z",
     "state": "完成"
   },
   "proofread": {
     "revision": 1,
     "draft_revision": 0,
-    "operator_qq": "",
-    "operator_github": "",
-    "display_id": "",
+    "operator_qq": "1009440971",
+    "operator_github": "klsddd",
+    "display_id": "mk2",
     "display_source": "",
-    "timestamp": "2026-03-15T13:12:32Z",
-    "state": "待认领"
+    "timestamp": "2026-09-13T18:29:44Z",
+    "state": "进行中"
   },
   "artifacts": {
     "source_csv": {
@@ -50,7 +50,7 @@
     "source_name": "adv_pstory_001_kllj_after-audition-final-normal-02.csv"
   },
   "github": {
-    "updated_at": "2026-07-21T21:30:29Z",
+    "updated_at": "2026-09-13T18:29:44Z",
     "issue_number": 328
   }
 }
