@@ -18,14 +18,14 @@
     "timestamp": "2026-09-10T05:03:58Z"
   },
   "proofread": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
     "operator_qq": "1513442376",
     "operator_github": "kkdou3",
     "display_id": "悸动Douki",
     "display_source": "github",
-    "timestamp": "2026-09-10T15:51:12Z"
+    "timestamp": "2026-09-13T09:48:48Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -42,10 +42,10 @@
       "operator_github": "kkdou3",
       "display_id": "悸动Douki",
       "display_source": "github",
-      "timestamp": "2026-09-10T15:51:12Z"
+      "timestamp": "2026-09-13T09:48:48Z"
     }
   },
   "github": {
-    "updated_at": "2026-09-10T15:51:12Z"
+    "updated_at": "2026-09-13T09:48:48Z"
   }
 }
