@@ -11,20 +11,20 @@
     "revision": 1,
     "draft_revision": 0,
     "operator_qq": "948279048",
-    "operator_github": "",
+    "operator_github": "1Lianjinshushi",
     "display_id": "煉金術式",
     "display_source": "qq",
-    "timestamp": "2026-03-14T15:26:24Z",
+    "timestamp": "2026-09-13T18:29:26Z",
     "state": "完成"
   },
   "proofread": {
     "revision": 1,
     "draft_revision": 0,
     "operator_qq": "948279048",
-    "operator_github": "",
+    "operator_github": "1Lianjinshushi",
     "display_id": "煉金術式",
     "display_source": "qq",
-    "timestamp": "2026-03-14T15:26:24Z",
+    "timestamp": "2026-09-13T18:29:26Z",
     "state": "完成"
   },
   "artifacts": {
@@ -55,7 +55,7 @@
     "source_name": "adv_pstory_001_hski_after-audition-mid-normal-03.csv"
   },
   "github": {
-    "updated_at": "2026-07-21T21:30:24Z",
+    "updated_at": "2026-09-13T18:29:26Z",
     "issue_number": 324
   }
 }
