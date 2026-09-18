@@ -8,8 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
-    "draft_revision": 0
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "769185426",
+    "operator_github": "kitsurato",
+    "display_id": "病毒",
+    "display_source": "github",
+    "timestamp": "2026-09-18T15:41:02Z"
   },
   "proofread": {
     "revision": 0,
@@ -21,8 +27,18 @@
     "display_source": "github",
     "timestamp": "2026-09-18T15:20:44Z"
   },
-  "artifacts": {},
+  "artifacts": {
+    "translation_csv": {
+      "path": "translated_csv/adv/csprt-3-0109/01.csv",
+      "operator_qq": "769185426",
+      "operator_github": "kitsurato",
+      "display_id": "病毒",
+      "display_source": "github",
+      "timestamp": "2026-09-18T15:41:02Z"
+    }
+  },
   "github": {
-    "updated_at": "2026-09-18T15:20:44Z"
-  }
+    "updated_at": "2026-09-18T15:41:02Z"
+  },
+  "direct_machine_proofread": true
 }
