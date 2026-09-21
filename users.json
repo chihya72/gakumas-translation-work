@@ -19,6 +19,11 @@
     "role": "user",
     "qq": "360930289"
   },
+  "次元风扇": {
+    "github": "JigenFan",
+    "role": "user",
+    "qq": "2570197532"
+  },
   "丹特丽安": {
     "github": "dante-rian",
     "role": "user",
@@ -105,8 +110,8 @@
     "qq": "2434046831"
   },
   "L R": {
-    "github": "",
-    "role": "user",
+    "github": "DreamGallery",
+    "role": "admin",
     "qq": "2511462508"
   },
   "Lawson": {
@@ -148,10 +153,5 @@
     "github": "",
     "role": "user",
     "qq": "510746890"
-  },
-  "次元风扇": {
-    "github": "JigenFan",
-    "role": "user",
-    "qq": "2570197532"
   }
 }
