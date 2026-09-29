@@ -19,7 +19,12 @@
   },
   "proofread": {
     "revision": 0,
-    "draft_revision": 0
+    "draft_revision": 0,
+    "state": "进行中",
+    "operator_qq": "1009440971",
+    "operator_github": "klsddd",
+    "display_id": "mk2",
+    "timestamp": "2026-09-29T23:24:28Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -32,6 +37,6 @@
     }
   },
   "github": {
-    "updated_at": "2026-09-28T20:22:56Z"
+    "updated_at": "2026-09-29T23:24:28Z"
   }
 }
