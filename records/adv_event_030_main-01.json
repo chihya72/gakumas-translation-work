@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_event_030_main-01",
+  "batch": "",
+  "category": "event",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "871013773",
+    "operator_github": "GAKUKAKANG",
+    "display_id": "框框",
+    "display_source": "github",
+    "timestamp": "2026-09-29T11:03:54Z"
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0
+  },
+  "artifacts": {
+    "translation_csv": {
+      "path": "translated_csv/adv/event/030/main-01.csv",
+      "operator_qq": "871013773",
+      "operator_github": "GAKUKAKANG",
+      "display_id": "框框",
+      "display_source": "github",
+      "timestamp": "2026-09-29T11:03:54Z"
+    }
+  },
+  "github": {
+    "updated_at": "2026-09-29T11:03:54Z"
+  }
+}
