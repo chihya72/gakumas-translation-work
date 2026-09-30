@@ -8,21 +8,30 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "1262703928",
     "operator_github": "dante-rian",
     "display_id": "丹特丽安",
     "display_source": "github",
-    "timestamp": "2026-09-30T06:07:39Z"
+    "timestamp": "2026-09-30T14:00:23Z"
   },
   "proofread": {
     "revision": 0,
     "draft_revision": 0
   },
-  "artifacts": {},
+  "artifacts": {
+    "translation_csv": {
+      "path": "translated_csv/adv/cidol-hume-3-022/03.csv",
+      "operator_qq": "1262703928",
+      "operator_github": "dante-rian",
+      "display_id": "丹特丽安",
+      "display_source": "github",
+      "timestamp": "2026-09-30T14:00:23Z"
+    }
+  },
   "github": {
-    "updated_at": "2026-09-30T06:07:39Z"
+    "updated_at": "2026-09-30T14:00:23Z"
   }
 }
