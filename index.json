@@ -243,5 +243,7 @@
   "adv_csprt-3-0103_03.txt": "./ai_csv/adv/csprt-3-0103/03.csv",
   "adv_cidol-jsna-3-020_02.txt": "./ai_csv/adv/cidol-jsna-3-020/02.csv",
   "adv_cidol-jsna-3-020_01.txt": "./ai_csv/adv/cidol-jsna-3-020/01.csv",
-  "adv_cidol-jsna-3-020_03.txt": "./ai_csv/adv/cidol-jsna-3-020/03.csv"
+  "adv_cidol-jsna-3-020_03.txt": "./ai_csv/adv/cidol-jsna-3-020/03.csv",
+  "adv_csprt-2-0082_02.txt": "./ai_csv/adv/csprt-2-0082/02.csv",
+  "adv_csprt-2-0082_01.txt": "./ai_csv/adv/csprt-2-0082/01.csv"
 }
