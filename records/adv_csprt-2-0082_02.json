@@ -18,14 +18,14 @@
     "timestamp": "2026-10-08T09:26:27Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "948279048",
     "operator_github": "1Lianjinshushi",
     "display_id": "煉金術式",
     "display_source": "github",
-    "timestamp": "2026-10-08T12:39:25Z"
+    "timestamp": "2026-10-08T13:06:15Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -35,9 +35,17 @@
       "display_id": "pm",
       "display_source": "github",
       "timestamp": "2026-10-08T09:26:27Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/csprt-2-0082/02.csv",
+      "operator_qq": "948279048",
+      "operator_github": "1Lianjinshushi",
+      "display_id": "煉金術式",
+      "display_source": "github",
+      "timestamp": "2026-10-08T13:06:15Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-08T12:39:25Z"
+    "updated_at": "2026-10-08T13:06:15Z"
   }
 }
