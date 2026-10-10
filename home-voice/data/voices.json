@@ -5085,7 +5085,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-017_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-017_home_cmmn-03.wav",
     "ja": "みんなが狂っちゃうくらい、私の虜にしちゃいますから！",
-    "zh": "我会把大家迷得神魂颠倒，都成为我的俘虏！",
+    "zh": "我会把大家迷得神魂颠倒，\n都成为我的俘虏！",
     "wav_source": "reused",
     "duration": 4.5536875,
     "sample_rate": 48000,
@@ -5094,7 +5094,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T18:55:56.532Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-019_home_cmmn-01",
