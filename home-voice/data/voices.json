@@ -17055,7 +17055,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_cmmn-06.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_cmmn-06.wav",
     "ja": "最後までちゃんと面倒を見てくださいね！",
-    "zh": "请好好照顾我到最后哦！",
+    "zh": "请好好守护我，陪我走到最后哦！",
     "wav_source": "reused",
     "duration": 3.385666666666667,
     "sample_rate": 48000,
@@ -17064,7 +17064,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:21:51.665Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-07",
