@@ -18342,7 +18342,7 @@
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_cmmn-14.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_cmmn-14.wav",
     "ja": "まりちゃんのグッズは当然すべて持っています。",
-    "zh": "小毬的周边我当然全都有。",
+    "zh": "小毬的周边我当然全部都有。",
     "wav_source": "reused",
     "duration": 3.6614791666666666,
     "sample_rate": 48000,
@@ -18351,7 +18351,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:51:04.320Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-15",
