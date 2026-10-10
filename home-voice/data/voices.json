@@ -12191,7 +12191,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-001_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-001_home_cmmn-02.wav",
     "ja": "素敵な夏の思い出、一緒に作りたいです。",
-    "zh": "我想和您一起创造美好的夏日回忆。",
+    "zh": "想一起留下夏日的美好回忆。",
     "wav_source": "reused",
     "duration": 4.8125625,
     "sample_rate": 48000,
@@ -12200,7 +12200,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T03:34:16.463Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-001_home_cmmn-03",
