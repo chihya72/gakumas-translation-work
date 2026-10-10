@@ -12552,7 +12552,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-008_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-008_home_cmmn-02.wav",
     "ja": "みんながどんなに眩しくても、私は私ですから。",
-    "zh": "无论大家多么耀眼，我就是我。",
+    "zh": "不管大家有多么的耀眼，我就是我。",
     "wav_source": "reused",
     "duration": 4.90575,
     "sample_rate": 48000,
@@ -12561,7 +12561,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T03:44:45.440Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-008_home_cmmn-03",
