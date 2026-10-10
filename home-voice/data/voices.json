@@ -17416,7 +17416,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "translation_model": "deepseek-v4-pro",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:36:33.968Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-24",
