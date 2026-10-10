@@ -4738,8 +4738,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-012_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-012_home_cmmn-01.wav",
-    "ja": "バイトは慣れてますし、一日店員も頑張ります！",
-    "zh": "打工我早就习惯了，做一日店员我也会加油的！",
+    "ja": "バイトは慣れてますし、\n一日店員も頑張ります！",
+    "zh": "打工我早就轻车熟路了，\n客串一天店员我也会加油的！",
     "wav_source": "reused",
     "duration": 4.679375,
     "sample_rate": 48000,
@@ -4751,7 +4751,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T08:49:20.968Z"
+    "reviewed_at": "2026-10-10T16:48:13.673Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-012_home_cmmn-02",
