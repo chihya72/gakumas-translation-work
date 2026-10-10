@@ -4470,7 +4470,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-007_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-007_home_cmmn-03.wav",
     "ja": "最高のライブをプレゼントしちゃいますから！",
-    "zh": "我会把最棒的现场作为给你的礼物！",
+    "zh": "我会把最棒的现场作为给你的礼物的！",
     "wav_source": "reused",
     "duration": 3.861666666666667,
     "sample_rate": 48000,
@@ -4481,7 +4481,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T20:10:44.738Z"
+    "reviewed_at": "2026-10-10T08:10:53.533Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-008_home_cmmn-01",
