@@ -5882,8 +5882,8 @@
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-05",
     "speaker": "美鈴",
-    "ja": "篠澤さんからは、ある意味目が離せません。",
-    "zh": "从某种意义上来说，筱泽同学让人无法移开视线。"
+    "ja": "篠澤さんからは、\nある意味目が離せません。",
+    "zh": "从某种意义上来说，\n筱泽同学让人无法移开视线。"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-06",
