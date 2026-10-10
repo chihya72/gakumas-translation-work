@@ -18073,8 +18073,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-24.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-24.wav",
-    "ja": "プロリューサー！あったかい衣装ください！",
-    "zh": "制作人！请给我暖和的服装！",
+    "ja": "プロデューサー！あったかい衣装ください！",
+    "zh": "制作人！请给我暖和的服装～",
     "wav_source": "reused",
     "duration": 3.825625,
     "sample_rate": 48000,
@@ -18083,7 +18083,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T21:05:58.094Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-25",
