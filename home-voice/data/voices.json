@@ -5806,8 +5806,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-009_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-009_home_cmmn-03.wav",
-    "ja": "いろんな方のお世話ができると思うと、接客が楽しみです。",
-    "zh": "一想到能照顾到许多客人，就很期待接待客人。",
+    "ja": "いろんな方のお世話ができると思うと、\n接客が楽しみです。",
+    "zh": "一想到能照顾到许多人，\n就很期待接待客人。",
     "wav_source": "reused",
     "duration": 5.236541666666667,
     "sample_rate": 48000,
@@ -5816,7 +5816,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T02:35:45.076Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-010_home_cmmn-01",
