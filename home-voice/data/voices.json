@@ -12412,7 +12412,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-006_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-006_home_cmmn-01.wav",
     "ja": "才能がなくても、アイドルになるって決めたんです！",
-    "zh": "即使没有才能，我也决定要成为偶像！",
+    "zh": "即便没有才能，我也决定了要成为偶像！",
     "wav_source": "reused",
     "duration": 4.412604166666667,
     "sample_rate": 48000,
@@ -12421,7 +12421,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T03:41:20.894Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_home_cmmn-02",
