@@ -6060,8 +6060,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-013_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-013_home_cmmn-03.wav",
-    "ja": "頑張り屋さんのあの子を思い出す曲ですね",
-    "zh": "这首歌会让人想起那个努力的孩子呢。",
+    "ja": "頑張り屋さんのあの子\nを思い出す曲ですね。",
+    "zh": "这首歌会让人想起\n那个努力的孩子呢。",
     "wav_source": "reused",
     "duration": 4.003666666666667,
     "sample_rate": 48000,
@@ -6070,7 +6070,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T07:56:56.413Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_home_cmmn-01",
