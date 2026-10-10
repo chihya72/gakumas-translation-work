@@ -12672,7 +12672,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-010_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-010_home_cmmn-02.wav",
     "ja": "先輩との出会いは特別です。",
-    "zh": "与前辈的相遇很特别。",
+    "zh": "和前辈的相遇是很特别的。",
     "wav_source": "reused",
     "duration": 3.385083333333333,
     "sample_rate": 48000,
@@ -12681,7 +12681,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T03:48:08.118Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-010_home_cmmn-03",
