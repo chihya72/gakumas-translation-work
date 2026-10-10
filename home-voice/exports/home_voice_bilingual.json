@@ -1790,8 +1790,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-004_home_cmmn-03",
     "speaker": "美鈴",
-    "ja": "クリスマスはとっておきのごちそうを用意しましょう",
-    "zh": "圣诞节我来准备特别的大餐吧。"
+    "ja": "クリスマスはとって\nおきのごちそうを用意しましょう。",
+    "zh": "圣诞节就让我来\n准备特别的大餐吧。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-005_home_cmmn-01",
