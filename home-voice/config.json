@@ -1,0 +1,14 @@
+{
+  "source_acb": "D:\\GIT\\Gakuen-idolmaster-ab-decrypt\\output\\resource\\acb",
+  "reuse_wav": "C:\\Users\\10725\\Desktop\\新建文件夹2",
+  "moss_repo": "D:\\GIT\\MOSS-Transcribe-Diarize",
+  "translation_engine": "D:\\GIT\\Gakumas-Auto-Translate\\GakumasPreTranslation",
+  "translation_memory": "D:\\GIT\\Gakumas-Auto-Translate\\csv_data",
+  "character_master": "D:\\GIT\\gakumas-master-translation-pm\\gakumasu-diff\\orig\\Character.yaml",
+  "subtitle_template": "D:\\Games\\gakumas\\gakumas-local\\local-files\\genericTrans\\genericTrans\\lyrics\\home_voice_subtitles.json",
+  "hotwords_file": "data\\hotwords.json",
+  "asr_batch_size": 8,
+  "asr_max_tokens": 256,
+  "translation_batch_size": 250,
+  "translation_concurrency": 3
+}

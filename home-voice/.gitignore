@@ -1,0 +1,9 @@
+/audio/wav/
+*.wav
+__pycache__/
+*.py[cod]
+.env
+.venv/
+node_modules/
+*.log
+*.tmp

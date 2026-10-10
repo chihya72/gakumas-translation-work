@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "showCueWhenMissing": false,
+  "screenRect": [
+    0.60,
+    0.686,
+    0.38,
+    0.094
+  ],
+  "fontSize": 32,
+  "textPadding": [
+    48,
+    48
+  ]
+}
