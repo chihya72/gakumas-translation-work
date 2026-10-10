@@ -5976,8 +5976,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-012_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-012_home_cmmn-02.wav",
-    "ja": "皆さんでお昼寝をしたら、きっと楽しくて幸せですよ。",
-    "zh": "大家一起午睡的话，一定既开心又幸福哦。",
+    "ja": "皆さんでお昼寝をしたら、\nきっと楽しくて幸せですよ。",
+    "zh": "大家一起午睡的话，\n一定既开心又幸福哦。",
     "wav_source": "reused",
     "duration": 6.1308125,
     "sample_rate": 48000,
@@ -5986,7 +5986,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T07:42:55.935Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-012_home_cmmn-03",
