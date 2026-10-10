@@ -4510,8 +4510,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-008_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-008_home_cmmn-02.wav",
-    "ja": "プロデューサーになら、チョコあげてもいいですよ！",
-    "zh": "是给制作人的话，也不是不可以送你巧克力哦～",
+    "ja": "プロデューサーになら、\nチョコあげてもいいですよ！",
+    "zh": "是给制作人的话，\n也不是不可以送你巧克力哦～",
     "wav_source": "reused",
     "duration": 3.8339791666666665,
     "sample_rate": 48000,
@@ -4522,7 +4522,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T19:59:00.976Z"
+    "reviewed_at": "2026-10-10T08:12:13.063Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-008_home_cmmn-03",
