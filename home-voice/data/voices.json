@@ -4282,8 +4282,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-003_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-003_home_cmmn-03.wav",
-    "ja": "最高の夏にしたいので、おいしいお仕事待ってまーす！",
-    "zh": "想度过一个最棒的夏天，所以等着好差事上门哦～！",
+    "ja": "最高の夏にしたいので、\nおいしいお仕事待ってまーす！",
+    "zh": "想度过一个最棒的夏天，\n所以等着好差事上门哦～！",
     "wav_source": "reused",
     "duration": 5.035458333333334,
     "sample_rate": 48000,
@@ -4294,7 +4294,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T20:03:18.827Z"
+    "reviewed_at": "2026-10-10T08:00:00.920Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-005_home_cmmn-01",
