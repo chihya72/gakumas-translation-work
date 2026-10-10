@@ -4448,8 +4448,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-007_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-007_home_cmmn-02.wav",
-    "ja": "もっと私が輝けるように！パワーください！",
-    "zh": "为了让我能更加闪耀，请给我力量～！",
+    "ja": "もっと私が輝けるように！\nパワーください！",
+    "zh": "为了让我能更加闪耀，\n请给我力量～！",
     "wav_source": "reused",
     "duration": 4.894729166666667,
     "sample_rate": 48000,
@@ -4460,7 +4460,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T20:12:31.617Z"
+    "reviewed_at": "2026-10-10T08:09:41.097Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-007_home_cmmn-03",
