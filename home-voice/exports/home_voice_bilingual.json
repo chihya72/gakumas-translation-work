@@ -1808,8 +1808,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-005_home_cmmn-03",
     "speaker": "美鈴",
-    "ja": "三人で歌っていたあの頃より、今の私はすごいんです。",
-    "zh": "比起三人一起唱歌的那段时光，现在的我更加厉害。"
+    "ja": "三人で歌っていたあの頃より、\n今の私はすごいんです。",
+    "zh": "比起三人一起唱歌的那段时光，\n现在的我更加厉害。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-006_home_cmmn-01",
