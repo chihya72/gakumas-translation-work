@@ -5,8 +5,8 @@
     "speaker": "麻央",
     "acb": "audio\\acb\\sud_vo_system_amao_home_birthday-01.acb",
     "wav": "audio\\wav\\sud_vo_system_amao_home_birthday-01.wav",
-    "ja": "誕生日おめでとうございます！\nプロデューサー",
-    "zh": "制作人\n生日快乐！\n",
+    "ja": "誕生日おめでとうございます！\nプロデューサー。",
+    "zh": "制作人，\n生日快乐！\n",
     "wav_source": "reused",
     "duration": 2.8061875,
     "sample_rate": 48000,
@@ -18,7 +18,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T02:26:24.548Z"
+    "reviewed_at": "2026-10-10T07:40:47.545Z"
   },
   {
     "voiceAssetId": "sud_vo_system_amao_home_cmmn-01",
