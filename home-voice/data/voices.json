@@ -5124,8 +5124,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-019_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-019_home_cmmn-02.wav",
-    "ja": "ナムコプロの話、私もしたいの！聞いてくれます？",
-    "zh": "我也想聊Namco Pro的话题！你愿意听我说吗？",
+    "ja": "765プロの話、私もしたいな！\n聞いてくれます？",
+    "zh": "我也想聊一聊765Pro！\n你愿意听我说吗？",
     "wav_source": "reused",
     "duration": 6.067145833333333,
     "sample_rate": 48000,
@@ -5134,7 +5134,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T18:58:28.734Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-019_home_cmmn-03",
