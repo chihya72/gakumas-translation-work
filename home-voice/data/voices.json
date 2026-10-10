@@ -6480,8 +6480,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-021_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-021_home_cmmn-01.wav",
-    "ja": "ふふふ\nあなたの心は私のものですよ",
-    "zh": "呵呵呵\n你的心是属于我的哦。",
+    "ja": "あなたの心は私のものですよ。",
+    "zh": "您的心脏是属于我的哦。",
     "wav_source": "reused",
     "duration": 4.939208333333333,
     "sample_rate": 48000,
@@ -6490,7 +6490,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:32:33.846Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-021_home_cmmn-02",
