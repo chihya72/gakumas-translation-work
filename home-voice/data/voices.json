@@ -18051,7 +18051,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-23.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-23.wav",
     "ja": "寒いからって、外でのお仕事を減らしちゃダメですよ！\n外でのお仕事を減らしちゃダメですよ！",
-    "zh": "不能因为天冷就减少室外工作哦！\n不能减少室外工作哦！",
+    "zh": "不能因为天冷就减少室外工作哦！",
     "wav_source": "reused",
     "duration": 3.8772083333333334,
     "sample_rate": 48000,
@@ -18060,7 +18060,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T21:02:17.680Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-24",
