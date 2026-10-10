@@ -1970,8 +1970,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_home_cmmn-03",
     "speaker": "美鈴",
-    "ja": "私の夢を見たら、ぜひ教えてくださいね。",
-    "zh": "如果梦到我了，一定要告诉我哦。"
+    "ja": "私の夢を見たら、\nぜひ教えてくださいね。",
+    "zh": "如果梦到我了，\n请一定要告诉我哦。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-015_home_cmmn-01",
