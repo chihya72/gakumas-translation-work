@@ -4922,7 +4922,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-015_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-015_home_cmmn-01.wav",
     "ja": "プロデューサーと一緒なら、\nずーっと絶好調です！",
-    "zh": "和制作人在一起的话，我就一直状态绝佳！",
+    "zh": "跟制作人在一起的话，\n我永远都是最佳状态！",
     "wav_source": "reused",
     "duration": 4.6258333333333335,
     "sample_rate": 48000,
@@ -4934,7 +4934,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T17:35:41.745Z"
+    "reviewed_at": "2026-10-10T17:37:10.829Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-015_home_cmmn-02",
