@@ -5848,8 +5848,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-010_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-010_home_cmmn-02.wav",
-    "ja": "ペースは全然違うのに、ゆめさんといるのは楽しいです。",
-    "zh": "明明步调完全不同，和佑芽同学在一起却很开心。",
+    "ja": "ペースは全然違うのに、\nゆめさんといるのは楽しいです。",
+    "zh": "明明日常节奏完全不同，\n可是和佑芽同学一起却很开心。",
     "wav_source": "reused",
     "duration": 4.763770833333333,
     "sample_rate": 48000,
@@ -5858,7 +5858,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T02:37:48.137Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-010_home_cmmn-03",
