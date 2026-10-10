@@ -17165,7 +17165,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_cmmn-10.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_cmmn-10.wav",
     "ja": "放課後はバイト行ってきまーす！",
-    "zh": "放学后我打工去啦——！",
+    "zh": "放学后我要打工去啦——！",
     "wav_source": "reused",
     "duration": 2.7667291666666665,
     "sample_rate": 48000,
@@ -17174,7 +17174,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T21:08:03.558Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-11",
