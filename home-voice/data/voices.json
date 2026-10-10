@@ -6018,8 +6018,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-013_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-013_home_cmmn-01.wav",
-    "ja": "私なりの精一杯で歌いましょう",
-    "zh": "让我用我自己的方式竭尽全力去唱吧。",
+    "ja": "私なりの精一杯で歌いましょう。",
+    "zh": "让我用我自己的方式\n竭尽全力去唱吧。",
     "wav_source": "reused",
     "duration": 3.9683125,
     "sample_rate": 48000,
@@ -6028,7 +6028,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T07:47:18.227Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-013_home_cmmn-02",
