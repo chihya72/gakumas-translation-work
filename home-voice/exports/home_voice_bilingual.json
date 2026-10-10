@@ -1838,8 +1838,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-007_home_cmmn-02",
     "speaker": "美鈴",
-    "ja": "春が来たら起こしてください。それまで冬眠します。",
-    "zh": "春天来了请叫醒我。在那之前我要冬眠。"
+    "ja": "春が来たら起こしてください。\nそれまで冬眠します。",
+    "zh": "等春天来了请叫醒我。\n在那之前我要冬眠。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-007_home_cmmn-03",
