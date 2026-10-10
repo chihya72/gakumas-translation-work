@@ -4531,8 +4531,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-008_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-008_home_cmmn-03.wav",
-    "ja": "ことねちゃん手作りチョコ！楽しみにしててくださいね！",
-    "zh": "小琴音亲手做的巧克力！请好好期待哦！",
+    "ja": "ことねちゃん手作りチョコ！\n楽しみにしててくださいね！",
+    "zh": "小琴音亲手做的巧克力！\n请好好期待哦！",
     "wav_source": "reused",
     "duration": 4.653145833333333,
     "sample_rate": 48000,
@@ -4541,9 +4541,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T19:59:25.246Z"
+    "reviewed_at": "2026-10-10T08:13:53.814Z",
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-009_home_cmmn-01",
