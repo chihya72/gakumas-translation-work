@@ -17892,7 +17892,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-15.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-15.wav",
     "ja": "プロデューサー、お花見行きましょうよ！",
-    "zh": "制作人，我们去赏花吧！",
+    "zh": "制作人，我们去赏樱吧！",
     "wav_source": "reused",
     "duration": 3.155125,
     "sample_rate": 48000,
@@ -17901,7 +17901,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T20:54:00.484Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-16",
