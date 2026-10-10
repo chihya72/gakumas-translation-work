@@ -4388,7 +4388,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-006_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-006_home_cmmn-02.wav",
     "ja": "クリスマス、寂しくないように一緒にいてあげますね！",
-    "zh": "圣诞节我会陪着你，不会让你孤单的哦！",
+    "zh": "圣诞节我会陪着你，\n不会让你孤单的哦！",
     "wav_source": "reused",
     "duration": 4.337875,
     "sample_rate": 48000,
@@ -4399,7 +4399,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T20:09:38.967Z"
+    "reviewed_at": "2026-10-10T08:04:49.013Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-006_home_cmmn-03",
