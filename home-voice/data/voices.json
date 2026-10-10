@@ -5677,8 +5677,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-007_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-007_home_cmmn-03.wav",
-    "ja": "まだ冷えますから、一緒に温かいお茶でもいかがですか？",
-    "zh": "天气还会冷，要不要一起喝杯热茶什么的？",
+    "ja": "まだ冷えますから、\n一緒に温かいお茶でもいかがですか？",
+    "zh": "天气还会变得更冷，\n要不要一起喝杯热茶？",
     "wav_source": "reused",
     "duration": 4.809541666666667,
     "sample_rate": 48000,
@@ -5687,7 +5687,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T02:10:54.557Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-008_home_cmmn-01",

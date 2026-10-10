@@ -1844,8 +1844,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-007_home_cmmn-03",
     "speaker": "美鈴",
-    "ja": "まだ冷えますから、一緒に温かいお茶でもいかがですか？",
-    "zh": "天气还会冷，要不要一起喝杯热茶什么的？"
+    "ja": "まだ冷えますから、\n一緒に温かいお茶でもいかがですか？",
+    "zh": "天气还会变得更冷，\n要不要一起喝杯热茶？"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-008_home_cmmn-01",
