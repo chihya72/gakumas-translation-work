@@ -18104,7 +18104,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "translation_model": "deepseek-v4-pro",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T21:06:14.596Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_birthday-01",
