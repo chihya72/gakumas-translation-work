@@ -6249,8 +6249,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-015_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-015_home_cmmn-02.wav",
-    "ja": "へへへ\n世界が終わるまでずっと一緒ですよ",
-    "zh": "嘿嘿嘿\n直到世界终结，我们都要一直在一起哦。",
+    "ja": "世界が終わるまでずっと、\n一緒ですよ。",
+    "zh": "直到世界终结，\n我们都要一直在一起哦。",
     "wav_source": "reused",
     "duration": 4.972625,
     "sample_rate": 48000,
@@ -6259,7 +6259,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:18:51.354Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-015_home_cmmn-03",
