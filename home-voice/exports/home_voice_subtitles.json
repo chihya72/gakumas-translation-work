@@ -6,8 +6,14 @@
   "bubbleWidth": 520,
   "fontSize": 32,
   "textPadding": [
-    40,
-    40
+    48,
+    48
+  ],
+  "screenRect": [
+    0.6,
+    0.686,
+    0.38,
+    0.094
   ],
   "subtitles": [
     {
