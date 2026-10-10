@@ -6459,7 +6459,7 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-020_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-020_home_cmmn-03.wav",
-    "ja": "あなたが望むなら、\n\nまた被写体になって差し上げます。",
+    "ja": "あなたが望むなら、\nまた被写体になって差し上げます。",
     "zh": "如果您想要的话，\n我也可以再当您的拍摄对象。",
     "wav_source": "reused",
     "duration": 4.832979166666667,
@@ -6472,7 +6472,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T19:29:12.048Z"
+    "reviewed_at": "2026-10-10T19:30:24.237Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-021_home_cmmn-01",
