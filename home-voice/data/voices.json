@@ -12912,7 +12912,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-014_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-014_home_cmmn-02.wav",
     "ja": "私の音でみんなの背中を押せたらいいな",
-    "zh": "如果我的歌声能给大家带来支持就好了。",
+    "zh": "如果我的歌声能给大家带来力量就好了。",
     "wav_source": "reused",
     "duration": 3.7538958333333334,
     "sample_rate": 48000,
@@ -12921,7 +12921,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T03:54:16.870Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-014_home_cmmn-03",
