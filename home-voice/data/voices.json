@@ -5614,8 +5614,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-006_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-006_home_cmmn-03.wav",
-    "ja": "社科作りは毎年していますから、お任せください。",
-    "zh": "做点心我每年都在做，请交给我吧。",
+    "ja": "チョコ作りは毎年していますから、\nお任せください。",
+    "zh": "我每年都在做巧克力的，\n请放心交给我吧。",
     "wav_source": "reused",
     "duration": 4.275166666666666,
     "sample_rate": 48000,
@@ -5624,7 +5624,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T02:04:42.856Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-007_home_cmmn-01",
