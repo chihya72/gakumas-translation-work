@@ -4718,7 +4718,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-011_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-011_home_cmmn-03.wav",
     "ja": "私を選んだ責任、\nちゃんと取ってください！",
-    "zh": "选择我的责任，\n可要好好担负起来哦！",
+    "zh": "选中了我的责任，\n可要好好担负起来哦！",
     "wav_source": "reused",
     "duration": 4.2705,
     "sample_rate": 48000,
@@ -4728,7 +4728,7 @@
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
     "reviewed": true,
-    "reviewed_at": "2026-10-10T16:43:23.136Z",
+    "reviewed_at": "2026-10-10T16:44:35.935Z",
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer"
   },
