@@ -16957,7 +16957,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_cmmn-02.wav",
     "ja": "少しでも稼ぐ！これは譲れません！",
-    "zh": "哪怕多赚一点是一点！这个我绝不让步！",
+    "zh": "能赚一点是一点！\n这点我绝不让步！",
     "wav_source": "reused",
     "duration": 3.372,
     "sample_rate": 48000,
@@ -16966,7 +16966,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:09:31.658Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-03",
