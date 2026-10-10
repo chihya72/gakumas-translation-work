@@ -12240,7 +12240,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "translation_model": "deepseek-v4-pro",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T03:35:14.343Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-002_home_cmmn-02",
