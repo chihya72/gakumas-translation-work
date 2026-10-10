@@ -13053,7 +13053,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-016_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-016_home_cmmn-03.wav",
     "ja": "全力で踊るので、かかって来てください！",
-    "zh": "我会全力跳舞，请放马过来吧！",
+    "zh": "我会全力跳舞的，请放马过来吧！",
     "wav_source": "reused",
     "duration": 2.9923125,
     "sample_rate": 48000,
@@ -13062,7 +13062,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T03:58:32.417Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-017_home_cmmn-01",
