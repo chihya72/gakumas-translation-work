@@ -4881,7 +4881,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-014_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-014_home_cmmn-02.wav",
     "ja": "私の全部をかけるつもりで歌わないとですね",
-    "zh": "我得抱着赌上全部的打算去唱才行呢。",
+    "zh": "我得抱着赌上全部的觉悟去唱才行呢。",
     "wav_source": "reused",
     "duration": 3.7912083333333335,
     "sample_rate": 48000,
@@ -4890,7 +4890,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T17:21:21.478Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-014_home_cmmn-03",
