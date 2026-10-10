@@ -17527,8 +17527,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_fktn_home_cmmn-29.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_cmmn-29.wav",
-    "ja": "さっきのやつ！\n走るの早すぎて一緒に走る意味ないんですけど！",
-    "zh": "刚才那个！\n跑得太快了，一起跑根本没意义嘛！",
+    "ja": "咲季のやつ！\n走るの早すぎて一緒に走る意味ないんですけど！",
+    "zh": "咲季这家伙！跑得太快了，\n根本就没一起跑的意义嘛！",
     "wav_source": "reused",
     "duration": 6.514770833333333,
     "sample_rate": 48000,
@@ -17537,7 +17537,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T20:04:34.498Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-30",
