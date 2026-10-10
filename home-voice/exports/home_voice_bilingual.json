@@ -5954,8 +5954,8 @@
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-17",
     "speaker": "美鈴",
-    "ja": "太陽を追い越し、一緒にあくびをしましょうね。",
-    "zh": "超越太阳之后，一起打个哈欠吧。"
+    "ja": "太陽を追い越し、\n一緒にあくびをしましょうね。",
+    "zh": "等超越太阳之后，\n一起悠闲地打个哈欠吧。"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-18",

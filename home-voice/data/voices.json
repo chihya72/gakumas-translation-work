@@ -18404,8 +18404,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_cmmn-17.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_cmmn-17.wav",
-    "ja": "太陽を追い越し、一緒にあくびをしましょうね。",
-    "zh": "超越太阳之后，一起打个哈欠吧。",
+    "ja": "太陽を追い越し、\n一緒にあくびをしましょうね。",
+    "zh": "等超越太阳之后，\n一起悠闲地打个哈欠吧。",
     "wav_source": "reused",
     "duration": 5.960833333333333,
     "sample_rate": 48000,
@@ -18414,7 +18414,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:54:11.436Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-18",
