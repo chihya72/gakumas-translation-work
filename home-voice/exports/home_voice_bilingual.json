@@ -1424,8 +1424,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-005_home_cmmn-02",
     "speaker": "ことね",
-    "ja": "ちびどもにあげるお菓子、用意しといてやるか！",
-    "zh": "给小家伙们的糖果，我先准备好吧！"
+    "ja": "ちびどもにあげるお菓子、\n用意しといてやるか！",
+    "zh": "给小家伙们的糖果，\n我先准备好吧！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-005_home_cmmn-03",

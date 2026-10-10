@@ -4324,8 +4324,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-005_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-005_home_cmmn-02.wav",
-    "ja": "ちびどもにあげるお菓子、用意しといてやるか！",
-    "zh": "给小家伙们的糖果，我先准备好吧！",
+    "ja": "ちびどもにあげるお菓子、\n用意しといてやるか！",
+    "zh": "给小家伙们的糖果，\n我先准备好吧！",
     "wav_source": "reused",
     "duration": 3.8508541666666667,
     "sample_rate": 48000,
@@ -4336,7 +4336,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T20:04:03.724Z"
+    "reviewed_at": "2026-10-10T08:02:24.998Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-005_home_cmmn-03",
