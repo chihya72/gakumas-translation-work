@@ -17224,8 +17224,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_fktn_home_cmmn-13.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_cmmn-13.wav",
-    "ja": "おかげさまで隊長罰です！",
-    "zh": "托您的福，大成功！",
+    "ja": "おかげさまで体調バッチリです！",
+    "zh": "托您的福，我现在身体状态超棒！",
     "wav_source": "reused",
     "duration": 3.4756666666666667,
     "sample_rate": 48000,
@@ -17234,7 +17234,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T21:10:12.720Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-14",
