@@ -4408,7 +4408,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-006_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-006_home_cmmn-03.wav",
     "ja": "ちびどものクリスマスプレゼントは何にするかなぁ",
-    "zh": "给小家伙们的圣诞礼物选什么好呢～",
+    "zh": "给小不点们的圣诞礼物选什么好呢～",
     "wav_source": "reused",
     "duration": 4.59825,
     "sample_rate": 48000,
@@ -4417,9 +4417,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T20:09:56.390Z"
+    "reviewed_at": "2026-10-10T16:33:42.314Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-007_home_cmmn-01",
