@@ -5852,8 +5852,8 @@
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_birthday-01",
     "speaker": "美鈴",
-    "ja": "お誕生日おめでとうございます！プロデューサー",
-    "zh": "生日快乐！制作人"
+    "ja": "お誕生日おめでとうございます！\nプロデューサー。",
+    "zh": "祝您生日快乐！\n制作人。"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-01",

@@ -18038,8 +18038,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_birthday-01.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_birthday-01.wav",
-    "ja": "お誕生日おめでとうございます！プロデューサー",
-    "zh": "生日快乐！制作人",
+    "ja": "お誕生日おめでとうございます！\nプロデューサー。",
+    "zh": "祝您生日快乐！\n制作人。",
     "wav_source": "reused",
     "duration": 3.9044583333333334,
     "sample_rate": 48000,
@@ -18048,7 +18048,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:36:53.765Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-01",
