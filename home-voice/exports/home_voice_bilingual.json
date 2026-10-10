@@ -1832,8 +1832,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-007_home_cmmn-01",
     "speaker": "美鈴",
-    "ja": "ひなわられ、おいしいですよね？",
-    "zh": "雏霰很好吃吧？"
+    "ja": "ひなわられ、\nおいしいですよね？",
+    "zh": "雏霰（女儿节特色小吃）\n很好吃吧？"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-007_home_cmmn-02",
