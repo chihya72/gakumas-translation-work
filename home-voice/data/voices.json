@@ -17650,7 +17650,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-03.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-03.wav",
     "ja": "どうも！プロデューサーもお昼です？",
-    "zh": "你好！制作人也到午餐时间了吗？",
+    "zh": "嗨！制作人也到午餐时间了吗？",
     "wav_source": "reused",
     "duration": 3.047375,
     "sample_rate": 48000,
@@ -17659,7 +17659,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T20:30:44.502Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-04",
