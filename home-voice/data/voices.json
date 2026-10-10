@@ -17225,7 +17225,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_cmmn-13.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_cmmn-13.wav",
     "ja": "おかげさまで体調バッチリです！",
-    "zh": "托您的福，我现在身体状态超棒！",
+    "zh": "托制作人的福，我现在身体状态超棒！",
     "wav_source": "reused",
     "duration": 3.4756666666666667,
     "sample_rate": 48000,
@@ -17237,7 +17237,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T21:10:12.720Z"
+    "reviewed_at": "2026-10-10T21:15:12.727Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-14",
