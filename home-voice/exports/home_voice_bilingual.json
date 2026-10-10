@@ -5913,7 +5913,7 @@
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-10",
     "speaker": "美鈴",
     "ja": "親友として、あの子に自滅なんかさせません。",
-    "zh": "作为挚友，我不会让那孩子自取灭亡的。"
+    "zh": "作为挚友，\n我不会让那孩子自取灭亡的。"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-11",

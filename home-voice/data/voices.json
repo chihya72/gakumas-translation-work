@@ -18258,7 +18258,7 @@
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_cmmn-10.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_cmmn-10.wav",
     "ja": "親友として、あの子に自滅なんかさせません。",
-    "zh": "作为挚友，我不会让那孩子自取灭亡的。",
+    "zh": "作为挚友，\n我不会让那孩子自取灭亡的。",
     "wav_source": "reused",
     "duration": 4.0571875,
     "sample_rate": 48000,
@@ -18267,7 +18267,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:48:14.417Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-11",
