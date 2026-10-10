@@ -17549,7 +17549,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_cmmn-30.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_cmmn-30.wav",
     "ja": "私、四時からランニングしてきたんです。\nってことで、ご褒美ください！",
-    "zh": "我从四点开始跑步跑到现在。\n所以，请给我奖励！",
+    "zh": "我从四点开始跑步回来啦。\n所以，快给我奖励吧！",
     "wav_source": "reused",
     "duration": 7.9521041666666665,
     "sample_rate": 48000,
@@ -17558,7 +17558,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T20:21:01.718Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_touch-01",
