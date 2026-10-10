@@ -4345,8 +4345,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-005_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-005_home_cmmn-03.wav",
-    "ja": "手作りお菓子といたずら、どっちがいいです？",
-    "zh": "手工点心和恶作剧，你想要哪个？",
+    "ja": "手作りお菓子といたずら、\nどっちがいいです？",
+    "zh": "手工点心和恶作剧，\n你想要哪个？",
     "wav_source": "reused",
     "duration": 4.202083333333333,
     "sample_rate": 48000,
@@ -4355,9 +4355,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T20:09:08.042Z"
+    "reviewed_at": "2026-10-10T08:03:28.573Z",
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-006_home_cmmn-01",
