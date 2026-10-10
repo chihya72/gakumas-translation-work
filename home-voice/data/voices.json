@@ -5383,8 +5383,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-003_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-003_home_cmmn-01.wav",
-    "ja": "仮装の準備がまだでしたら、私が手伝いますよ。",
-    "zh": "如果变装准备还没做的话，我来帮忙哦。",
+    "ja": "仮装の準備がまだでしたら、\n私が手伝いますよ。",
+    "zh": "如果还没做好变装准备的话，\n我可以来帮忙哦。",
     "wav_source": "reused",
     "duration": 4.213229166666666,
     "sample_rate": 48000,
@@ -5393,7 +5393,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T01:43:20.736Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-003_home_cmmn-02",
