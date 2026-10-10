@@ -17466,8 +17466,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_fktn_home_cmmn-26.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_cmmn-26.wav",
-    "ja": "おぼろがこれで終わったなんて、思わないでくださいね！",
-    "zh": "别以为“胧”会就这样结束哦！",
+    "ja": "恩返しがこれで終わったなんて、思わないでくださいね！",
+    "zh": "可别以为我的报恩到此就结束了哦！",
     "wav_source": "reused",
     "duration": 4.521958333333333,
     "sample_rate": 48000,
@@ -17476,7 +17476,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:46:14.721Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-27",
