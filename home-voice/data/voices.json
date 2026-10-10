@@ -6501,8 +6501,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-021_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-021_home_cmmn-02.wav",
-    "ja": "全ての人が私を見てくれないと、満たされません。",
-    "zh": "要是所有人都不看着我，我可不会满足。",
+    "ja": "全ての人が私を見てくれないと、\n満たされません。",
+    "zh": "要是所有人不全都看着我的话，\n我可不会满足。",
     "wav_source": "reused",
     "duration": 4.8756875,
     "sample_rate": 48000,
@@ -6511,7 +6511,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:33:41.062Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-021_home_cmmn-03",

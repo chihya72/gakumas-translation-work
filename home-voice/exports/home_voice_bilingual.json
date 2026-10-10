@@ -2054,8 +2054,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-021_home_cmmn-02",
     "speaker": "美鈴",
-    "ja": "全ての人が私を見てくれないと、満たされません。",
-    "zh": "要是所有人都不看着我，我可不会满足。"
+    "ja": "全ての人が私を見てくれないと、\n満たされません。",
+    "zh": "要是所有人不全都看着我的话，\n我可不会满足。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-021_home_cmmn-03",
