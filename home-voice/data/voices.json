@@ -17989,8 +17989,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-20.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-20.wav",
-    "ja": "フルーツゴリって、いくつ取れたらお得なんですかね？",
-    "zh": "抓水果猩猩要抓几个才算划算呢？",
+    "ja": "フルーツ狩りって、いくつ取れたらお得なんですかね？",
+    "zh": "去果园自助摘水果，\n得摘多少才值回本呀？",
     "wav_source": "reused",
     "duration": 4.2707291666666665,
     "sample_rate": 48000,
@@ -17999,7 +17999,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T21:00:13.770Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-21",
