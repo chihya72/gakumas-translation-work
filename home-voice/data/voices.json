@@ -5744,8 +5744,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-008_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-008_home_cmmn-03.wav",
-    "ja": "暖かいと眠くなりますね。一緒にお昼寝しませんか？",
-    "zh": "一暖和就容易犯困呢。要不要一起午睡？",
+    "ja": "暖かいと眠くなりますね。\n一緒にお昼寝しませんか？",
+    "zh": "一暖和就容易犯困呢。\n要不要和我一起午睡？",
     "wav_source": "reused",
     "duration": 6.141145833333334,
     "sample_rate": 48000,
@@ -5754,7 +5754,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T02:33:00.816Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-01",
