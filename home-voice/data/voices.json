@@ -17488,7 +17488,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_cmmn-27.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_cmmn-27.wav",
     "ja": "全部私のものにしますから、覚悟しててくださいね！",
-    "zh": "我会把一切都变成我的，你做好觉悟吧！",
+    "zh": "我会把一切都变成只属于我的，\n请做好觉悟哦！",
     "wav_source": "reused",
     "duration": 4.652729166666667,
     "sample_rate": 48000,
@@ -17497,7 +17497,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:47:17.447Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-28",
