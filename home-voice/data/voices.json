@@ -17508,7 +17508,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_cmmn-28.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_cmmn-28.wav",
     "ja": "なりますよ～\nみんなを幸せにする\n億万長者のアイドルに！",
-    "zh": "我一定会成为能带给大家幸福的亿万富豪偶像！",
+    "zh": "我一定会成为能带给大家幸福的亿万富翁偶像！",
     "wav_source": "reused",
     "duration": 6.215229166666667,
     "sample_rate": 48000,
@@ -17519,7 +17519,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T19:52:08.665Z"
+    "reviewed_at": "2026-10-10T19:52:38.957Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-29",
