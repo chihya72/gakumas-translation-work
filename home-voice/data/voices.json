@@ -5509,8 +5509,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-005_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-005_home_cmmn-01.wav",
-    "ja": "見守っていてください。\n羽田やみすずの下克上を。",
-    "zh": "请好好看着。\n羽田和美铃的下克上。",
+    "ja": "見守っていてください。\n秦谷美鈴の下克上を。",
+    "zh": "请好好看着吧。\n秦谷美铃的下克上。",
     "wav_source": "reused",
     "duration": 5.281833333333333,
     "sample_rate": 48000,
@@ -5519,7 +5519,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T01:54:02.428Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-005_home_cmmn-02",
