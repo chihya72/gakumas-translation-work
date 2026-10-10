@@ -17750,7 +17750,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-08.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-08.wav",
     "ja": "今日もあとちょっと頑張りましょう！",
-    "zh": "今天也再稍微努力一下吧！",
+    "zh": "今天也只剩最后一点了，\n我们再加把劲吧！",
     "wav_source": "reused",
     "duration": 3.1866666666666665,
     "sample_rate": 48000,
@@ -17759,7 +17759,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T20:35:08.679Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-09",
