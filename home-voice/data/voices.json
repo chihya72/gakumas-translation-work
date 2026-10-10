@@ -5320,8 +5320,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-002_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-002_home_cmmn-01.wav",
-    "ja": "どこか静かな場所でゆっくり花火を眺めたいですね",
-    "zh": "真想找个安静的地方悠闲地看烟花呢。",
+    "ja": "どこか静かな場所で\nゆっくり花火を眺めたいですね",
+    "zh": "真想找个安静的地方\n悠闲地看烟花呢。",
     "wav_source": "reused",
     "duration": 4.3518125,
     "sample_rate": 48000,
@@ -5330,7 +5330,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T01:38:51.263Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-002_home_cmmn-02",
