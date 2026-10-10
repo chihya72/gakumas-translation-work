@@ -4553,7 +4553,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-009_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-009_home_cmmn-01.wav",
     "ja": "ひな祭りはちびどもと折り紙でひな人形を作ってるんです！",
-    "zh": "女儿节我都会和小家伙们用折纸做雏人偶！",
+    "zh": "女儿节我都会和小不点们用折纸做雏人偶！",
     "wav_source": "reused",
     "duration": 4.9444791666666665,
     "sample_rate": 48000,
@@ -4564,7 +4564,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T20:01:01.712Z"
+    "reviewed_at": "2026-10-10T16:34:16.781Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-009_home_cmmn-02",
