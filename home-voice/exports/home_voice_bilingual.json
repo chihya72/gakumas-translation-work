@@ -1898,8 +1898,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-010_home_cmmn-03",
     "speaker": "美鈴",
-    "ja": "なんて、人と共に歌うなんて、とても素敵な機会ですね。",
-    "zh": "哎呀，能与人一起唱歌，真是非常棒的机会呢。"
+    "ja": "なんて人と共に歌うなんて、\nとても素敵な機会ですね。",
+    "zh": "难得能与人一起唱歌，\n真是个非常棒的机会呢。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-011_home_cmmn-01",
