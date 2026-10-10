@@ -4696,8 +4696,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-011_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-011_home_cmmn-02.wav",
-    "ja": "手回りに歌を教えてもらったら、もっと上達するかな？",
-    "zh": "如果请手毬教我，我会不会唱得更好呢？",
+    "ja": "手毬に歌を教えてもらったら、\nもっと上達するかな？",
+    "zh": "如果请手毬教我唱歌，\n我会不会唱得更好呢？",
     "wav_source": "reused",
     "duration": 5.4119375,
     "sample_rate": 48000,
@@ -4708,7 +4708,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T08:47:05.950Z"
+    "reviewed_at": "2026-10-10T16:42:19.276Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-011_home_cmmn-03",
