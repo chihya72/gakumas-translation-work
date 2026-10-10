@@ -5207,7 +5207,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-021_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-021_home_cmmn-03.wav",
     "ja": "夏の思い出に一緒に海とか行っちゃいます？",
-    "zh": "作为夏天的回忆，要不要一起去海边之类的地方？",
+    "zh": "作为夏天的回忆，\n要不要一起去海边之类的地方？",
     "wav_source": "reused",
     "duration": 4.095958333333333,
     "sample_rate": 48000,
@@ -5216,7 +5216,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:04:01.337Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-022_home_cmmn-01",
