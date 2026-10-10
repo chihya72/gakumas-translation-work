@@ -6115,8 +6115,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-014_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-014_home_cmmn-02.wav",
-    "ja": "あなたが望むなら、いつだって小森傭を歌ってあげますよ",
-    "zh": "只要你希望，我随时都可以唱《小森佣》给你听哦。",
+    "ja": "あなたが望むなら、いつだって子守唄を歌てあげますよ。",
+    "zh": "只要您希望的话，\n我随时都可以唱摇篮曲给您听哦。",
     "wav_source": "reused",
     "duration": 5.404958333333333,
     "sample_rate": 48000,
@@ -6125,8 +6125,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_normalization": "chinese_export_text"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T08:44:25.633Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_home_cmmn-03",
