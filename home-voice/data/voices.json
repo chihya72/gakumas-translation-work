@@ -13113,7 +13113,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-017_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-017_home_cmmn-03.wav",
     "ja": "すみかちゃんのこと、先輩にもたくさん教えてあげます！",
-    "zh": "关于小澄香的事，我也会告诉前辈很多的。",
+    "zh": "关于小清夏的事，我也会告诉前辈很多的。",
     "wav_source": "reused",
     "duration": 3.937520833333333,
     "sample_rate": 48000,
@@ -13122,7 +13122,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T04:00:32.034Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-018_home_cmmn-01",
