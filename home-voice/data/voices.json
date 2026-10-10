@@ -18122,8 +18122,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_cmmn-04.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_cmmn-04.wav",
-    "ja": "のんびりと高いところへ歩いていきましょう",
-    "zh": "悠闲地往高处走吧。",
+    "ja": "のんびりと高いところへ歩いていきましょう。",
+    "zh": "让我们悠闲地向高处走吧。",
     "wav_source": "reused",
     "duration": 4.488645833333333,
     "sample_rate": 48000,
@@ -18132,7 +18132,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:39:11.474Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-05",
