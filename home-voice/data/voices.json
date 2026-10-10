@@ -12952,7 +12952,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-015_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-015_home_cmmn-01.wav",
     "ja": "先輩が自信をくれるから、私は最強です！",
-    "zh": "因为前辈给了我自信，所以我就是最强的！",
+    "zh": "前辈给了我自信所以，我就是最强的！",
     "wav_source": "reused",
     "duration": 3.9581666666666666,
     "sample_rate": 48000,
@@ -12961,9 +12961,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:55:16.793Z"
+    "reviewed_at": "2026-10-10T03:55:38.443Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_home_cmmn-02",
