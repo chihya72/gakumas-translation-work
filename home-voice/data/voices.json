@@ -17932,7 +17932,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-17.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-17.wav",
     "ja": "プロデューサー、もっと冷房強くならないんですか？",
-    "zh": "制作人，冷气不能再开强一点吗？",
+    "zh": "制作人，\n冷气就不能再开大一点吗？",
     "wav_source": "reused",
     "duration": 4.857395833333333,
     "sample_rate": 48000,
@@ -17941,7 +17941,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T21:03:51.925Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-18",
