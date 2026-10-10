@@ -1754,8 +1754,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-002_home_cmmn-03",
     "speaker": "美鈴",
-    "ja": "夏は日差しが眩しくて、涼しい季節が恋しいです。",
-    "zh": "夏天的阳光很刺眼，让人怀念凉爽的季节。"
+    "ja": "夏は日差しが眩しくて、\n涼しい季節が恋しいです。",
+    "zh": "夏天的阳光太刺眼了，\n真让人怀念凉爽的季节。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-003_home_cmmn-01",
