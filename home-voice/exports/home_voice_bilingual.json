@@ -5870,8 +5870,8 @@
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-03",
     "speaker": "美鈴",
-    "ja": "背伸びをしても疲れてしまうだけですよ",
-    "zh": "即使逞强也只会让自己累坏哦。"
+    "ja": "背伸びをしても、\n疲れてしまうだけですよ。",
+    "zh": "过分逞强也只会让自己累坏哦。"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-04",
