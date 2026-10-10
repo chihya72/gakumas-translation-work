@@ -6333,8 +6333,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-016_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-016_home_cmmn-03.wav",
-    "ja": "あなたへの気持ちも浮気になるなら\n困りますね",
-    "zh": "如果对你的心意也算是花心的话\n那就让人头疼了呢。",
+    "ja": "あなたへの気持ちも浮気になるなら、\n困りますね。",
+    "zh": "如果对你的这份情感\n也算是花心的话，\n那就让人头疼了呢。",
     "wav_source": "reused",
     "duration": 6.0445,
     "sample_rate": 48000,
@@ -6343,7 +6343,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:22:39.770Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-019_home_cmmn-01",
