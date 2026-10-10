@@ -5690,8 +5690,8 @@
   {
     "voiceAssetId": "sud_vo_system_fktn_home_touch-01",
     "speaker": "ことね",
-    "ja": "はっきり言ってくれないと、めっちゃ怖いんですけど！",
-    "zh": "你要是不能把话说清楚，我会很害怕的啦！"
+    "ja": "はっきり言ってくれないと、\nめっちゃ怖いんですけど！",
+    "zh": "你要是不把话说清楚，\n我会很害怕的啦！"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_touch-02",

@@ -3804,7 +3804,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_fktn_home_touch-01",
-      "text": "你要是不能把话说清楚，我会很害怕的啦！"
+      "text": "你要是不把话说清楚，\n我会很害怕的啦！"
     },
     {
       "voiceAssetId": "sud_vo_system_fktn_home_touch-02",
