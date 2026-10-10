@@ -4861,7 +4861,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-014_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-014_home_cmmn-01.wav",
     "ja": "可愛いだけじゃないことねちゃんを、見せてあげます！",
-    "zh": "小琴音可不单单只有可爱！\n就让你们见识一下！",
+    "zh": "小琴音可不单单只有可爱！\n就让你见识一下！",
     "wav_source": "reused",
     "duration": 4.043541666666667,
     "sample_rate": 48000,
@@ -4872,7 +4872,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T17:19:32.608Z"
+    "reviewed_at": "2026-10-10T17:25:58.237Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-014_home_cmmn-02",
