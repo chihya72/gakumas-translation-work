@@ -5105,7 +5105,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-019_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-019_home_cmmn-01.wav",
     "ja": "憧れの楽曲を歌えるなんて、こんなことあるんですね！",
-    "zh": "竟然能唱到自己憧憬的歌曲，真没想到会有这种事！",
+    "zh": "竟然能唱到自己憧憬的歌曲，\n真没想到会有这种好事！",
     "wav_source": "reused",
     "duration": 5.448291666666667,
     "sample_rate": 48000,
@@ -5114,7 +5114,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T18:57:30.038Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-019_home_cmmn-02",
