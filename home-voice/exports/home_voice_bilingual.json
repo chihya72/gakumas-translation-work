@@ -1778,8 +1778,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-004_home_cmmn-01",
     "speaker": "美鈴",
-    "ja": "クリスマスは、予定を空けておいてくださいね。",
-    "zh": "圣诞节请把日程空出来哦。"
+    "ja": "クリスマスは、\n予定を空けておいてくださいね。",
+    "zh": "请把您的圣诞节安排\n为我空出来哦。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-004_home_cmmn-02",
