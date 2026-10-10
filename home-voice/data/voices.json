@@ -18361,8 +18361,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_cmmn-15.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_cmmn-15.wav",
-    "ja": "早歩きもたまにはいいものですね",
-    "zh": "偶尔快走一下也不错呢。",
+    "ja": "早歩きもたまにはいいものですね。",
+    "zh": "偶尔早起晨跑一下也不错呢。",
     "wav_source": "reused",
     "duration": 4.473625,
     "sample_rate": 48000,
@@ -18371,7 +18371,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:51:54.677Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-16",
