@@ -4900,8 +4900,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-014_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-014_home_cmmn-03.wav",
-    "ja": "聞かせてやりますよ！下手くそなりの本気の歌を！",
-    "zh": "就让你听听吧！就算是笨拙的我，也要唱出认真的歌！",
+    "ja": "聞かせてやりますよ！\n下手くそなりの本気の歌を！",
+    "zh": "就让你听听我的歌吧！\n唱的不算好，却饱含真心的歌！",
     "wav_source": "reused",
     "duration": 4.4240625,
     "sample_rate": 48000,
@@ -4910,7 +4910,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T17:31:35.199Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-015_home_cmmn-01",
