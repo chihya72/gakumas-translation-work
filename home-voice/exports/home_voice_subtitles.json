@@ -6,8 +6,14 @@
   "bubbleWidth": 520,
   "fontSize": 32,
   "textPadding": [
-    40,
-    40
+    48,
+    48
+  ],
+  "screenRect": [
+    0.6,
+    0.686,
+    0.38,
+    0.094
   ],
   "subtitles": [
     {
@@ -936,7 +942,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-fktn-3-002_home_cmmn-02",
-      "text": "要和小家伙们去祭典的话，\n得努力打工才行呢！"
+      "text": "要和小不点们去祭典的话，\n得努力打工才行呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-fktn-3-002_home_cmmn-03",
