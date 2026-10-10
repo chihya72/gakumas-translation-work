@@ -1628,8 +1628,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-016_home_cmmn-03",
     "speaker": "ことね",
-    "ja": "落ち込んでるときは、うーんと甘い慰めをお願いしますね！",
-    "zh": "心情低落的时候，请给我超级甜蜜的安慰哦！"
+    "ja": "落ち込んでるときは、\nうーんと甘い慰めをお願いしますね！",
+    "zh": "我心情低落的时候，\n要给我超级甜蜜的安慰哦！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-017_home_cmmn-01",
