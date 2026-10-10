@@ -18257,7 +18257,7 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_cmmn-10.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_cmmn-10.wav",
-    "ja": "親友として、あの子に自滅なんかさせません。",
+    "ja": "親友として、\nあの子に自滅なんかさせません。",
     "zh": "作为挚友，\n我不会让那孩子自取灭亡的。",
     "wav_source": "reused",
     "duration": 4.0571875,
@@ -18269,7 +18269,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T19:48:14.417Z"
+    "reviewed_at": "2026-10-10T19:48:29.883Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-11",
