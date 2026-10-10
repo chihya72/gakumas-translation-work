@@ -4654,8 +4654,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-010_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-010_home_cmmn-03.wav",
-    "ja": "桜ばっかり見てないで、私も見てください！",
-    "zh": "别光看樱花啊，也请看看我嘛！",
+    "ja": "桜ばっかり見てないで、\n私も見てください！",
+    "zh": "别光看樱花啊，\n也请看看我嘛！",
     "wav_source": "reused",
     "duration": 4.112666666666667,
     "sample_rate": 48000,
@@ -4665,8 +4665,9 @@
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
     "reviewed": true,
-    "reviewed_at": "2026-10-10T16:39:32.550Z",
-    "zh_origin": "manual_viewer"
+    "reviewed_at": "2026-10-10T16:40:06.460Z",
+    "zh_origin": "manual_viewer",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-011_home_cmmn-01",
