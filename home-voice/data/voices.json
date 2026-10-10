@@ -6459,8 +6459,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-020_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-020_home_cmmn-03.wav",
-    "ja": "あなたが望むなら、また被写体になって差し上げます。",
-    "zh": "如果你希望，我也可以再当你的拍摄对象。",
+    "ja": "あなたが望むなら、\n\nまた被写体になって差し上げます。",
+    "zh": "如果您想要的话，\n我也可以再当您的拍摄对象。",
     "wav_source": "reused",
     "duration": 4.832979166666667,
     "sample_rate": 48000,
@@ -6469,7 +6469,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:29:12.048Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-021_home_cmmn-01",
