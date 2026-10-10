@@ -5511,7 +5511,7 @@
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-01",
     "speaker": "ことね",
     "ja": "あのう、忙しそうですけど、ちゃんと休んでます？",
-    "zh": "那个，您看起来挺忙的，有好好休息吗？"
+    "zh": "那个...您看起来挺忙的，\n有好好休息吗？"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-02",
