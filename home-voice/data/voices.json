@@ -4572,8 +4572,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-009_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-009_home_cmmn-02.wav",
-    "ja": "もうすぐ春かー！私のふところもあったかくならないかな？",
-    "zh": "春天要来了啊～！我的钱袋子是不是也能回暖呢？",
+    "ja": "もうすぐ春かー！\n私のふところもあったかくならないかな？",
+    "zh": "春天要来了啊～！\n我的钱袋子是不是也能回暖呢？",
     "wav_source": "reused",
     "duration": 5.621145833333333,
     "sample_rate": 48000,
@@ -4584,7 +4584,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T20:08:23.321Z"
+    "reviewed_at": "2026-10-10T08:14:42.842Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-009_home_cmmn-03",
