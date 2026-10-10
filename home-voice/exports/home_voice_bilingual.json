@@ -1551,7 +1551,7 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-012_home_cmmn-02",
     "speaker": "ことね",
     "ja": "私の可愛さで、お店を盛り上げちゃいますよ～！",
-    "zh": "我要用我的可爱，让店里热闹起来哦～！"
+    "zh": "我要用我的可爱，\n让店里热闹起来了哦～！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-012_home_cmmn-03",
