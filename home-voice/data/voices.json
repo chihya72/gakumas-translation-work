@@ -4179,7 +4179,7 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-002_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-002_home_cmmn-01.wav",
-    "ja": "お金持ちになったら、出店全制覇とかしてみたいな～",
+    "ja": "お金持ちになったら、\n出店全制覇とかしてみたいな～",
     "zh": "等我有钱了，真想把所有小摊都打卡一遍啊～",
     "wav_source": "reused",
     "duration": 5.3111041666666665,
@@ -4192,7 +4192,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T19:46:48.122Z"
+    "reviewed_at": "2026-10-10T07:57:24.166Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-002_home_cmmn-02",
