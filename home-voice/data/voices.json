@@ -4490,7 +4490,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-008_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-008_home_cmmn-01.wav",
     "ja": "バレンタイン、誰かにもらう予定とか...あります？",
-    "zh": "情人节...有没有谁打算送你巧克力...之类的呀？",
+    "zh": "情人节...有没有谁...\n打算送你巧克力之类的呀？",
     "wav_source": "reused",
     "duration": 5.841458333333334,
     "sample_rate": 48000,
@@ -4502,7 +4502,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T19:57:35.471Z"
+    "reviewed_at": "2026-10-10T08:11:34.244Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-008_home_cmmn-02",
