@@ -5719,8 +5719,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-008_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-008_home_cmmn-02.wav",
-    "ja": "春の穏やかな道を、のんびり歩くのも悪くありませんね。",
-    "zh": "在春天平静的小路上悠闲散步，也不坏呢。",
+    "ja": "春の穏やかな道を、\nのんびり歩くのも\n悪くありませんね。",
+    "zh": "春天在平静的小路上\n悠闲散步，感觉也不坏呢。",
     "wav_source": "reused",
     "duration": 6.071770833333333,
     "sample_rate": 48000,
@@ -5729,7 +5729,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T02:22:28.176Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-008_home_cmmn-03",
