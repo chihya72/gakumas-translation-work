@@ -13011,8 +13011,8 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-016_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-016_home_cmmn-01.wav",
-    "ja": "桂木莉莉亚\n今日だけはルール無用で行きます！",
-    "zh": "桂木莉莉亚\n只有今天，我会无视规则全力以赴！",
+    "ja": "葛城莉莉亚\n今日だけはルール無用で行きます！",
+    "zh": "葛城莉莉亚\n只有今天，我会无视规则全力以赴！",
     "wav_source": "reused",
     "duration": 4.2775,
     "sample_rate": 48000,
@@ -13021,7 +13021,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T03:57:34.861Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-016_home_cmmn-02",
