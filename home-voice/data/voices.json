@@ -5425,8 +5425,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-003_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-003_home_cmmn-03.wav",
-    "ja": "横になって目を閉じてください。いたずらをしますから。",
-    "zh": "请躺下闭上眼睛。因为我要恶作剧了。",
+    "ja": "横になって目を閉じてください。\nいたずらをしますから。",
+    "zh": "请躺下并闭上眼睛。\n因为我要对你恶作剧了。",
     "wav_source": "reused",
     "duration": 4.788458333333334,
     "sample_rate": 48000,
@@ -5435,7 +5435,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T01:45:27.552Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-004_home_cmmn-01",
