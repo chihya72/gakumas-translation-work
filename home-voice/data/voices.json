@@ -4261,8 +4261,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-003_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-003_home_cmmn-02.wav",
-    "ja": "グラビアのお仕事が来たら、ギャラ交渉お願いしますね！",
-    "zh": "如果有写真集拍摄的工作，报酬的交涉就拜托了哦！",
+    "ja": "グラビアのお仕事が来たら、\nギャラ交渉お願いしますね！",
+    "zh": "如果有写真集拍摄的工作，\n报酬的交涉就拜托了哦！",
     "wav_source": "reused",
     "duration": 5.261354166666667,
     "sample_rate": 48000,
@@ -4274,7 +4274,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-09T20:02:32.842Z"
+    "reviewed_at": "2026-10-10T07:59:36.605Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-003_home_cmmn-03",
