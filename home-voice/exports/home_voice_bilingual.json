@@ -1850,8 +1850,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-008_home_cmmn-01",
     "speaker": "美鈴",
-    "ja": "お花見に行きましょう。おいしいお弁当を作りますよ。",
-    "zh": "去赏花吧。我会做很好吃的便当哦。"
+    "ja": "お花見に行きましょう。\nおいしいお弁当を作りますよ。",
+    "zh": "一起去赏花吧。\n我会做很好吃的便当哦。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-008_home_cmmn-02",
