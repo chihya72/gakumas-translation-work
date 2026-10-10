@@ -17831,7 +17831,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-12.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-12.wav",
     "ja": "えへへ\nクリスマスまでプロデューサーと一緒ですね",
-    "zh": "诶嘿嘿\n到圣诞节前都和制作人在一起呢。",
+    "zh": "诶嘿嘿，已经和制作人相伴到圣诞节了呢。",
     "wav_source": "reused",
     "duration": 4.4635625,
     "sample_rate": 48000,
@@ -17840,7 +17840,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T20:46:05.747Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-13",
