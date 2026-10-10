@@ -1868,8 +1868,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-01",
     "speaker": "美鈴",
-    "ja": "一日店員として、お客様をおもてなしいたしましょう。",
-    "zh": "作为一日店员，来热情招待客人吧。"
+    "ja": "一日店員として、\nお客様をおもてなしいたしましょう。",
+    "zh": "身为一日店员，\n让我来热情招待客人吧。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-02",
