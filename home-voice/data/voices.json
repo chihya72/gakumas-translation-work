@@ -5145,8 +5145,8 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_cidol-fktn-3-019_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-fktn-3-019_home_cmmn-03.wav",
-    "ja": "嬉しいサプライズ！また期待してますね！",
-    "zh": "好开心的惊喜！我会继续期待的哦！",
+    "ja": "嬉しいサプライズ、また期待してますね！",
+    "zh": "我会继续期待更多惊喜的哦！",
     "wav_source": "reused",
     "duration": 3.6187291666666668,
     "sample_rate": 48000,
@@ -5155,7 +5155,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T18:59:41.751Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-021_home_cmmn-01",
