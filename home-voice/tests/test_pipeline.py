@@ -180,6 +180,28 @@ class PipelineTests(unittest.TestCase):
             output = pipeline.read_json(root / "exports" / "home_voice_subtitles.json")
             self.assertEqual(output["subtitles"], [{"voiceAssetId": voice_id, "text": "人工\n译文"}])
 
+    def test_export_migrates_legacy_bubble_layout_without_changing_text(self):
+        with tempfile.TemporaryDirectory(dir=Path(__file__).resolve().parent) as directory:
+            root = Path(directory)
+            pipeline.write_json(root / "config.json", {})
+            pipeline.write_json(root / "data" / "subtitle_ui.json", {
+                "enabled": True, "showCueWhenMissing": False, "fontSize": 32,
+                "screenRect": [0.60, 0.686, 0.38, 0.094], "textPadding": [48, 48],
+                "obsoleteLayout": "old", "subtitles": [{"text": "old subtitle"}],
+            })
+            row = {"voiceAssetId": "voice", "speaker": "麻央", "ja": "手動\n原文", "zh": "人工\n译文"}
+            job = pipeline.Pipeline(root)
+            job.voices = [row.copy()]
+            job.export()
+            result = pipeline.read_json(root / "exports" / "home_voice_subtitles.json")
+            self.assertEqual(result, {
+                "enabled": True, "showCueWhenMissing": False, "leftOffset": 40,
+                "minBubbleWidth": 424, "bubbleWidth": 520, "fontSize": 32,
+                "textPadding": [40, 40], "subtitles": [{"voiceAssetId": "voice", "text": row["zh"]}],
+            })
+            self.assertEqual(pipeline.read_json(root / "data" / "voices.json"), [row])
+            self.assertEqual(pipeline.read_json(root / "exports" / "home_voice_bilingual.json"), [row])
+
     def test_failed_export_does_not_replace_previous_complete_export(self):
         with tempfile.TemporaryDirectory(dir=Path(__file__).resolve().parent) as directory:
             root = Path(directory)

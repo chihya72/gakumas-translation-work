@@ -37,6 +37,13 @@ def write_json(path: Path, value) -> None:
     temporary.replace(path)
 
 
+def subtitle_ui_config(previous: dict) -> dict:
+    return {"enabled": previous.get("enabled", True),
+            "showCueWhenMissing": previous.get("showCueWhenMissing", False),
+            "leftOffset": 40, "minBubbleWidth": 424, "bubbleWidth": 520,
+            "fontSize": previous.get("fontSize", 32), "textPadding": [40, 40]}
+
+
 def event(name: str, **details) -> None:
     print(json.dumps({"event": name, **details}, ensure_ascii=False), flush=True)
 
@@ -230,7 +237,7 @@ class Pipeline:
         template_path = self.root / "data" / "subtitle_ui.json"
         if not template_path.exists():
             previous = read_json(Path(self.config["subtitle_template"]), {})
-            write_json(template_path, {k: v for k, v in previous.items() if k != "subtitles"})
+            write_json(template_path, subtitle_ui_config(previous))
             legacy_ids = {
                 "sud_vo_system_cidol-hmsz-3-000_home_cmmn-01",
                 "sud_vo_system_cidol-hmsz-3-000_home_cmmn-02",
@@ -524,7 +531,7 @@ class Pipeline:
             raise ValueError("Duplicate voiceAssetId in catalog")
         if len({row["voiceAssetId"] for row in self.voices if row.get("zh")}) != len(self.voices):
             raise ValueError("Untranslated voices remain; run status to inspect them")
-        config = read_json(self.root / "data" / "subtitle_ui.json", {})
+        config = subtitle_ui_config(read_json(self.root / "data" / "subtitle_ui.json", {}))
         config["subtitles"] = [{"voiceAssetId": row["voiceAssetId"], "text": row["zh"]} for row in self.voices]
         write_json(self.root / "exports" / "home_voice_subtitles.json", config)
         write_json(self.root / "exports" / "home_voice_bilingual.json",

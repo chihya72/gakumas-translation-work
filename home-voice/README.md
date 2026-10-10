@@ -55,7 +55,7 @@ Windows 本地主页语音处理仓库：收录 ACB、复用或转换 WAV、通�
 - `data\previous_user_subtitles.json`：单独保留旧任务的四条用户已有文本；新项目仍对全部音频重新识别。游戏中的现有字幕不修改。
 - `translation\input`、`output`：现有引擎兼容的 CSV，保留完整语音 ID。
 - `exports\home_voice_bilingual.json`、`.csv`：日中对照数据。CSV 每条语音占一行，日中字段使用字面量 `\n`，不含字段内部的实际换行；导入时还原换行。JSON 保留实际换行的语义。
-- `exports\home_voice_subtitles.json`：当前 HV-10 使用的数组格式，text 为简体中文，保留原有 UI 配置。
+- `exports\home_voice_subtitles.json`：新版气泡布局和 `subtitles` 数组，text 为简体中文。布局使用 `leftOffset: 40`、`minBubbleWidth: 424`、`bubbleWidth: 520`、`textPadding: [40, 40]`，移除旧 `screenRect`；enabled、showCueWhenMissing、fontSize 保留本地 UI 配置，缺失时默认 true、false、32。viewer“完成校对”与 `run.py` 第 5 步使用相同格式。
 
 外部依赖路径在 `config.json` 中配置。OpenMOSS 复用已有独立 Python、CUDA/BF16 模型和缓存，不复制模型。翻译直接加载 GakumasPreTranslation 的 `.env`、API 实现、模型、角色卡、术语表和只读翻译记忆，不复制密钥，不修改该仓库。按主表角色码读取说话人，主页语音使用独立 home_voice 分类，不注入连续剧情上下文。
 

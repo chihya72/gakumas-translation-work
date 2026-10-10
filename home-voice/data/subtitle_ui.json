@@ -1,15 +1,12 @@
 {
   "enabled": true,
   "showCueWhenMissing": false,
-  "screenRect": [
-    0.60,
-    0.686,
-    0.38,
-    0.094
-  ],
+  "leftOffset": 40,
+  "minBubbleWidth": 424,
+  "bubbleWidth": 520,
   "fontSize": 32,
   "textPadding": [
-    48,
-    48
+    40,
+    40
   ]
 }
