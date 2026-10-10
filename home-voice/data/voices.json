@@ -18050,7 +18050,7 @@
     "speaker": "ことね",
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-23.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-23.wav",
-    "ja": "寒いからって、外でのお仕事を減らしちゃダメですよ！\n外でのお仕事を減らしちゃダメですよ！",
+    "ja": "寒いからって、外でのお仕事を減らしちゃダメですよ！",
     "zh": "不能因为天冷就减少室外工作哦！",
     "wav_source": "reused",
     "duration": 3.8772083333333334,
@@ -18062,7 +18062,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T21:02:17.680Z"
+    "reviewed_at": "2026-10-10T21:03:26.792Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-24",
