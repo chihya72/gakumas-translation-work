@@ -17292,7 +17292,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_cmmn-18.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_cmmn-18.wav",
     "ja": "はーい！呼びました？",
-    "zh": "来啦——！你叫我了吗？",
+    "zh": "来啦——！您叫我了吗？",
     "wav_source": "reused",
     "duration": 2.2445625,
     "sample_rate": 48000,
@@ -17301,7 +17301,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-10T19:27:52.200Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-19",
