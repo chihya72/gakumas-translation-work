@@ -19020,7 +19020,7 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_transition-08.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_transition-08.wav",
-    "ja": "今日はもう少しだけお付き合いしますね。",
+    "ja": "今日はもう少しだけ、\nお付き合いしますね。",
     "zh": "今天我就再多陪您一会儿吧。",
     "wav_source": "reused",
     "duration": 3.957104166666667,
@@ -19030,7 +19030,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T17:54:38.593Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-09",
