@@ -6158,8 +6158,8 @@
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-19",
     "speaker": "美鈴",
-    "ja": "お祭りなら、着付けはお任せください。",
-    "zh": "祭典的话，穿和服就交给我吧。"
+    "ja": "お祭りなら、\n着付けはお任せください。",
+    "zh": "如果去参加祭典的话，\n穿浴衣就交给我吧。"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-20",
