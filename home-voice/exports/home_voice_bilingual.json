@@ -6008,8 +6008,8 @@
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-26",
     "speaker": "美鈴",
-    "ja": "生涯最高の日を迎えるときは、きっとあなたと一緒ですよ。",
-    "zh": "迎来一生中最美好的一天时，我一定和你在一起哦。"
+    "ja": "生涯最高の日を迎えるときは、\nきっとあなたと一緒ですよ。",
+    "zh": "当迎来一生中最美好的那一天时，\n我一定会和您在一起哦。"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-27",
