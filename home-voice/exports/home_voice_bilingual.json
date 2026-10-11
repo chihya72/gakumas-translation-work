@@ -6110,8 +6110,8 @@
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-11",
     "speaker": "美鈴",
-    "ja": "お菓子がなければ、いたずらしてしまいますよ。",
-    "zh": "如果没有点心的话，我可要捣蛋了哦。"
+    "ja": "お菓子がなければ、\nいたずらしてしまいますよ。",
+    "zh": "如果没有糖果的话，\n我可要捣蛋了哦。"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-12",
