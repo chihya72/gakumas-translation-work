@@ -19356,7 +19356,7 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_transition-24.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_transition-24.wav",
-    "ja": "私の手は暖かいですよ",
+    "ja": "私の手は暖かいですよ。",
     "zh": "我的手可是很暖和的哦。",
     "wav_source": "reused",
     "duration": 3.57325,
@@ -19366,7 +19366,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T18:14:41.575Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-25",
