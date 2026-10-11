@@ -18611,7 +18611,7 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_cmmn-23.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_cmmn-23.wav",
-    "ja": "私らしく歌ってきます",
+    "ja": "私らしく歌ってきます。",
     "zh": "我会以自己的方式去唱。",
     "wav_source": "reused",
     "duration": 2.9221041666666667,
@@ -18621,7 +18621,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T03:25:20.546Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-24",
