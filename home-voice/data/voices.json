@@ -7854,7 +7854,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-002_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-002_home_cmmn-01.wav",
     "ja": "射的に金魚すくい、わなげ。全部私が勝つわ！",
-    "zh": "打靶、捞金鱼、套圈，全部我都会赢！",
+    "zh": "打靶、捞金鱼、套圈，\n我全都要赢下来！",
     "wav_source": "reused",
     "duration": 5.798145833333334,
     "sample_rate": 48000,
@@ -7863,7 +7863,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T08:47:36.206Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-002_home_cmmn-02",
