@@ -8156,8 +8156,8 @@
     "speaker": "咲季",
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-008_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-008_home_cmmn-01.wav",
-    "ja": "意地と見栄と実力と外付けの勇気で勝ってくるわ！",
-    "zh": "凭志气、面子、实力和外加的勇气去赢下来！",
+    "ja": "意地と見栄と実力と、\n外付けの勇気で勝ってくるわ！",
+    "zh": "我会凭志气、虚荣心、实力，\n以及外置的勇气去赢下来！",
     "wav_source": "reused",
     "duration": 5.353479166666666,
     "sample_rate": 48000,
@@ -8166,7 +8166,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T16:32:26.966Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-008_home_cmmn-02",
