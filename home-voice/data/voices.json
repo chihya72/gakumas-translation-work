@@ -7916,7 +7916,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-003_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-003_home_cmmn-01.wav",
     "ja": "水中トレーニングにぴったりの季節がやってきたわね！",
-    "zh": "最适合水中训练的季节来了啊！",
+    "zh": "适合水中训练的季节来了啊！",
     "wav_source": "reused",
     "duration": 3.8178958333333335,
     "sample_rate": 48000,
@@ -7925,7 +7925,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T08:53:09.839Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-003_home_cmmn-02",
