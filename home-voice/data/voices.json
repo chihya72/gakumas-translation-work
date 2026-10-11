@@ -18816,7 +18816,7 @@
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_cmmn-30.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_cmmn-30.wav",
     "ja": "今朝は四時に起きて走ってきたんです。\nまあ、信じられないという顔ですね。",
-    "zh": "我今天早上四点起来去跑步了。\n哎呀，你露出一脸难以置信的表情呢。",
+    "zh": "我今天早上四点起来去跑步了。\n哎呀，您一脸难以置信呢。",
     "wav_source": "reused",
     "duration": 9.0094375,
     "sample_rate": 48000,
@@ -18825,7 +18825,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T17:39:09.269Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_touch-01",
