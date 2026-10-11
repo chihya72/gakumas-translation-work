@@ -8237,8 +8237,8 @@
     "speaker": "咲季",
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-009_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-009_home_cmmn-02.wav",
-    "ja": "梅と友達と、あと...\nふふふ、チョコの作りがいがあるわ！",
-    "zh": "和梅、朋友们，还有……\n呵呵呵，巧克力做得真有劲！",
+    "ja": "梅と友達と、あと...\nふふふ、チョコの作り甲斐があるわ！",
+    "zh": "佑芽、朋友们，还有...\n呵呵呵，做巧克力都变得好有意义呢！",
     "wav_source": "reused",
     "duration": 6.1695,
     "sample_rate": 48000,
@@ -8247,7 +8247,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T16:39:34.836Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-009_home_cmmn-03",
