@@ -8342,8 +8342,8 @@
     "speaker": "咲季",
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-011_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-011_home_cmmn-01.wav",
-    "ja": "お花見に行くなら、お弁当は私に任せなさい！",
-    "zh": "要去看花的话，便当就交给我吧！",
+    "ja": "お花見に行くなら、\nお弁当は私に任せなさい！",
+    "zh": "要去赏樱的话，\n便当就交给我吧！",
     "wav_source": "reused",
     "duration": 3.6297291666666665,
     "sample_rate": 48000,
@@ -8352,7 +8352,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T20:13:54.492Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-011_home_cmmn-02",
