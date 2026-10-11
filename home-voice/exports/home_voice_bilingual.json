@@ -2564,8 +2564,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-006_home_cmmn-03",
     "speaker": "咲季",
-    "ja": "私を一日店長に選ぶなんて、わかってるわよね？",
-    "zh": "选我当一日店长，你很清楚吧？"
+    "ja": "私を一日店長に選ぶなんて、\nわかってるわよね？",
+    "zh": "选我来当一日店长，\n你很懂嘛！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-007_home_cmmn-01",
