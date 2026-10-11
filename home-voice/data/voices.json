@@ -8566,7 +8566,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-014_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-014_home_cmmn-03.wav",
     "ja": "みんなの声がたくさん聞けそうで、ライブで歌うのが楽しみね！",
-    "zh": "感觉能听到大家很多的声音，真期待在演唱会上唱歌呢！",
+    "zh": "感觉能听到大家很多的呼声，\n真期待在现场歌唱啊！",
     "wav_source": "reused",
     "duration": 5.0885,
     "sample_rate": 48000,
@@ -8575,7 +8575,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T20:48:03.996Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-015_home_cmmn-01",
