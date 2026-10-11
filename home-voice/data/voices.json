@@ -18959,7 +18959,7 @@
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_transition-05.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_transition-05.wav",
     "ja": "もしかして、レッスンのお誘いでしょうか。",
-    "zh": "莫非，是来邀请我去训练的吗？",
+    "zh": "难道说，您是来邀请我去训练吗？",
     "wav_source": "reused",
     "duration": 3.7407916666666665,
     "sample_rate": 48000,
@@ -18968,7 +18968,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T17:48:21.127Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-06",
