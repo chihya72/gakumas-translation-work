@@ -5329,8 +5329,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-000_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-000_home_cmmn-03.wav",
-    "ja": "私は言い続けます。あなたのままでいいと。",
-    "zh": "我会一直说下去。你保持现在的样子就好。",
+    "ja": "私は言い続けます。\nあなたのままでいいと。",
+    "zh": "我会一直这样告诉您的：\n您只需要做自己就好。",
     "wav_source": "reused",
     "duration": 4.8016041666666665,
     "sample_rate": 48000,
@@ -5339,7 +5339,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T18:10:50.640Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-001_home_cmmn-01",
