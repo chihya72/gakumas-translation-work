@@ -8626,7 +8626,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-015_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-015_home_cmmn-03.wav",
     "ja": "どんな私も魅力的だって、あなたは言ってくれるのね。",
-    "zh": "无论怎样的我，你都愿意说很有魅力呢。",
+    "zh": "无论怎样的我，\n你都愿意说很有魅力呢。",
     "wav_source": "reused",
     "duration": 4.5139375,
     "sample_rate": 48000,
@@ -8635,7 +8635,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T20:49:44.904Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-016_home_cmmn-01",
