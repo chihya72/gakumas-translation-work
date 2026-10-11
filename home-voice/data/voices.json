@@ -18794,8 +18794,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_cmmn-29.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_cmmn-29.wav",
-    "ja": "今日は咲希さんに誘われて早起きをしたので、気持ちよくお昼寝できそうです。",
-    "zh": "今天受咲希同学邀请起了个大早，所以应该能舒舒服服地午睡。",
+    "ja": "今日は咲季さんに誘われて早起きをしたので、\n気持ちよくお昼寝できそうです。",
+    "zh": "今天受咲季同学邀请起了个大早，\n所以应该能舒舒服服地午睡。",
     "wav_source": "reused",
     "duration": 5.673979166666666,
     "sample_rate": 48000,
@@ -18804,7 +18804,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T17:38:32.470Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-30",
