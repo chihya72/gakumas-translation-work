@@ -18857,7 +18857,7 @@
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_touch-02.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_touch-02.wav",
     "ja": "さすがに少し照れてしまいます。",
-    "zh": "毕竟我还是会有点害羞的。",
+    "zh": "这下还是真让我有点害羞了呢。",
     "wav_source": "reused",
     "duration": 3.8348541666666667,
     "sample_rate": 48000,
@@ -18866,7 +18866,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T17:42:16.226Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-01",
