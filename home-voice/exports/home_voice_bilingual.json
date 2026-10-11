@@ -6116,8 +6116,8 @@
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-12",
     "speaker": "美鈴",
-    "ja": "[笑]\nサンタさんですよ。お願いよどうぞ。",
-    "zh": "[笑]\n是圣诞老人哦。请许愿吧。"
+    "ja": "サンタさんですよ。\nお願いよどうぞ。",
+    "zh": "我是圣诞老人哦。\n请向我许愿吧。"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-13",
