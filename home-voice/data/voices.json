@@ -18919,7 +18919,7 @@
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_transition-03.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_transition-03.wav",
     "ja": "そろそろお昼にしませんか？",
-    "zh": "差不多该吃午饭了吧？",
+    "zh": "差不多该睡午觉了吧？",
     "wav_source": "reused",
     "duration": 2.738166666666667,
     "sample_rate": 48000,
@@ -18928,7 +18928,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T17:45:11.760Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-04",
