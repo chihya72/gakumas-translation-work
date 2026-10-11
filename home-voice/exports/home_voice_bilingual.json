@@ -6152,8 +6152,8 @@
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-18",
     "speaker": "美鈴",
-    "ja": "風が通る木陰は夏のお昼寝にぴったりですよ",
-    "zh": "有风吹过的树荫，最适合夏天午睡了哦。"
+    "ja": "風が通る木陰は、\n夏のお昼寝にぴったりですよ",
+    "zh": "有风吹过的树荫，\n最适合夏天午睡了哦。"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-19",
