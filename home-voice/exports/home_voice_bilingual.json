@@ -6134,8 +6134,8 @@
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-15",
     "speaker": "美鈴",
-    "ja": "桜が散る前に、お散歩に行きませんか？",
-    "zh": "要不要在樱花凋谢之前去散散步呢？"
+    "ja": "桜が散る前に、\nお散歩に行きませんか？",
+    "zh": "要不要在樱花凋谢之前，\n和我一起去散散步呢？"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-16",
