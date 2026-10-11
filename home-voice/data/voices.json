@@ -8282,7 +8282,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-010_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-010_home_cmmn-01.wav",
     "ja": "私と佑芽の健康と成長を願って、ひな祭りを祝うわよ！",
-    "zh": "怀着我和佑芽健康成长的祈愿，来过女儿节吧！",
+    "zh": "怀着我和佑芽健康与成长的祈愿，\n来庆祝女儿节吧！",
     "wav_source": "reused",
     "duration": 4.749916666666667,
     "sample_rate": 48000,
@@ -8291,7 +8291,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T20:08:37.083Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-010_home_cmmn-02",
