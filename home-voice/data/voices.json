@@ -8686,7 +8686,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-016_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-016_home_cmmn-03.wav",
     "ja": "全員、この私に狂わせてあげるわ！",
-    "zh": "所有人，我都会让你们为我着迷！",
+    "zh": "我会让所有人为我痴狂！",
     "wav_source": "reused",
     "duration": 3.7062083333333335,
     "sample_rate": 48000,
@@ -8695,7 +8695,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T20:54:07.643Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-017_home_cmmn-01",
