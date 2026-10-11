@@ -19314,7 +19314,7 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_transition-22.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_transition-22.wav",
-    "ja": "私の秋は眠りの秋でしょうか",
+    "ja": "私の秋は、眠りの秋でしょうか。",
     "zh": "我的秋天，或许是睡眠之秋吧。",
     "wav_source": "reused",
     "duration": 5.762395833333334,
@@ -19324,7 +19324,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T18:13:26.268Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-23",
