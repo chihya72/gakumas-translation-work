@@ -19186,8 +19186,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_transition-16.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_transition-16.wav",
-    "ja": "今日のお茶菓子は、さくら餅などいかがでしょう？",
-    "zh": "今天的茶点，来点樱饼之类的如何？",
+    "ja": "今日のお茶菓子は、\nさくら餅などいかがでしょう？",
+    "zh": "今天的茶点，\n来点樱饼之类的如何？",
     "wav_source": "reused",
     "duration": 3.8857916666666665,
     "sample_rate": 48000,
@@ -19196,7 +19196,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T18:03:37.491Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-17",
