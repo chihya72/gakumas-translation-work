@@ -19293,8 +19293,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_transition-21.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_transition-21.wav",
-    "ja": "涼しくて歩きやすい。とてもいい季節ですね。",
-    "zh": "又凉爽又适合散步。真是个很好的季节呢。",
+    "ja": "涼しくて歩きやすい。\nとてもいい季節ですね。",
+    "zh": "天气凉爽又适合散步。\n真是个很好的季节呢。",
     "wav_source": "reused",
     "duration": 4.899916666666667,
     "sample_rate": 48000,
@@ -19303,7 +19303,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T18:12:57.913Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-22",
