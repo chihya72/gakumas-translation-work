@@ -19207,8 +19207,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_transition-17.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_transition-17.wav",
-    "ja": "涼しくなるまではゆっくりしていましょう",
-    "zh": "到变凉快之前，就悠闲地待着吧。",
+    "ja": "涼しくなるまでは、\nゆっくりしていましょう。",
+    "zh": "到天气变得凉快之前，\n就悠闲地待着吧。",
     "wav_source": "reused",
     "duration": 3.9939583333333335,
     "sample_rate": 48000,
@@ -19217,7 +19217,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T18:04:37.502Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_transition-18",
