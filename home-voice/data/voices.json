@@ -8056,7 +8056,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-006_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-006_home_cmmn-02.wav",
     "ja": "プロデューサー！おすすめのアニメがあれば教えなさい！",
-    "zh": "制作人！有什么推荐的动画就告诉我！",
+    "zh": "制作人！\n有什么推荐的动画就告诉我！",
     "wav_source": "reused",
     "duration": 3.4492083333333334,
     "sample_rate": 48000,
@@ -8065,7 +8065,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T13:42:29.292Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-006_home_cmmn-03",
