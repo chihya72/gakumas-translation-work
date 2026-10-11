@@ -1365,7 +1365,7 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-001_home_cmmn-01",
     "speaker": "ことね",
     "ja": "エゴサ、やめられないんです！",
-    "zh": "自搜真的没法停下来啊。！"
+    "zh": "自搜真的没法停下来啊！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-001_home_cmmn-02",
@@ -5529,7 +5529,7 @@
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-04",
     "speaker": "ことね",
     "ja": "目指せ大金持ち！！\nって、聞けちゃいました？",
-    "zh": "目标是成为大富翁！！\n啊。你听到了？"
+    "zh": "目标是成为大富翁！！\n啊、你听到了？"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-05",
@@ -5546,8 +5546,8 @@
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-07",
     "speaker": "ことね",
-    "ja": "可愛さの秘訣はですね\n秘密です！",
-    "zh": "可爱的秘诀啊。\n是秘密哟——！"
+    "ja": "可愛さの秘訣はですね？\n秘密です！",
+    "zh": "可爱的秘诀啊？\n是秘密哟——！"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-08",
@@ -5571,7 +5571,7 @@
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-11",
     "speaker": "ことね",
     "ja": "はぁ~\nはぁ~お疲れ様です~",
-    "zh": "哈啊～哈啊～辛苦了～"
+    "zh": "哈呼～\n啊～辛苦了～"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-12",
@@ -5583,7 +5583,7 @@
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-13",
     "speaker": "ことね",
     "ja": "おかげさまで体調バッチリです！",
-    "zh": "托制作人的福，我现在身体状态超棒！"
+    "zh": "托制作人的福，\n我现在身体状态超棒！"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-14",
@@ -5661,7 +5661,7 @@
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-26",
     "speaker": "ことね",
     "ja": "恩返しがこれで終わったなんて、思わないでくださいね！",
-    "zh": "可别以为我的报恩到此就结束了哦！"
+    "zh": "可别以为我的报恩\n到此就结束了哦！"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-27",
@@ -5673,7 +5673,7 @@
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-28",
     "speaker": "ことね",
     "ja": "なりますよ～\nみんなを幸せにする\n億万長者のアイドルに！",
-    "zh": "我一定会成为能带给大家幸福的亿万富翁偶像！"
+    "zh": "我一定会成为\n能带给大家幸福的亿万富翁偶像！"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-29",
@@ -5769,13 +5769,13 @@
     "voiceAssetId": "sud_vo_system_fktn_home_transition-12",
     "speaker": "ことね",
     "ja": "えへへ\nクリスマスまでプロデューサーと一緒ですね",
-    "zh": "诶嘿嘿，已经和制作人相伴到圣诞节了呢。"
+    "zh": "诶嘿嘿，\n已经和制作人相伴到圣诞节了呢。"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-13",
     "speaker": "ことね",
     "ja": "プロデューサー、今年一年ありがとうございました！",
-    "zh": "制作人，非常感谢您陪我走过这一整年！"
+    "zh": "制作人，\n非常感谢您陪我走过这一整年！"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-14",
