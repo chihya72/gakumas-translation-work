@@ -8666,7 +8666,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-016_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-016_home_cmmn-02.wav",
     "ja": "熱を冷ます暇なんてあげないんだから！",
-    "zh": "我才不会给你让热情冷却的时间！",
+    "zh": "我绝不会让现场的火热氛围有半分冷却！",
     "wav_source": "reused",
     "duration": 2.8066875,
     "sample_rate": 48000,
@@ -8675,7 +8675,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T20:53:30.148Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-016_home_cmmn-03",
