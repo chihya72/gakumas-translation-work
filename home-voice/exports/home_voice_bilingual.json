@@ -596,7 +596,7 @@
   {
     "voiceAssetId": "sud_vo_system_atbm_home_transition-12",
     "speaker": "燕",
-    "ja": "クリスマスプレゼントを...\n貴様も欲しいのか？",
+    "ja": "クリスマスプレゼントを。\n貴様も欲しいのか？",
     "zh": "圣诞礼物……\n你这家伙也想要吗？"
   },
   {
@@ -1304,7 +1304,7 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-atbm-3-017_home_cmmn-03",
     "speaker": "燕",
-    "ja": "貴様は、その...恋はしたことはあるのか？",
+    "ja": "貴様は、その。恋はしたことはあるのか？",
     "zh": "你这家伙，那个……你谈过恋爱吗？"
   },
   {
@@ -1346,8 +1346,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-000_home_cmmn-01",
     "speaker": "ことね",
-    "ja": "アイドルって瞬きまで\n見られてるんですね",
-    "zh": "偶像真是连眨个眼\n都会被一直看着呢..."
+    "ja": "アイドルって瞬きまで\n見られてるんですね。",
+    "zh": "偶像真是连眨个眼\n都会被一直看着呢。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-000_home_cmmn-02",
@@ -1365,7 +1365,7 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-001_home_cmmn-01",
     "speaker": "ことね",
     "ja": "エゴサ、やめられないんです！",
-    "zh": "自搜真的没法停下来啊...！"
+    "zh": "自搜真的没法停下来啊。！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-001_home_cmmn-02",
@@ -1383,7 +1383,7 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-002_home_cmmn-01",
     "speaker": "ことね",
     "ja": "お金持ちになったら、\n出店全制覇とかしてみたいな～",
-    "zh": "等我有钱了，真想把所有小摊都打卡一遍啊～"
+    "zh": "等我有钱了，\n真想把所有小摊都打卡一遍啊～"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-002_home_cmmn-02",
@@ -1395,13 +1395,13 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-002_home_cmmn-03",
     "speaker": "ことね",
     "ja": "寮生活はエアコン代を気にせずに済んで最高です！",
-    "zh": "宿舍生活可以不用在意空调电费，真是太棒了！"
+    "zh": "宿舍生活可以不用在意空调电费，\n真是太棒了！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-003_home_cmmn-01",
     "speaker": "ことね",
-    "ja": "夏は短期バイトがいろいろあるんですよね",
-    "zh": "夏天有好多短期工可以打呢..."
+    "ja": "夏は短期バイトがいろいろあるんですよね。",
+    "zh": "夏天有好多短期工可以打呢。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-003_home_cmmn-02",
@@ -1418,8 +1418,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-005_home_cmmn-01",
     "speaker": "ことね",
-    "ja": "プロデューサーはあたしにどんな仮装をしてほしいです？",
-    "zh": "制作人希望我扮成什么样的万圣节造型呢？"
+    "ja": "プロデューサーは\nあたしにどんな仮装をしてほしいです？",
+    "zh": "制作人希望我扮成\n什么样的万圣节造型呢？"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-005_home_cmmn-02",
@@ -1448,7 +1448,7 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-006_home_cmmn-03",
     "speaker": "ことね",
-    "ja": "ちびどものクリスマスプレゼントは何にするかなぁ",
+    "ja": "ちびどものクリスマスプレゼントは何にするかなぁ。",
     "zh": "给小不点们的圣诞礼物选什么好呢～"
   },
   {
@@ -1467,19 +1467,19 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-007_home_cmmn-03",
     "speaker": "ことね",
     "ja": "最高のライブをプレゼントしちゃいますから！",
-    "zh": "我会把最棒的现场作为给你的礼物的！"
+    "zh": "我会把最棒的现场作为\n给你的礼物的！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-008_home_cmmn-01",
     "speaker": "ことね",
-    "ja": "バレンタイン、誰かにもらう予定とか...あります？",
-    "zh": "情人节...有没有谁...\n打算送你巧克力之类的呀？"
+    "ja": "バレンタイン、誰かにもらう予定とか。あります？",
+    "zh": "情人节有没有谁\n打算送你巧克力之类的呀？"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-008_home_cmmn-02",
     "speaker": "ことね",
     "ja": "プロデューサーになら、\nチョコあげてもいいですよ！",
-    "zh": "是给制作人的话，\n也不是不可以送你巧克力哦～"
+    "zh": "如果给制作人的话，\n也不是不可以送你巧克力哦～"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-008_home_cmmn-03",
@@ -1491,7 +1491,7 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-009_home_cmmn-01",
     "speaker": "ことね",
     "ja": "ひな祭りはちびどもと折り紙でひな人形を作ってるんです！",
-    "zh": "女儿节我都会和小不点们用折纸做雏人偶！"
+    "zh": "女儿节我都会和小不点们\n用折纸做雏人偶！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-009_home_cmmn-02",
@@ -1503,7 +1503,7 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-009_home_cmmn-03",
     "speaker": "ことね",
     "ja": "春服のことねちゃんとデートしたくないです？",
-    "zh": "就不想和穿着春装的小琴音去约会吗？"
+    "zh": "就不想和穿着春装的\n小琴音一起去约会吗？"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-010_home_cmmn-01",
@@ -1515,13 +1515,13 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-010_home_cmmn-02",
     "speaker": "ことね",
     "ja": "一緒に写真撮りません？\nちびどもに送れよ。ね？",
-    "zh": "不一起拍张照吗？\n我发给小不点们嘛。好不好？"
+    "zh": "不一起拍张照吗？\n让我发给小不点们嘛。好不好？"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-010_home_cmmn-03",
     "speaker": "ことね",
     "ja": "桜ばっかり見てないで、\n私も見てください！",
-    "zh": "别光看樱花啊，\n也请看看我嘛！"
+    "zh": "别光看樱花啊，也请看看我嘛！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-011_home_cmmn-01",
@@ -1545,7 +1545,7 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-012_home_cmmn-01",
     "speaker": "ことね",
     "ja": "バイトは慣れてますし、\n一日店員も頑張ります！",
-    "zh": "打工我早就轻车熟路了，\n客串一天店员我也会加油的！"
+    "zh": "打工我早就轻车熟路了，\n一日店员我也会加油的！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-012_home_cmmn-02",
@@ -1557,13 +1557,13 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-012_home_cmmn-03",
     "speaker": "ことね",
     "ja": "ちびどもの見てるアニメもグッズとかあるのかな？",
-    "zh": "小不点们看的动画也有周边什么的吗？"
+    "zh": "小不点们看的动画\n也有周边什么的吗？"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-013_home_cmmn-01",
     "speaker": "ことね",
-    "ja": "えへへー！私めちゃくちゃ愛されちゃってるー！",
-    "zh": "诶嘿嘿～！我真是超受宠爱的～！"
+    "ja": "えへへー！\n私めちゃくちゃ愛されちゃってるー！",
+    "zh": "诶嘿嘿～！\n我真是超受宠爱的～！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-013_home_cmmn-02",
@@ -1587,7 +1587,7 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-014_home_cmmn-02",
     "speaker": "ことね",
     "ja": "私の全部をかけるつもりで歌わないとですね",
-    "zh": "我得抱着赌上全部的觉悟去唱才行呢。"
+    "zh": "我得抱着赌上全部的觉悟\n去唱才行呢。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-014_home_cmmn-03",
@@ -1623,7 +1623,7 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-016_home_cmmn-02",
     "speaker": "ことね",
     "ja": "私のいいところ、\nもっとたくさん見つけてほしいなあ！",
-    "zh": "好想让你发现我身上更多的优点啊～"
+    "zh": "好想让你发现我身上\n更多的优点啊～"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-016_home_cmmn-03",
@@ -1677,7 +1677,7 @@
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-021_home_cmmn-02",
     "speaker": "ことね",
     "ja": "私の横顔に見とれちゃってもいいんですよ",
-    "zh": "就算看我的侧脸看入迷了也没关系哦～"
+    "zh": "就算看我的侧脸看入迷了\n也没关系哦～"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-fktn-3-021_home_cmmn-03",
@@ -2481,7 +2481,7 @@
     "voiceAssetId": "sud_vo_system_cidol-hski-3-001_home_cmmn-01",
     "speaker": "咲季",
     "ja": "ちょっと、いつまで見てるのよ？",
-    "zh": "喂，你要盯着我看多久啊...？"
+    "zh": "喂，你要盯着我看多久啊。？"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-001_home_cmmn-02",
@@ -2612,8 +2612,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-009_home_cmmn-02",
     "speaker": "咲季",
-    "ja": "梅と友達と、あと...\nふふふ、チョコの作り甲斐があるわ！",
-    "zh": "佑芽、朋友们，还有...\n呵呵呵，做巧克力都变得好有意义呢！"
+    "ja": "梅と友達と、あと。\nふふふ、チョコの作り甲斐があるわ！",
+    "zh": "佑芽、朋友们，还有。\n呵呵呵，做巧克力都变得好有意义呢！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-009_home_cmmn-03",
@@ -4040,7 +4040,7 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-004_home_cmmn-03",
     "speaker": "リーリヤ",
-    "ja": "いたずら...\nどんなことをしたらいいんでしょう？",
+    "ja": "いたずら。\nどんなことをしたらいいんでしょう？",
     "zh": "恶作剧……\n该做些什么才对呢？"
   },
   {
@@ -5258,7 +5258,7 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-008_home_cmmn-02",
     "speaker": "手毬",
-    "ja": "プロデューサーは...\nショコとか欲しいの？",
+    "ja": "プロデューサーは。\nショコとか欲しいの？",
     "zh": "制作人……\n你想要巧克力什么的吗？"
   },
   {
@@ -5511,7 +5511,7 @@
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-01",
     "speaker": "ことね",
     "ja": "あのう、忙しそうですけど、ちゃんと休んでます？",
-    "zh": "那个...您看起来挺忙的，\n有好好休息吗？"
+    "zh": "那个。您看起来挺忙的，\n有好好休息吗？"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-02",
@@ -5523,13 +5523,13 @@
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-03",
     "speaker": "ことね",
     "ja": "明日はボーカルレッスンか～！\n頑張ります！",
-    "zh": "明天是歌唱训练啊...\n我会加油的！"
+    "zh": "明天是歌唱训练啊。\n我会加油的！"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-04",
     "speaker": "ことね",
     "ja": "目指せ大金持ち！！\nって、聞けちゃいました？",
-    "zh": "目标是成为大富翁！！\n啊...你听到了？"
+    "zh": "目标是成为大富翁！！\n啊。你听到了？"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-05",
@@ -5547,7 +5547,7 @@
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-07",
     "speaker": "ことね",
     "ja": "可愛さの秘訣はですね\n秘密です！",
-    "zh": "可爱的秘诀啊...\n是秘密哟——！"
+    "zh": "可爱的秘诀啊。\n是秘密哟——！"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-08",
@@ -5607,7 +5607,7 @@
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-17",
     "speaker": "ことね",
     "ja": "へへへ\n結構お金貯まってきたんです",
-    "zh": "嘿嘿嘿...钱已经攒得挺多了呢。"
+    "zh": "嘿嘿嘿，钱已经攒得挺多了呢。"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-18",
@@ -5631,7 +5631,7 @@
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-21",
     "speaker": "ことね",
     "ja": "これまでのことですか？大したこと話せませんけど",
-    "zh": "是问我的过去吗？\n也没什么值得一提的就是了..."
+    "zh": "是问我的过去吗？\n也没什么值得一提的就是了。"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_cmmn-22",
@@ -5805,7 +5805,7 @@
     "voiceAssetId": "sud_vo_system_fktn_home_transition-18",
     "speaker": "ことね",
     "ja": "真夏の着ぐるみバイトはさすがに",
-    "zh": "盛夏的玩偶装打工，还是有点太..."
+    "zh": "盛夏天穿着玩偶装打工，\n还是有点太……"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-19",
@@ -7826,7 +7826,7 @@
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-10",
     "speaker": "千奈",
-    "ja": "その...実は、チョコを手作りしてみたんですが。",
+    "ja": "その。実は、チョコを手作りしてみたんですが。",
     "zh": "那个……其实，本人试着亲手做了巧克力……"
   },
   {
@@ -7910,7 +7910,7 @@
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-24",
     "speaker": "千奈",
-    "ja": "ううう...寒いですわ。外に出たくないでしょ？",
+    "ja": "ううう。寒いですわ。外に出たくないでしょ？",
     "zh": "呜呜……好冷哇。你也不想出门吧？"
   },
   {
@@ -8222,7 +8222,7 @@
   {
     "voiceAssetId": "sud_vo_system_kllj_home_transition-18",
     "speaker": "リーリヤ",
-    "ja": "風鈴...\n寮の部屋に飾ってみたいな",
+    "ja": "風鈴。\n寮の部屋に飾ってみたいな",
     "zh": "风铃……\n好想把它挂在宿舍的房间里啊"
   },
   {
@@ -8960,7 +8960,7 @@
   {
     "voiceAssetId": "sud_vo_system_ttmr_home_cmmn-02",
     "speaker": "手毬",
-    "ja": "おぼろ、すいとの...たまにはラーメンとか...うんうん、カモンカモン",
+    "ja": "おぼろ、すいとの。たまにはラーメンとか。うんうん、カモンカモン",
     "zh": "嫩豆腐、面疙瘩……偶尔来点拉面什么的……嗯嗯，来吧来吧。"
   },
   {
@@ -9176,7 +9176,7 @@
   {
     "voiceAssetId": "sud_vo_system_ttmr_home_transition-06",
     "speaker": "手毬",
-    "ja": "プロデューサー！ま...待ってなんかないです",
+    "ja": "プロデューサー！ま、待ってなんかないです！",
     "zh": "制作人！我、我才没有在等你。"
   },
   {
