@@ -2685,7 +2685,7 @@
     "voiceAssetId": "sud_vo_system_cidol-hski-3-013_home_cmmn-02",
     "speaker": "咲季",
     "ja": "奇跡だって起こしてみせるわ！私のこの手で！",
-    "zh": "就算是奇迹，我也要亲手创造给你看！"
+    "zh": "就算是奇迹，\n我也要亲手创造给你看！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-013_home_cmmn-03",

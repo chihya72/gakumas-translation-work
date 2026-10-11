@@ -8486,7 +8486,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-013_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-013_home_cmmn-02.wav",
     "ja": "奇跡だって起こしてみせるわ！私のこの手で！",
-    "zh": "就算是奇迹，我也要亲手创造给你看！",
+    "zh": "就算是奇迹，\n我也要亲手创造给你看！",
     "wav_source": "reused",
     "duration": 4.016104166666667,
     "sample_rate": 48000,
@@ -8495,7 +8495,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T20:30:55.511Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-013_home_cmmn-03",
