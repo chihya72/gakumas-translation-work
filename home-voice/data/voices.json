@@ -18695,7 +18695,7 @@
     "acb": "audio\\acb\\sud_vo_system_hmsz_home_cmmn-27.acb",
     "wav": "audio\\wav\\sud_vo_system_hmsz_home_cmmn-27.wav",
     "ja": "プロデューサー、あなたの入れたお茶が飲みたいです。",
-    "zh": "制作人，我想喝您泡的茶。",
+    "zh": "制作人，我想喝您亲手泡的茶。",
     "wav_source": "reused",
     "duration": 4.259875,
     "sample_rate": 48000,
@@ -18704,7 +18704,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-11T03:31:49.871Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hmsz_home_cmmn-28",
