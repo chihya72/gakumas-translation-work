@@ -7,11 +7,11 @@ import subprocess
 import sys
 from pathlib import Path
 
-from pipeline import ROOT, Pipeline, load_hotwords, read_json, write_bilingual_csv, write_json
+from pipeline import ROOT, Pipeline, character_master_path, load_hotwords, octo_source_path, read_json, write_bilingual_csv, write_json
 from process_runner import run_child
 
 MENU = """
-1. 扫描并收录新增 ACB
+1. 下载／扫描并收录新增 ACB（默认 Octo/CDN）
 2. 准备 WAV（优先复用，缺失时转换）
 3. OpenMOSS 日语识别（只处理缺失或失败项）
 4. 翻译全部未翻译文本
@@ -82,7 +82,8 @@ class MenuApp:
 
     def show_progress(self, details=False):
         progress = self.job().progress()
-        print(f"\n总数 {progress['total']} | 新增未收录 {len(progress['new_ids'])} | "
+        new_count = '执行第 1 步联网检查' if progress['source_mode'] == 'octo' else str(len(progress['new_ids']))
+        print(f"\n总数 {progress['total']} | 新增未收录 {new_count} | "
               f"待转换 {len(progress['missing_wav'])} | 待识别 {len(progress['pending_asr'])} | "
               f"待翻译 {len(progress['pending_translation'])} | "
               f"识别失败 {len(progress['asr_errors'])} | 待复核 {len(progress['review'])}")
@@ -195,7 +196,11 @@ class MenuApp:
                  "OpenMOSS 模型": moss / "pretrained" / "moss-transcribe-diarize",
                  "vgmstream": self.root / "tools" / "vgmstream-win64" / "vgmstream-cli.exe",
                  "翻译 API 配置": engine / ".env", "翻译运行依赖": engine / "node_modules",
-                 "角色主表": Path(config["character_master"]), "本地热词表": self.hotword_path()}
+                 "角色主表": character_master_path(config, self.root), "本地热词表": self.hotword_path()}
+        if config.get("source_mode", "local") == "octo":
+            paths.pop("ACB 源目录")
+            paths["Octo 下载模块"] = octo_source_path(config, self.root)
+            print("第 1 步来源：游戏 Octo/CDN，目标为本项目 audio\\acb。")
         for label, path in paths.items():
             print(f"{'可用' if path.exists() else '缺失'} | {label}：{path}")
         print(f"Node.js：{shutil.which('node') or '未找到'}")
@@ -206,7 +211,8 @@ class MenuApp:
     def edit_configuration(self):
         path = self.root / "config.json"
         config = read_json(path)
-        keys = ["source_acb", "reuse_wav", "moss_repo", "translation_engine", "translation_memory",
+        keys = ["source_mode", "octo_client", "octo_version", "octo_version_probes", "download_workers",
+                "source_acb", "reuse_wav", "moss_repo", "translation_engine", "translation_memory",
                 "character_master", "subtitle_template", "asr_batch_size", "asr_max_tokens",
                 "translation_batch_size", "translation_concurrency"]
         for index, key in enumerate(keys, 1):
@@ -221,10 +227,16 @@ class MenuApp:
         value = input("新值；回车保留：").strip().strip('"')
         if not value:
             return
-        if key in {"asr_batch_size", "asr_max_tokens", "translation_batch_size", "translation_concurrency"}:
+        if key == "source_mode":
+            if value not in {"octo", "local"}:
+                raise ValueError("资源来源必须是 octo 或 local")
+        elif key in {"asr_batch_size", "asr_max_tokens", "translation_batch_size", "translation_concurrency",
+                     "octo_version", "octo_version_probes", "download_workers"}:
             value = int(value)
-            if value <= 0:
-                raise ValueError("批次、并发和 token 上限必须为正整数")
+            if value < 0 or (value == 0 and key != "octo_version_probes"):
+                raise ValueError("数值必须为正整数，版本探测次数可为 0")
+        elif key in {"octo_client", "character_master"}:
+            value = str(Path(value))
         else:
             if not Path(value).is_absolute():
                 raise ValueError("请填写 Windows 绝对路径")

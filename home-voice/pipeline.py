@@ -5,6 +5,7 @@ import argparse
 import copy
 import csv
 import gc
+import importlib.util
 import json
 import math
 import os
@@ -42,6 +43,29 @@ def subtitle_ui_config(previous: dict) -> dict:
             "showCueWhenMissing": previous.get("showCueWhenMissing", False),
             "leftOffset": 40, "minBubbleWidth": 424, "bubbleWidth": 520,
             "fontSize": previous.get("fontSize", 32), "textPadding": [40, 40]}
+
+
+def project_path(value: str | Path, root: Path = ROOT) -> Path:
+    path = Path(value)
+    return path if path.is_absolute() else root / path
+
+
+def octo_source_path(configuration: dict, root: Path = ROOT) -> Path:
+    return project_path(configuration.get("octo_client") or "octo_source.py", root)
+
+
+def character_master_path(configuration: dict, root: Path = ROOT) -> Path:
+    return project_path(configuration.get("character_master") or "data\\Character.yaml", root)
+
+
+def load_octo_client(configuration: dict, root: Path = ROOT):
+    path = octo_source_path(configuration, root)
+    if not path.is_file():
+        raise FileNotFoundError(f"Octo 下载模块不存在：{path}；请在第 9 项设置 octo_client")
+    spec = importlib.util.spec_from_file_location("home_voice_octo_source", path)
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module.OctoClient(configuration)
 
 
 def event(name: str, **details) -> None:
@@ -211,13 +235,25 @@ class Pipeline:
         return rows[:limit] if limit else rows
 
     def collect(self):
-        source = Path(self.config["source_acb"])
-        if not source.is_dir():
-            raise FileNotFoundError(source)
-        names = character_names(Path(self.config["character_master"]))
+        names = character_names(character_master_path(self.config, self.root))
         indexed = {row["voiceAssetId"]: row for row in self.voices}
+        failures = []
+        if self.config.get("source_mode", "local") == "octo":
+            client = load_octo_client(self.config, self.root)
+            manifest = client.manifest()
+            self.config["octo_version"] = manifest["version"]
+            write_json(self.root / "config.json", self.config)
+            pending = [item for item in manifest["resources"]
+                       if VOICE_PATTERN.fullmatch(item["name"]) and Path(item["name"]).stem not in indexed]
+            event("home_voice_download", pending=len(pending), version=manifest["version"], revision=manifest["revision"])
+            files, failures = client.download(pending, manifest, self.root / "audio" / "acb")
+        else:
+            source = Path(self.config["source_acb"])
+            if not source.is_dir():
+                raise FileNotFoundError(source)
+            files = sorted(source.iterdir())
         added = 0
-        for acb in sorted(source.iterdir()):
+        for acb in files:
             if not acb.is_file() or not VOICE_PATTERN.fullmatch(acb.name):
                 continue
             voice_id = acb.stem
@@ -246,8 +282,11 @@ class Pipeline:
             }
             write_json(self.root / "data" / "previous_user_subtitles.json",
                        [row for row in previous.get("subtitles", []) if row["voiceAssetId"] in legacy_ids])
-        self.save()
+        if added:
+            self.save()
         event("collected", new=added, total=len(self.voices))
+        if failures:
+            raise RuntimeError(f"{len(failures)} 个 ACB 下载失败；成功文件已收录，下次第 1 步只补缺失 ID")
 
     def convert(self, only=None, limit=0):
         tool = self.root / "tools" / "vgmstream-win64" / "vgmstream-cli.exe"
@@ -589,10 +628,12 @@ class Pipeline:
     def progress(self):
         self.refresh_asr()
         source = Path(self.config.get("source_acb", ""))
+        remote = self.config.get("source_mode", "local") == "octo"
         known = {row["voiceAssetId"] for row in self.voices}
         new_ids = sorted(path.stem for path in source.iterdir()
-                         if path.is_file() and VOICE_PATTERN.fullmatch(path.name) and path.stem not in known) if source.is_dir() else []
-        return {"total": len(self.voices), "new_ids": new_ids, "source_available": source.is_dir(),
+                         if path.is_file() and VOICE_PATTERN.fullmatch(path.name) and path.stem not in known) if not remote and source.is_dir() else []
+        return {"total": len(self.voices), "new_ids": [] if remote else new_ids,
+                "source_available": remote or source.is_dir(), "source_mode": "octo" if remote else "local",
                 "missing_acb": [row["voiceAssetId"] for row in self.voices if not (self.root / row["acb"]).is_file()],
                 "missing_wav": [row["voiceAssetId"] for row in self.voices if not (self.root / row["wav"]).is_file()],
                 "pending_asr": [row["voiceAssetId"] for row in self.voices if not row.get("ja") or row.get("asr_error")],

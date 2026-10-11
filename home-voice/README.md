@@ -12,7 +12,7 @@ Windows 本地主页语音处理仓库：收录 ACB、复用或转换 WAV、通�
 
 | 编号 | 操作 |
 | --- | --- |
-| 1 | 扫描并收录新增 ACB，仅按未收录 ID 增量加入 |
+| 1 | 默认从 Octo/CDN 下载并收录新增主页 ACB，仅按未收录 ID 增量加入 |
 | 2 | 准备 WAV，已有文件复用，缺失时由 vgmstream 转换 |
 | 3 | OpenMOSS 日语识别，仅处理缺失或失败项 |
 | 4 | 全量翻译所有有日文、无中文的条目 |
@@ -24,6 +24,20 @@ Windows 本地主页语音处理仓库：收录 ACB、复用或转换 WAV、通�
 | 0 | 退出 |
 
 也可以运行 `python run.py --step 3`，或用 `python run.py --check` 只检查环境。菜单启动无需在当前 Python 中安装 Torch；第 3 步自动使用 `config.json` 中 OpenMOSS 的独立虚拟环境。
+
+第 1 步使用与 `gakumas-SRTSubtitle` 相同的游戏 Octo API/CDN。直接运行 `python run.py --step 1`，下载到本目录 `audio\acb` 并按 `voiceAssetId` 收录，之后继续第 2～5 步。下载使用普通 Python，无需先启动游戏或运行 `Gakuen-idolmaster-ab-decrypt`。TXT 和 ACB 位于 Octo 的 `resourceList`，下载后已是原始文件，无需 AssetBundle 解密。
+
+本项目内置 `octo_source.py` 下载模块和 `data\Character.yaml` 角色主表。`config.json` 中的 `octo_client` 与 `character_master` 使用相对路径，始终以 `home-voice` 目录为基准解析；移动项目或从其他目录启动时无需修改这两项。第 9 项也支持为这两项填写相对路径或绝对路径。第 1 步不需要另外克隆剧情项目、角色主表项目或 SRTSubtitle 仓库。
+
+在本目录为普通 Python 安装下载依赖：
+
+```powershell
+python -m pip install -r resource-requirements.txt
+```
+
+`Character.yaml` 只用于将角色编号映射为日语名字，识别热词仍读取本项目的 `data\hotwords.json`。第 3、4 步仍需单独准备并配置 OpenMOSS 模型环境和翻译引擎。
+
+`source_mode: "octo"` 为默认来源，设为 `"local"` 可使用原有 `source_acb` 解包目录。`octo_version` 为起始版本，每次按 `+100` 探测 `octo_version_probes` 个后续候选并记住可用版本；`download_workers` 控制下载并发。启动菜单和查看进度不会请求网络，新增数量在第 1 步联网检查。每次读取完整清单、只下载未收录 ID；已有 ACB 和人工校对不覆盖。部分下载失败时先收录成功文件，下次第 1 步只补未收录 ID。
 
 第 3 步自动启动专用识别子进程，结束后自动关闭并释放模型内存和显存，不启动 OpenMOSS 网页服务。每次启动的进程树归属独立 Windows Job Object，Ctrl+C 只停止本次任务及其子进程，已完成批次保留；不会查找或结束其他程序。
 
