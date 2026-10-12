@@ -2679,7 +2679,7 @@
     "voiceAssetId": "sud_vo_system_cidol-hski-3-013_home_cmmn-01",
     "speaker": "咲季",
     "ja": "勝利への活望をこの曲に込めてぶつけてくるわ！",
-    "zh": "我会把对胜利的渴望倾注在这首歌里，全力展现出来！"
+    "zh": "我会把对胜利的渴望\n倾注在这首歌里，全力展现出来！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-013_home_cmmn-02",

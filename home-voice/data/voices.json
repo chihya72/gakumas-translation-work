@@ -8466,7 +8466,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-013_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-013_home_cmmn-01.wav",
     "ja": "勝利への活望をこの曲に込めてぶつけてくるわ！",
-    "zh": "我会把对胜利的渴望倾注在这首歌里，全力展现出来！",
+    "zh": "我会把对胜利的渴望\n倾注在这首歌里，全力展现出来！",
     "wav_source": "reused",
     "duration": 4.523833333333333,
     "sample_rate": 48000,
@@ -8475,9 +8475,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-11T20:30:07.907Z"
+    "reviewed_at": "2026-10-12T19:10:08.956Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-013_home_cmmn-02",
