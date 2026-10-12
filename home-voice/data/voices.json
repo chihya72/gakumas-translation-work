@@ -8827,7 +8827,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-019_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-019_home_cmmn-01.wav",
     "ja": "一緒に挑んでくれるわよね？伝説の楽曲に！",
-    "zh": "你会和我一起挑战吧？挑战那首传说乐曲！",
+    "zh": "你会和我一起挑战的对吧？\n挑战那首传说乐曲！",
     "wav_source": "reused",
     "duration": 4.297625,
     "sample_rate": 48000,
@@ -8836,7 +8836,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-12T19:17:01.865Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-019_home_cmmn-02",
