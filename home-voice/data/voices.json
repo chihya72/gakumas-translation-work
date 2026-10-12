@@ -7939,7 +7939,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-003_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-003_home_cmmn-02.wav",
     "ja": "夏バテ対策にスペシャルドリンクを作ってあげるわよ！",
-    "zh": "我来给你做一杯预防苦夏的特制饮料吧！",
+    "zh": "我来给你做一杯\n预防苦夏的特制饮料吧！",
     "wav_source": "reused",
     "duration": 3.9791875,
     "sample_rate": 48000,
@@ -7950,7 +7950,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-11T08:54:51.478Z"
+    "reviewed_at": "2026-10-12T19:08:16.727Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-003_home_cmmn-03",
