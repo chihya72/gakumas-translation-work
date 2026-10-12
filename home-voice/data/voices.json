@@ -7898,7 +7898,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-002_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-002_home_cmmn-03.wav",
     "ja": "線香花火でどっちが長持ちするか勝負しましょう！",
-    "zh": "我们来比一比谁的仙女棒燃得更久吧！",
+    "zh": "我们来比一比\n谁的仙女棒燃得更久吧！",
     "wav_source": "reused",
     "duration": 3.6890833333333335,
     "sample_rate": 48000,
@@ -7910,7 +7910,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-11T08:51:49.877Z"
+    "reviewed_at": "2026-10-12T19:08:54.329Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-003_home_cmmn-01",
