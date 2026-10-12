@@ -6627,7 +6627,7 @@
     "voiceAssetId": "sud_vo_system_hski_home_cmmn-13",
     "speaker": "咲季",
     "ja": "あなたを信じてるんだから、遠慮しないでよね",
-    "zh": "我可是相信你的，你别跟我客气。"
+    "zh": "我可是相信你的，\n你也别跟我客气。"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_cmmn-14",
