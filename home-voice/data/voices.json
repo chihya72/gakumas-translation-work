@@ -8897,7 +8897,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "translation_model": "deepseek-v4-pro",
+    "reviewed": true,
+    "reviewed_at": "2026-10-12T19:59:51.529Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-021_home_cmmn-02",
