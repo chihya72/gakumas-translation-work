@@ -8262,7 +8262,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hski-3-009_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hski-3-009_home_cmmn-03.wav",
     "ja": "もう～\nそんなに私の手作りチョコが食べたいの？",
-    "zh": "真是的～你就那么想吃我亲手做的巧克力吗？",
+    "zh": "真是的～你就那么想吃\n我亲手做的巧克力吗？",
     "wav_source": "reused",
     "duration": 5.106583333333333,
     "sample_rate": 48000,
@@ -8273,7 +8273,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-11T20:07:32.224Z"
+    "reviewed_at": "2026-10-12T19:09:23.494Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hski-3-010_home_cmmn-01",
