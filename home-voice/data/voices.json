@@ -20542,7 +20542,7 @@
     "acb": "audio\\acb\\sud_vo_system_hski_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_cmmn-01.wav",
     "ja": "せっかくだし、プロデューサーも一緒に筋トレする？",
-    "zh": "机会难得，制作人也一起锻炼肌肉吗？",
+    "zh": "机会难得，\n制作人也一起锻炼肌肉吗？",
     "wav_source": "reused",
     "duration": 3.3110833333333334,
     "sample_rate": 48000,
@@ -20551,7 +20551,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-12T20:15:14.966Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_cmmn-02",
