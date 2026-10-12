@@ -20742,8 +20742,8 @@
     "speaker": "咲季",
     "acb": "audio\\acb\\sud_vo_system_hski_home_cmmn-11.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_cmmn-11.wav",
-    "ja": "ふふふ\n次の勝負はいつにしようかしら？",
-    "zh": "呵呵呵\n下一场比赛定在什么时候好呢？",
+    "ja": "ふふふ、次の勝負はいつにしようかしら？",
+    "zh": "呵呵呵，\n下一场比试定在什么时候好呢？",
     "wav_source": "reused",
     "duration": 4.923583333333333,
     "sample_rate": 48000,
@@ -20752,7 +20752,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-12T20:53:10.441Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_cmmn-12",
