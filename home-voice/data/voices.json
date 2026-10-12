@@ -17859,7 +17859,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-06.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-06.wav",
     "ja": "かわいい担当アイドルとの時間がはじまりますよ～",
-    "zh": "与可爱的担当偶像共度的时间要开始了哦～",
+    "zh": "与可爱的担当偶像共度的时间\n要开始了哦～",
     "wav_source": "reused",
     "duration": 4.492604166666666,
     "sample_rate": 48000,
@@ -17868,9 +17868,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T20:32:27.489Z"
+    "reviewed_at": "2026-10-12T19:44:27.562Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-07",
