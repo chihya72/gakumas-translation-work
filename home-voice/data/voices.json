@@ -20703,7 +20703,7 @@
     "acb": "audio\\acb\\sud_vo_system_hski_home_cmmn-09.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_cmmn-09.wav",
     "ja": "悪あがきじゃなくて勝つために、よね？",
-    "zh": "不是无谓挣扎，而是为了赢，对吧？",
+    "zh": "这不是无谓的挣扎，\n而是为了赢，对吧？",
     "wav_source": "reused",
     "duration": 3.4797291666666665,
     "sample_rate": 48000,
@@ -20712,7 +20712,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-12T20:50:04.199Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_cmmn-10",
