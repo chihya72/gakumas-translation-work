@@ -20623,7 +20623,7 @@
     "acb": "audio\\acb\\sud_vo_system_hski_home_cmmn-05.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_cmmn-05.wav",
     "ja": "てまりったら、私の料理のどこが気に入らないのかしら？",
-    "zh": "手毬真是的，到底对我做的料理哪里不满意啊？",
+    "zh": "手毬真是的，\n到底对我做的菜哪里不满意啊？",
     "wav_source": "reused",
     "duration": 4.2056458333333335,
     "sample_rate": 48000,
@@ -20632,7 +20632,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-12T20:19:57.601Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_cmmn-06",
