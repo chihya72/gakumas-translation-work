@@ -17980,7 +17980,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-12.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-12.wav",
     "ja": "えへへ\nクリスマスまでプロデューサーと一緒ですね",
-    "zh": "诶嘿嘿，\n已经和制作人相伴到圣诞节了呢。",
+    "zh": "诶嘿嘿，已经和制作人\n相伴到圣诞节了呢。",
     "wav_source": "reused",
     "duration": 4.4635625,
     "sample_rate": 48000,
@@ -17991,7 +17991,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T20:46:05.747Z"
+    "reviewed_at": "2026-10-12T19:56:58.991Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-13",
