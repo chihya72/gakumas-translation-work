@@ -17819,7 +17819,7 @@
     "acb": "audio\\acb\\sud_vo_system_fktn_home_transition-04.acb",
     "wav": "audio\\wav\\sud_vo_system_fktn_home_transition-04.wav",
     "ja": "お弁当で元気チャージして、午後も頑張ります！",
-    "zh": "用便当补充元气，下午也要继续努力！",
+    "zh": "用便当补充元气，\n下午也要继续努力！",
     "wav_source": "reused",
     "duration": 4.025041666666667,
     "sample_rate": 48000,
@@ -17830,7 +17830,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T20:31:19.257Z"
+    "reviewed_at": "2026-10-12T19:44:09.369Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_transition-05",
