@@ -20903,8 +20903,8 @@
     "speaker": "咲季",
     "acb": "audio\\acb\\sud_vo_system_hski_home_cmmn-19.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_cmmn-19.wav",
-    "ja": "佑芽が勝ち続ける秘策でも思いついた？",
-    "zh": "佑芽想到什么连胜的秘诀了吗？",
+    "ja": "佑芽に勝ち続ける秘策でも思いついた？",
+    "zh": "你该不会想出什么\n能一直赢佑芽的绝招了？",
     "wav_source": "reused",
     "duration": 2.7928333333333333,
     "sample_rate": 48000,
@@ -20913,7 +20913,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-13T20:51:46.671Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_cmmn-20",
