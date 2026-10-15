@@ -21133,7 +21133,7 @@
     "acb": "audio\\acb\\sud_vo_system_hski_home_cmmn-30.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_cmmn-30.wav",
     "ja": "ふふふ\nあなたも私と一緒に四時に起きて走らない？",
-    "zh": "呵呵呵\n你要不要也和我一起四点起床去跑步？",
+    "zh": "呵呵呵……你要不要也和我一起\n四点起床去跑步？",
     "wav_source": "reused",
     "duration": 5.035958333333333,
     "sample_rate": 48000,
@@ -21142,7 +21142,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T14:33:00.816Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_touch-01",
