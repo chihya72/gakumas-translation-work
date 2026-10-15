@@ -13831,7 +13831,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-003_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-003_home_cmmn-01.wav",
     "ja": "海で特訓とかしてみたい。すごく苦しそうだから。",
-    "zh": "想试试去海边特训之类的。因为看起来特别辛苦。",
+    "zh": "想试试去海边特训之类的。\n因为想必相当痛苦。",
     "wav_source": "reused",
     "duration": 4.9950625,
     "sample_rate": 48000,
@@ -13840,7 +13840,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T22:04:24.605Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-003_home_cmmn-02",
