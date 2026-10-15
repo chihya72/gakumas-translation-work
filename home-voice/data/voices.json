@@ -21273,7 +21273,7 @@
     "speaker": "咲季",
     "acb": "audio\\acb\\sud_vo_system_hski_home_transition-05.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_transition-05.wav",
-    "ja": "あ～ーー！授業終わり？レッスン、レッスン！",
+    "ja": "あ～ーー！授業終わり——！レッスン、レッスン！",
     "zh": "嗯——！下课！\n训练，训练！",
     "wav_source": "reused",
     "duration": 4.6633125,
@@ -21285,7 +21285,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-15T16:13:08.218Z"
+    "reviewed_at": "2026-10-15T16:38:34.583Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_transition-06",
