@@ -13729,7 +13729,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-001_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-001_home_cmmn-02.wav",
     "ja": "心が震える感覚。今なら少しわかる気がする。",
-    "zh": "心灵震撼的感觉。现在似乎能稍微明白了。",
+    "zh": "心灵为之震撼的感觉。\n我现在好像稍稍能够体会到了。",
     "wav_source": "reused",
     "duration": 5.75625,
     "sample_rate": 48000,
@@ -13738,7 +13738,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T21:37:14.135Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-001_home_cmmn-03",
