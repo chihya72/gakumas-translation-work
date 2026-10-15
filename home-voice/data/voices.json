@@ -13669,7 +13669,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-000_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-000_home_cmmn-02.wav",
     "ja": "私の曲、今までの人生で一番嬉しいかも",
-    "zh": "我的曲子，可能是我至今人生中最开心的事。",
+    "zh": "我的这首歌，可能是\n我至今人生中最开心的收获。",
     "wav_source": "reused",
     "duration": 4.260875,
     "sample_rate": 48000,
@@ -13678,7 +13678,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T17:43:00.519Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-000_home_cmmn-03",
