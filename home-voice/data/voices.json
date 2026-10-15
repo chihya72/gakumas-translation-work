@@ -13973,7 +13973,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-006_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-006_home_cmmn-02.wav",
     "ja": "プロデューサー、クリスマスパーティーしよう",
-    "zh": "制作人，来办圣诞派对吧。",
+    "zh": "制作人，圣诞派对，办一个吧。",
     "wav_source": "reused",
     "duration": 3.6567291666666666,
     "sample_rate": 48000,
@@ -13982,7 +13982,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T22:40:34.951Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-006_home_cmmn-03",
