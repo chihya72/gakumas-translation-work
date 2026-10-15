@@ -21213,7 +21213,7 @@
     "acb": "audio\\acb\\sud_vo_system_hski_home_transition-02.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_transition-02.wav",
     "ja": "完璧でベストな一日にするわよ！",
-    "zh": "要把它变成完美又最棒的一天！",
+    "zh": "我要把今天变成完美至极的一天！",
     "wav_source": "reused",
     "duration": 3.127479166666667,
     "sample_rate": 48000,
@@ -21222,7 +21222,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T15:49:41.863Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_transition-03",
