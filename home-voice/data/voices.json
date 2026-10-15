@@ -14277,7 +14277,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-011_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-011_home_cmmn-02.wav",
     "ja": "一日、店内で立っていられるかが私の課題。",
-    "zh": "能不能在店里站上一整天，是我的课题。",
+    "zh": "能不能在店里站上一整天，\n是我的课题。",
     "wav_source": "reused",
     "duration": 3.6834166666666666,
     "sample_rate": 48000,
@@ -14286,7 +14286,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T23:17:17.232Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-011_home_cmmn-03",

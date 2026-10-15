@@ -4539,7 +4539,7 @@
     "voiceAssetId": "sud_vo_system_cidol-shro-3-011_home_cmmn-02",
     "speaker": "広",
     "ja": "一日、店内で立っていられるかが私の課題。",
-    "zh": "能不能在店里站上一整天，是我的课题。"
+    "zh": "能不能在店里站上一整天，\n是我的课题。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-011_home_cmmn-03",
