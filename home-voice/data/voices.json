@@ -21113,7 +21113,7 @@
     "acb": "audio\\acb\\sud_vo_system_hski_home_cmmn-29.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_cmmn-29.wav",
     "ja": "あなたは何時に起きたの？\n私はランニング仲間とよしから走って絶好調よ！",
-    "zh": "你是几点起床的？\n我一大早就和跑友一起跑步，状态超好哦！",
+    "zh": "你是几点起床的？我4点开始\n就和跑友一起跑步，状态超好哦！",
     "wav_source": "reused",
     "duration": 6.435958333333334,
     "sample_rate": 48000,
@@ -21122,7 +21122,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T14:32:21.979Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_cmmn-30",
