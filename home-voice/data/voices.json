@@ -21655,8 +21655,8 @@
     "speaker": "咲季",
     "acb": "audio\\acb\\sud_vo_system_hski_home_transition-24.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_transition-24.wav",
-    "ja": "子供だから、下を踏んで歩かなかった？ザクザクって！",
-    "zh": "因为是小孩子嘛，走路时不是会踩雪吗？嘎吱嘎吱的！",
+    "ja": "子供の頃、下を踏んで歩かなかった？ザクザクって！",
+    "zh": "你小时候会不会踩着积雪走路呀？\n嘎吱嘎吱的！",
     "wav_source": "reused",
     "duration": 5.255416666666667,
     "sample_rate": 48000,
@@ -21665,7 +21665,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T17:11:24.893Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_transition-25",
