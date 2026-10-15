@@ -21476,7 +21476,7 @@
     "acb": "audio\\acb\\sud_vo_system_hski_home_transition-15.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_transition-15.wav",
     "ja": "お花見に行かない？\nゆめも誘って",
-    "zh": "不去看樱花吗？\n也叫上佑芽吧！",
+    "zh": "不去看樱花吗？也叫上佑芽吧！",
     "wav_source": "reused",
     "duration": 2.509375,
     "sample_rate": 48000,
@@ -21487,7 +21487,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-15T16:59:12.913Z"
+    "reviewed_at": "2026-10-15T16:59:34.658Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_transition-16",
