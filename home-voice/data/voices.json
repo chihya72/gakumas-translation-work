@@ -21415,7 +21415,7 @@
     "acb": "audio\\acb\\sud_vo_system_hski_home_transition-12.acb",
     "wav": "audio\\wav\\sud_vo_system_hski_home_transition-12.wav",
     "ja": "私はサントさん信じてる。私がなるんだもの。",
-    "zh": "我相信圣诞老人。因为我要成为圣诞老人嘛。",
+    "zh": "我相信圣诞老人，\n因为做圣诞老人的都是我嘛。",
     "wav_source": "reused",
     "duration": 3.861625,
     "sample_rate": 48000,
@@ -21424,7 +21424,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T16:55:34.252Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_transition-13",
