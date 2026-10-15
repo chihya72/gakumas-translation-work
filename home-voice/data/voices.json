@@ -21525,7 +21525,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "translation_model": "deepseek-v4-pro",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T17:01:30.343Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hski_home_transition-18",
