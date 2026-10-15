@@ -13912,7 +13912,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-004_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-004_home_cmmn-02.wav",
     "ja": "夏祭り、きっと人が多くて潰されちゃう。ね？",
-    "zh": "夏日祭，一定人很多，会被挤扁的。对吧？",
+    "zh": "夏日祭，一定人很多，\n会被挤扁的。对吧？",
     "wav_source": "reused",
     "duration": 5.388145833333334,
     "sample_rate": 48000,
@@ -13921,7 +13921,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-15T22:37:48.895Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-004_home_cmmn-03",
