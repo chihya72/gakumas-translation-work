@@ -2821,8 +2821,8 @@
     "speaker": "麻央",
     "acb": "audio\\acb\\sud_vo_system_cidol-amao-3-015_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-amao-3-015_home_cmmn-01.wav",
-    "ja": "見てください。今の僕は",
-    "zh": "请看着我。如今的我",
+    "ja": "見てください。今の僕を",
+    "zh": "请你好好看着，如今的我",
     "wav_source": "reused",
     "duration": 2.5153333333333334,
     "sample_rate": 48000,
@@ -2831,7 +2831,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-17T13:19:15.826Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-amao-3-015_home_cmmn-02",
