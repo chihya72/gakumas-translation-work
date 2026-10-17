@@ -14654,7 +14654,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-017_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-017_home_cmmn-03.wav",
     "ja": "一緒にいこう。私たちのユートピアへ。",
-    "zh": "一起走吧。去我们的乌托邦。",
+    "zh": "一起走吧。去往我们的乌托邦。",
     "wav_source": "reused",
     "duration": 4.120583333333333,
     "sample_rate": 48000,
@@ -14663,7 +14663,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-17T12:08:37.154Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-018_home_cmmn-01",
