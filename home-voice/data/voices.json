@@ -375,7 +375,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "translation_model": "deepseek-v4-pro",
+    "reviewed": true,
+    "reviewed_at": "2026-10-17T13:10:45.839Z"
   },
   {
     "voiceAssetId": "sud_vo_system_amao_home_cmmn-20",
