@@ -3184,8 +3184,8 @@
     "speaker": "麻央",
     "acb": "audio\\acb\\sud_vo_system_cidol-amao-3-022_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-amao-3-022_home_cmmn-03.wav",
-    "ja": "[笑]\n抵抗は無駄ですよ",
-    "zh": "[笑]\n抵抗是徒劳的哦。",
+    "ja": "うふふ\n抵抗は無駄ですよ",
+    "zh": "呵呵\n抵抗是徒劳的哦。",
     "wav_source": "reused",
     "duration": 3.8425,
     "sample_rate": 48000,
@@ -3194,7 +3194,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-17T13:22:19.098Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_home_cmmn-01",
