@@ -444,7 +444,7 @@
     "acb": "audio\\acb\\sud_vo_system_amao_home_cmmn-23.acb",
     "wav": "audio\\wav\\sud_vo_system_amao_home_cmmn-23.wav",
     "ja": "やっぱり本番前は緊張しますね。",
-    "zh": "果然正式上场前还是会紧张呢。",
+    "zh": "果然，正式演出前还是会紧张呢。",
     "wav_source": "reused",
     "duration": 3.3567708333333335,
     "sample_rate": 48000,
@@ -453,7 +453,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-17T13:14:50.730Z"
   },
   {
     "voiceAssetId": "sud_vo_system_amao_home_cmmn-24",
