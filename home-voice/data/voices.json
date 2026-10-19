@@ -29052,7 +29052,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-atbm-3-010_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-atbm-3-010_home_cmmn-01.wav",
     "ja": "私のプロデューサーならコールも全力でやれ。いいな。",
-    "zh": "我的制作人就连应援口号也要全力去喊。明白了吗。",
+    "zh": "我的制作人就连打Call也必须\n全力以赴。明白了吗。",
     "wav_source": "vgmstream",
     "duration": 4.862104166666667,
     "sample_rate": 48000,
@@ -29062,8 +29062,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-19T11:28:44.756Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-atbm-3-010_home_cmmn-02",
