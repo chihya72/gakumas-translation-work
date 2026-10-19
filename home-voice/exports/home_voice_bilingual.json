@@ -9292,5 +9292,41 @@
     "speaker": "手毬",
     "ja": "こんなに寒いのにどうして元気なんですか",
     "zh": "明明这么冷，为什么还那么有精神？"
+  },
+  {
+    "voiceAssetId": "sud_vo_system_cidol-atbm-3-010_home_cmmn-01",
+    "speaker": "燕",
+    "ja": "私のプロデューサーならコールも全力でやれ。いいな。",
+    "zh": "我的制作人就连应援口号也要全力去喊。明白了吗。"
+  },
+  {
+    "voiceAssetId": "sud_vo_system_cidol-atbm-3-010_home_cmmn-02",
+    "speaker": "燕",
+    "ja": "最強のスマイルか。これでどうだ？",
+    "zh": "最强的笑容吗。这样如何？"
+  },
+  {
+    "voiceAssetId": "sud_vo_system_cidol-atbm-3-010_home_cmmn-03",
+    "speaker": "燕",
+    "ja": "この曲も歌いこなしてみせるぞ。アイドルだからな。",
+    "zh": "这首歌我也要唱到完美给你看。因为我是偶像。"
+  },
+  {
+    "voiceAssetId": "sud_vo_system_cidol-jsna-3-021_home_cmmn-01",
+    "speaker": "星南",
+    "ja": "あなたの作ったレガリアで、世界へ挑んでくるわ。",
+    "zh": "我会用你制作的雷加利亚，去挑战世界。"
+  },
+  {
+    "voiceAssetId": "sud_vo_system_cidol-jsna-3-021_home_cmmn-02",
+    "speaker": "星南",
+    "ja": "あなたも私の獲物だということを忘れないでちょうだいね。",
+    "zh": "可别忘了，你也是我的猎物。"
+  },
+  {
+    "voiceAssetId": "sud_vo_system_cidol-jsna-3-021_home_cmmn-03",
+    "speaker": "星南",
+    "ja": "私がライオンさん。自信があったのに。",
+    "zh": "我才是狮子先生。明明我很有自信的。"
   }
 ]
