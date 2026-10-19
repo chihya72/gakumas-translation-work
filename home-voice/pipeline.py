@@ -41,7 +41,7 @@ def write_json(path: Path, value) -> None:
 def subtitle_ui_config(previous: dict) -> dict:
     return {"enabled": previous.get("enabled", True),
             "showCueWhenMissing": previous.get("showCueWhenMissing", False),
-            "leftOffset": 40, "minBubbleWidth": 424, "bubbleWidth": 520,
+            "leftOffset": 40, "minBubbleWidth": 296, "bubbleWidth": 520,
             "fontSize": previous.get("fontSize", 32), "textPadding": [40, 40]}
 
 

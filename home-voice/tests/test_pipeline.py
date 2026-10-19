@@ -196,7 +196,7 @@ class PipelineTests(unittest.TestCase):
             result = pipeline.read_json(root / "exports" / "home_voice_subtitles.json")
             self.assertEqual(result, {
                 "enabled": True, "showCueWhenMissing": False, "leftOffset": 40,
-                "minBubbleWidth": 424, "bubbleWidth": 520, "fontSize": 32,
+                "minBubbleWidth": 296, "bubbleWidth": 520, "fontSize": 32,
                 "textPadding": [40, 40], "subtitles": [{"voiceAssetId": "voice", "text": row["zh"]}],
             })
             self.assertEqual(pipeline.read_json(root / "data" / "voices.json"), [row])
