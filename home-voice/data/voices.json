@@ -14765,7 +14765,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-020_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-020_home_cmmn-01.wav",
     "ja": "あの曲を歌うなんて\nふふふ\nハードルが高すぎる",
-    "zh": "竟然要唱那首歌\n呵呵呵\n难度太高了",
+    "zh": "竟然要唱那首歌……\n呵呵，难度太高了吧……",
     "wav_source": "reused",
     "duration": 6.155916666666666,
     "sample_rate": 48000,
@@ -14774,8 +14774,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_normalization": "japanese_laughter_to_chinese"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-20T21:20:08.298Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-020_home_cmmn-02",
