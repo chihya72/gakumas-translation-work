@@ -14948,7 +14948,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-023_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-023_home_cmmn-01.wav",
     "ja": "真実の愛\n私も知りたい",
-    "zh": "我也想知晓\n何为真爱。",
+    "zh": "真实之爱……我也想要明白。",
     "wav_source": "reused",
     "duration": 4.128416666666666,
     "sample_rate": 48000,
@@ -14959,7 +14959,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-17T12:10:58.534Z"
+    "reviewed_at": "2026-10-20T21:33:22.388Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-023_home_cmmn-02",
