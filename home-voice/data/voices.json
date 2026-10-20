@@ -14743,8 +14743,8 @@
     "speaker": "広",
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-018_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-018_home_cmmn-03.wav",
-    "ja": "あなたの大好きな夢\n分けてくれて\nありがとう",
-    "zh": "你最喜欢的梦想\n愿意分给我\n谢谢",
+    "ja": "あなたの大事な夢、分けてくれて、ありがとう",
+    "zh": "你愿意把最重要的梦想分给我\n让我一起实现……谢谢你……",
     "wav_source": "reused",
     "duration": 5.165625,
     "sample_rate": 48000,
@@ -14753,7 +14753,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-20T21:19:13.574Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-020_home_cmmn-01",
