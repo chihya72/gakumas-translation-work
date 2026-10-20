@@ -14846,7 +14846,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-021_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-021_home_cmmn-02.wav",
     "ja": "プロデューサー、私も眩しい",
-    "zh": "制作人，我也很耀眼。",
+    "zh": "制作人，我也很耀眼？",
     "wav_source": "reused",
     "duration": 3.7457708333333333,
     "sample_rate": 48000,
@@ -14855,7 +14855,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-20T21:29:44.264Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-021_home_cmmn-03",
