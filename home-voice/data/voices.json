@@ -14928,7 +14928,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-022_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-022_home_cmmn-03.wav",
     "ja": "私の目見て\n聖の字",
-    "zh": "我的眼睛，看着我\n“圣”这个字",
+    "zh": "看着我的眼睛。\n预备，盯——",
     "wav_source": "reused",
     "duration": 6.014666666666667,
     "sample_rate": 48000,
@@ -14937,7 +14937,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-20T21:32:32.095Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-023_home_cmmn-01",
