@@ -14866,7 +14866,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-021_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-021_home_cmmn-03.wav",
     "ja": "夏が終わっても、私たちはずっと一緒だ、よ。",
-    "zh": "即使夏日结束，我们也会一直在一起，哦。",
+    "zh": "即使夏日结束，\n我们也会一直在一起，哦。",
     "wav_source": "reused",
     "duration": 4.89575,
     "sample_rate": 48000,
@@ -14878,7 +14878,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-17T13:05:50.184Z"
+    "reviewed_at": "2026-10-20T21:30:03.834Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-022_home_cmmn-01",
