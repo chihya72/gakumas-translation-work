@@ -14906,8 +14906,8 @@
     "speaker": "広",
     "acb": "audio\\acb\\sud_vo_system_cidol-shro-3-022_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-shro-3-022_home_cmmn-02.wav",
-    "ja": "今の私はわからないことだらけ。\nそれが楽しい。",
-    "zh": "现在的我满是不明白的事。\n这让我很开心。",
+    "ja": "今の私はわからないことだらけ。それが楽しい。",
+    "zh": "如今的我还有许许多多不懂的事。\n这正是乐趣所在。",
     "wav_source": "reused",
     "duration": 6.185708333333333,
     "sample_rate": 48000,
@@ -14916,7 +14916,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-20T21:31:48.296Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-shro-3-022_home_cmmn-03",
