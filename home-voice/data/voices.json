@@ -26297,7 +26297,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-15.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-15.wav",
     "ja": "プロデューサーのことすごく好き",
-    "zh": "我非常喜欢制作人。",
+    "zh": "制作人……\n我好喜欢你……",
     "wav_source": "reused",
     "duration": 3.16975,
     "sample_rate": 48000,
@@ -26306,7 +26306,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T17:30:42.895Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_cmmn-16",
