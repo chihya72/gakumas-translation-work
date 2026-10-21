@@ -26419,7 +26419,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-21.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-21.wav",
     "ja": "プロデューサー、お話しする",
-    "zh": "制作人，我要和你说说话。",
+    "zh": "制作人，能和我……说说话吗？",
     "wav_source": "reused",
     "duration": 3.824895833333333,
     "sample_rate": 48000,
@@ -26428,7 +26428,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T18:57:22.350Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_cmmn-22",
