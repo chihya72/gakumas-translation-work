@@ -26356,8 +26356,8 @@
     "speaker": "広",
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-18.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-18.wav",
-    "ja": "うん、読んだ。",
-    "zh": "嗯，读过了。",
+    "ja": "うん？呼んだ？",
+    "zh": "嗯？你叫我？",
     "wav_source": "reused",
     "duration": 2.434229166666667,
     "sample_rate": 48000,
@@ -26366,7 +26366,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T18:55:18.832Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_cmmn-19",
