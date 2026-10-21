@@ -26802,7 +26802,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_transition-11.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_transition-11.wav",
     "ja": "お菓子といたずらどっちがいい？",
-    "zh": "点心和恶作剧，你想要哪个？",
+    "zh": "给糖和捣蛋，你想选哪个？",
     "wav_source": "reused",
     "duration": 2.839770833333333,
     "sample_rate": 48000,
@@ -26811,7 +26811,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T19:54:59.951Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_transition-12",
