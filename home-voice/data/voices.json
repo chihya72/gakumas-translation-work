@@ -27004,7 +27004,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_transition-21.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_transition-21.wav",
     "ja": "落ち葉のおかげで倒れてもあんまり痛くないよ",
-    "zh": "多亏了落叶，就算摔倒也不太痛哦。",
+    "zh": "多亏了落叶，\n就算倒下也不怎么痛哦。",
     "wav_source": "reused",
     "duration": 3.5462291666666665,
     "sample_rate": 48000,
@@ -27013,7 +27013,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T20:08:10.674Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_transition-22",
