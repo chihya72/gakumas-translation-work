@@ -26863,7 +26863,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_transition-14.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_transition-14.wav",
     "ja": "お花見、嫌いじゃないけど首が疲れる。",
-    "zh": "赏花我倒不讨厌，但脖子会累。",
+    "zh": "赏樱……\n我倒不讨厌，但脖子会累。",
     "wav_source": "reused",
     "duration": 4.3896875,
     "sample_rate": 48000,
@@ -26872,7 +26872,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T19:59:51.768Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_transition-15",
