@@ -26235,8 +26235,8 @@
     "speaker": "広",
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-12.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-12.wav",
-    "ja": "アイドル以外の趣味、私に向いてないことかな",
-    "zh": "偶像以外的爱好，大概不适合我吧。",
+    "ja": "アイドル以外の趣味、私に向いてないことかな……",
+    "zh": "偶像以外的爱好……\n是不是都不适合我呢……",
     "wav_source": "reused",
     "duration": 6.0496875,
     "sample_rate": 48000,
@@ -26245,7 +26245,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T17:14:08.291Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_cmmn-13",
