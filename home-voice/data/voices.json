@@ -26540,7 +26540,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-30.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-30.wav",
     "ja": "私もさきみたいに毎朝ランニングしたら、体力オーバケになれる…かも？",
-    "zh": "如果我也像咲季那样每早上跑步，\n能变成体力怪物……的吧？",
+    "zh": "如果我也像咲季那样每早上跑步，\n也许能变成体力怪物……的吧？",
     "wav_source": "reused",
     "duration": 7.4236458333333335,
     "sample_rate": 48000,
@@ -26551,7 +26551,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-21T19:46:35.264Z"
+    "reviewed_at": "2026-10-21T19:46:52.655Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_touch-01",
