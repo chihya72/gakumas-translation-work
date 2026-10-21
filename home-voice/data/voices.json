@@ -26194,8 +26194,8 @@
     "speaker": "広",
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-10.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-10.wav",
-    "ja": "未得れ。何度やっても倒れる未来しか見えない。",
-    "zh": "尚未掌握。无论尝试多少次，都只能看到倒下的未来。",
+    "ja": "イメトレ……何度やっても倒れる未来しか見えない。",
+    "zh": "意象训练……无论尝试多少次，\n都只能看到倒下的未来。",
     "wav_source": "reused",
     "duration": 4.2746875,
     "sample_rate": 48000,
@@ -26204,7 +26204,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T17:06:48.779Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_cmmn-11",
