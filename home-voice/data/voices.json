@@ -26438,8 +26438,8 @@
     "speaker": "広",
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-22.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-22.wav",
-    "ja": "今の私がどこまでできるのか、挑戦。【おばあちゃん】",
-    "zh": "挑战现在的我能做到什么程度。【老婆婆】",
+    "ja": "今の私がどこまでできるのか、挑戦。",
+    "zh": "现在的我的极限在哪里——\n挑战一下。",
     "wav_source": "reused",
     "duration": 3.4072291666666668,
     "sample_rate": 48000,
@@ -26448,7 +26448,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T19:00:25.356Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_cmmn-23",
