@@ -8564,8 +8564,8 @@
   {
     "voiceAssetId": "sud_vo_system_shro_home_transition-20",
     "speaker": "広",
-    "ja": "動きやすい季節だけど、私の体力は変わらずない。",
-    "zh": "虽然到了方便活动的季节，但我的体力还是一样没有。"
+    "ja": "動きやすい季節だけど、私の体力は変わらず——ない。",
+    "zh": "虽然到了方便活动的季节，\n但我的体力还是老样子——没有。"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_transition-21",
