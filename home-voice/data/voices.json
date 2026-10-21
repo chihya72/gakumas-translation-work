@@ -26094,7 +26094,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-05.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-05.wav",
     "ja": "ちなと佑芽は友達。好き。",
-    "zh": "千奈和佑芽是我的朋友。喜欢。",
+    "zh": "千奈和佑芽是我的朋友。\n喜欢。",
     "wav_source": "reused",
     "duration": 2.8845833333333335,
     "sample_rate": 48000,
@@ -26106,7 +26106,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-17T12:14:37.863Z"
+    "reviewed_at": "2026-10-21T17:04:40.344Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_cmmn-06",
