@@ -26399,7 +26399,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-20.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-20.wav",
     "ja": "過去の振り返りは大事。研究と一緒だね。",
-    "zh": "回顾过去很重要。和研究一样呢。",
+    "zh": "回顾过去很重要。\n和研究一个道理呢。",
     "wav_source": "reused",
     "duration": 3.8895625,
     "sample_rate": 48000,
@@ -26408,7 +26408,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T18:56:45.609Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_cmmn-21",
