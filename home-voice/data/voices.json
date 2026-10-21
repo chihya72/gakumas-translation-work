@@ -26056,7 +26056,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-03.wav",
     "ja": "今日も筋肉痛\nふふふふ",
-    "zh": "今天也是肌肉酸痛的一天……\n呵呵呵呵……",
+    "zh": "今天也是肌肉酸痛的一天……\n呵呵呵……",
     "wav_source": "reused",
     "duration": 4.729208333333333,
     "sample_rate": 48000,
@@ -26067,7 +26067,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-21T09:44:41.391Z"
+    "reviewed_at": "2026-10-21T09:56:45.547Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_cmmn-04",
