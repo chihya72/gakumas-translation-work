@@ -26337,7 +26337,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-17.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-17.wav",
     "ja": "プロデューサーと私は一連特賞\nふふふ",
-    "zh": "制作人和我是一荣俱荣的关系……\n呵呵呵……",
+    "zh": "制作人和我是命运共同体……\n呵呵呵……",
     "wav_source": "reused",
     "duration": 4.691979166666667,
     "sample_rate": 48000,
@@ -26348,7 +26348,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-21T18:53:59.198Z"
+    "reviewed_at": "2026-10-21T20:19:27.936Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_cmmn-18",
