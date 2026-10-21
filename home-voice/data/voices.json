@@ -27064,7 +27064,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_transition-24.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_transition-24.wav",
     "ja": "雪が積もったら、学園までたどり着けないかも",
-    "zh": "如果积雪了，可能就到不了学校了。",
+    "zh": "如果积雪了，\n我可能就到不了学校了。",
     "wav_source": "reused",
     "duration": 4.2101041666666665,
     "sample_rate": 48000,
@@ -27073,7 +27073,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T20:10:07.202Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_transition-25",

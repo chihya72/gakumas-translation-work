@@ -8589,7 +8589,7 @@
     "voiceAssetId": "sud_vo_system_shro_home_transition-24",
     "speaker": "広",
     "ja": "雪が積もったら、学園までたどり着けないかも",
-    "zh": "如果积雪了，可能就到不了学校了。"
+    "zh": "如果积雪了，\n我可能就到不了学校了。"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_transition-25",
