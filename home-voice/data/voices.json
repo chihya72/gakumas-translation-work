@@ -26175,7 +26175,7 @@
     "acb": "audio\\acb\\sud_vo_system_shro_home_cmmn-09.acb",
     "wav": "audio\\wav\\sud_vo_system_shro_home_cmmn-09.wav",
     "ja": "どうやって倒れた私を運んだの？\nお姫様だっか",
-    "zh": "你是怎么把倒下的我带回来的？\n是公主抱吗",
+    "zh": "你是怎么把倒下的我带回来的？\n公主抱？",
     "wav_source": "reused",
     "duration": 5.106979166666667,
     "sample_rate": 48000,
@@ -26184,7 +26184,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-21T17:05:36.201Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_cmmn-10",
