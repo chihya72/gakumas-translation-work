@@ -11423,7 +11423,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-003_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-003_home_cmmn-01.wav",
     "ja": "水電報と浮き輪と\nいろいろ揃えておきませんと",
-    "zh": "水枪和游泳圈，\n不准备齐全可不行",
+    "zh": "水枪和游泳圈，还有……\n不准备齐全可不行！",
     "wav_source": "reused",
     "duration": 6.0981875,
     "sample_rate": 48000,
@@ -11432,7 +11432,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-22T21:06:04.053Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-003_home_cmmn-02",
