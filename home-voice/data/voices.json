@@ -11303,7 +11303,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-001_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-001_home_cmmn-01.wav",
     "ja": "私の知らないこと、たくさん教えてくださいませ！",
-    "zh": "本人所不知道的事情，请多多告诉本人吧！",
+    "zh": "我所不知道的事情，\n请您多多告诉我吧！",
     "wav_source": "reused",
     "duration": 3.837083333333333,
     "sample_rate": 48000,
@@ -11312,7 +11312,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-22T21:00:57.481Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-001_home_cmmn-02",
