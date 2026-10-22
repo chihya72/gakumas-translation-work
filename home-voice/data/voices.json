@@ -11403,7 +11403,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-002_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-002_home_cmmn-03.wav",
     "ja": "先生！どうしたら怖く見えるか教えてくださいませ！",
-    "zh": "老师！请教本人怎样才能看起来吓人！",
+    "zh": "老师！请教教我\n怎样才能看起来吓人！",
     "wav_source": "reused",
     "duration": 4.730458333333333,
     "sample_rate": 48000,
@@ -11412,7 +11412,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-22T21:05:31.727Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-003_home_cmmn-01",
