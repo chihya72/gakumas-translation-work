@@ -11606,7 +11606,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-006_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-006_home_cmmn-01.wav",
     "ja": "クリスマスパーティー、先生も招待したいですわ！",
-    "zh": "圣诞派对，本人也想邀请老师哇！",
+    "zh": "圣诞派对，\n我想邀请老师一起来哇！",
     "wav_source": "reused",
     "duration": 3.8854583333333332,
     "sample_rate": 48000,
@@ -11615,7 +11615,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-24T22:49:42.443Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-006_home_cmmn-02",
