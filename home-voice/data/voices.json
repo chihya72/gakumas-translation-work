@@ -11848,7 +11848,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-010_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-010_home_cmmn-01.wav",
     "ja": "先生も我が家のお花見会にぜひいらしてほしいですわ！",
-    "zh": "请老师也一定来参加\n我们家的赏花会哇！",
+    "zh": "老师，请您一定要光临\n我家的赏花会哇！",
     "wav_source": "reused",
     "duration": 4.5975625,
     "sample_rate": 48000,
@@ -11859,7 +11859,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-24T23:17:29.096Z"
+    "reviewed_at": "2026-10-24T23:19:40.081Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-010_home_cmmn-02",
