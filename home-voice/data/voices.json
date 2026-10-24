@@ -11687,7 +11687,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-007_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-007_home_cmmn-02.wav",
     "ja": "信じてみますわ。先生が信じてくださる、私を。",
-    "zh": "本人愿意试着相信。相信老师所信任的本人。",
+    "zh": "我愿意试着去相信哇。\n相信那个老师所相信的我。",
     "wav_source": "reused",
     "duration": 5.288270833333334,
     "sample_rate": 48000,
@@ -11696,7 +11696,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-24T22:55:32.046Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-007_home_cmmn-03",
