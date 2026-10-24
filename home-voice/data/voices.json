@@ -11667,7 +11667,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-007_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-007_home_cmmn-01.wav",
     "ja": "先生となら、どこまでだって駆け上がっていきますわ！",
-    "zh": "只要和老师一起，无论多高都能冲上去哇！",
+    "zh": "只要和老师一起，\n无论多高都能冲上去哇！",
     "wav_source": "reused",
     "duration": 4.019333333333333,
     "sample_rate": 48000,
@@ -11676,7 +11676,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-24T22:51:00.543Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-007_home_cmmn-02",
