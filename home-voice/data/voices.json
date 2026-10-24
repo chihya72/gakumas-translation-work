@@ -11728,7 +11728,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-008_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-008_home_cmmn-01.wav",
     "ja": "チョコレート作り、うまくできるでしょうか？",
-    "zh": "做巧克力，能做好吗？",
+    "zh": "做巧克力的话，我能做好吗……",
     "wav_source": "reused",
     "duration": 3.455229166666667,
     "sample_rate": 48000,
@@ -11737,7 +11737,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-24T23:13:30.529Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-008_home_cmmn-02",
