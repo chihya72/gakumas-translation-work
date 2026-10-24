@@ -11522,8 +11522,8 @@
     "speaker": "千奈",
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-004_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-004_home_cmmn-03.wav",
-    "ja": "こう見えて私、気付けは自分でできますの！",
-    "zh": "别看我这样，本人也能自己穿和服哇！",
+    "ja": "こう見えて私、着付けは自分でできますの！",
+    "zh": "别看我这样，\n和服我自己会穿哦！",
     "wav_source": "reused",
     "duration": 3.7226875,
     "sample_rate": 48000,
@@ -11532,7 +11532,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-24T22:02:14.167Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-005_home_cmmn-01",
