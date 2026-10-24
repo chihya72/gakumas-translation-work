@@ -11828,7 +11828,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-009_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-009_home_cmmn-03.wav",
     "ja": "ひな人形、とってもきれいですわよね？",
-    "zh": "女儿节人偶，真是非常漂亮哇？",
+    "zh": "女儿节人偶真的非常漂亮对吧？",
     "wav_source": "reused",
     "duration": 3.7821458333333333,
     "sample_rate": 48000,
@@ -11837,7 +11837,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-24T23:17:05.762Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-010_home_cmmn-01",
