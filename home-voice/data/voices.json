@@ -11946,7 +11946,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-011_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-011_home_cmmn-03.wav",
     "ja": "先生！アニメのお勉強を手伝ってくださいませ！",
-    "zh": "老师！请帮助本人学习动画吧！",
+    "zh": "老师！请帮助我\n学习动画知识吧！",
     "wav_source": "reused",
     "duration": 4.207041666666667,
     "sample_rate": 48000,
@@ -11955,7 +11955,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-24T23:28:58.117Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-012_home_cmmn-01",
