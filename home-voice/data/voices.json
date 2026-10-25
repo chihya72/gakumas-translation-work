@@ -24265,7 +24265,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_cmmn-08.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_cmmn-08.wav",
     "ja": "今日も保健室で、篠澤さんとお話ししましたの！",
-    "zh": "今天也在保健室和筱泽同学聊天了哇！",
+    "zh": "今天也在保健室\n和筱泽同学聊天了呢！",
     "wav_source": "reused",
     "duration": 4.3955,
     "sample_rate": 48000,
@@ -24274,7 +24274,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T18:45:18.686Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_cmmn-09",
