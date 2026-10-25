@@ -12409,7 +12409,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-020_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-020_home_cmmn-02.wav",
     "ja": "前々と背中を押してくれる素敵な曲ですわよね！",
-    "zh": "这是一首一直在背后推动本人的美妙曲子哇！",
+    "zh": "这是一首一直在背后推动我前进的\n美妙曲子对吧！",
     "wav_source": "reused",
     "duration": 4.9292291666666666,
     "sample_rate": 48000,
@@ -12418,7 +12418,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T18:15:39.317Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-020_home_cmmn-03",
