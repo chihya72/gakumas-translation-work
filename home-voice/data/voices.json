@@ -24164,7 +24164,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_cmmn-03.wav",
     "ja": "うわぁ、今日もトレーナーに怒られてしまいましたわ。",
-    "zh": "呜哇，今天又被训练员训斥了哇。",
+    "zh": "呜哇……\n今天又被训练员训斥了哇……",
     "wav_source": "reused",
     "duration": 5.101333333333334,
     "sample_rate": 48000,
@@ -24173,7 +24173,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T18:38:27.764Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_cmmn-04",
