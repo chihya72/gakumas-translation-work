@@ -24346,7 +24346,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_cmmn-12.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_cmmn-12.wav",
     "ja": "どんなに辛くとも、わたし辞めませんわ！",
-    "zh": "无论多么辛苦，本人都不会放弃哇！",
+    "zh": "无论多么辛苦，\n我都不会放弃哇！",
     "wav_source": "reused",
     "duration": 3.4650833333333333,
     "sample_rate": 48000,
@@ -24355,7 +24355,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T18:48:38.826Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_cmmn-13",
