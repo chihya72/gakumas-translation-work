@@ -12150,7 +12150,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-015_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-015_home_cmmn-01.wav",
     "ja": "一歩一歩は小さくても、全力で参りましょう！",
-    "zh": "即使每一步都很小，也要全力以赴前进吧！",
+    "zh": "哪怕只是小小的每一步，\n我们也拼尽全力前进吧！",
     "wav_source": "reused",
     "duration": 4.3199375,
     "sample_rate": 48000,
@@ -12159,7 +12159,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T16:23:16.094Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-015_home_cmmn-02",
