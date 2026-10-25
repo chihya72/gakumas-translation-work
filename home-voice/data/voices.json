@@ -24487,7 +24487,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_cmmn-19.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_cmmn-19.wav",
     "ja": "まさか、おじいさまがまた何か？",
-    "zh": "该不会，\n爷爷又提了什么要求……？",
+    "zh": "莫非爷爷又要搞出什么名堂……？",
     "wav_source": "reused",
     "duration": 3.4242708333333334,
     "sample_rate": 48000,
@@ -24498,7 +24498,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-25T19:35:18.539Z"
+    "reviewed_at": "2026-10-25T19:55:06.021Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_cmmn-20",
