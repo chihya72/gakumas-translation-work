@@ -24406,7 +24406,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_cmmn-15.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_cmmn-15.wav",
     "ja": "やっと立派なアイドルへの一歩を踏み出せましたわ！",
-    "zh": "终于迈出了成为出色偶像的一步哇！",
+    "zh": "终于向着成为优秀偶像\n迈出了一步哇！",
     "wav_source": "reused",
     "duration": 4.282666666666667,
     "sample_rate": 48000,
@@ -24415,7 +24415,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T19:25:04.278Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_cmmn-16",
