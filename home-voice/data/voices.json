@@ -12371,7 +12371,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-018_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-018_home_cmmn-03.wav",
     "ja": "さあ、先生もご一緒に、走りたい！",
-    "zh": "来吧，老师也一起，真想跑起来！",
+    "zh": "来吧，老师也一起，齐声喝彩！",
     "wav_source": "reused",
     "duration": 4.325958333333333,
     "sample_rate": 48000,
@@ -12380,7 +12380,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T18:20:25.142Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-020_home_cmmn-01",
