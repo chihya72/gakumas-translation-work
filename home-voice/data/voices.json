@@ -12389,7 +12389,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-020_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-020_home_cmmn-01.wav",
     "ja": "あの曲を歌えるなんて、とんでもないことでしょう！",
-    "zh": "居然能唱那首歌，真是太了不得了呢！",
+    "zh": "居然能唱那首歌，\n实在是不敢想象哇！",
     "wav_source": "reused",
     "duration": 5.5189375,
     "sample_rate": 48000,
@@ -12398,7 +12398,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T18:09:52.930Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-020_home_cmmn-02",
