@@ -24386,7 +24386,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_cmmn-14.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_cmmn-14.wav",
     "ja": "おじいさまは無理なんだいを言い過ぎですわー！",
-    "zh": "爷爷净给老师出这种强人所难的\n难题，太过分了哇——！",
+    "zh": "爷爷净给老师提这种强人所难的\n要求，太过分了哇——！",
     "wav_source": "reused",
     "duration": 4.679541666666666,
     "sample_rate": 48000,
@@ -24397,7 +24397,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-25T19:20:54.145Z"
+    "reviewed_at": "2026-10-25T19:21:15.013Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_cmmn-15",
