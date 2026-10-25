@@ -12290,7 +12290,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-017_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-017_home_cmmn-02.wav",
     "ja": "永遠に踊り続けるなんて、体力が足りませんわー！",
-    "zh": "永远跳个不停什么的，体力可不够哇——！",
+    "zh": "永远地跳下去什么的，\n体力可不够哇——！",
     "wav_source": "reused",
     "duration": 5.913875,
     "sample_rate": 48000,
@@ -12299,7 +12299,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T17:21:24.672Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-017_home_cmmn-03",
