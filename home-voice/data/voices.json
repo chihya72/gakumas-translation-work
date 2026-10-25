@@ -12552,7 +12552,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-022_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-022_home_cmmn-03.wav",
     "ja": "真実の愛というのも、いつか先生が教えてくださいますか？",
-    "zh": "所谓真实的爱，老师有一天也会教给本人吗？",
+    "zh": "所谓真实的爱，\n老师有一天也会教给我吗？",
     "wav_source": "reused",
     "duration": 4.949854166666666,
     "sample_rate": 48000,
@@ -12561,7 +12561,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T18:36:08.801Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-000_home_cmmn-01",
