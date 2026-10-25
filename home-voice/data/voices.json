@@ -12210,7 +12210,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-016_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-016_home_cmmn-01.wav",
     "ja": "信沢さんが私のパートナー？\n素敵ですわ！",
-    "zh": "筱泽同学是本人的搭档？\n太棒了哇！",
+    "zh": "筱泽同学是我的搭档？\n太棒了哇！",
     "wav_source": "reused",
     "duration": 4.816833333333333,
     "sample_rate": 48000,
@@ -12219,7 +12219,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T16:34:34.697Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-016_home_cmmn-02",
