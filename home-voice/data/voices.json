@@ -12530,8 +12530,8 @@
     "speaker": "千奈",
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-022_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-022_home_cmmn-02.wav",
-    "ja": "小悪魔の色気\n私に身につけられるでしょうか？",
-    "zh": "小恶魔的性感魅力，\n本人能学会吗？",
+    "ja": "小悪魔の色気……私に身につけられるでしょうか？",
+    "zh": "小恶魔的性感魅力……\n我也能拥有吗？",
     "wav_source": "reused",
     "duration": 5.161770833333334,
     "sample_rate": 48000,
@@ -12540,7 +12540,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T18:35:17.510Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-022_home_cmmn-03",
