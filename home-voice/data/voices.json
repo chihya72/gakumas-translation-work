@@ -24245,7 +24245,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_cmmn-07.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_cmmn-07.wav",
     "ja": "礼儀作法は小さい頃から勉強しておりますわ！",
-    "zh": "礼仪规矩从小时候起就一直在学习哇！",
+    "zh": "礼仪规矩我从小时候起\n就一直在学习哇！",
     "wav_source": "reused",
     "duration": 3.790208333333333,
     "sample_rate": 48000,
@@ -24254,7 +24254,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T18:44:45.521Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_cmmn-08",
