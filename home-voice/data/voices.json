@@ -12130,7 +12130,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-014_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-014_home_cmmn-03.wav",
     "ja": "トップアイドルとしてこの曲を歌う。そんな日がいつか！",
-    "zh": "作为顶级偶像唱这首歌。那样的日子终有一天会到来！",
+    "zh": "作为顶级偶像来唱这首歌。\n愿那一天终将到来！",
     "wav_source": "reused",
     "duration": 4.733458333333333,
     "sample_rate": 48000,
@@ -12139,7 +12139,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T05:11:30.684Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-015_home_cmmn-01",
