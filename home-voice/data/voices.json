@@ -12471,7 +12471,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-021_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-021_home_cmmn-02.wav",
     "ja": "アイスの半分ご、私もしてみたいですわ！先生！",
-    "zh": "冰淇淋一人一半，本人也想试试哇！老师！",
+    "zh": "我也想试试一人一半冰淇淋哇！\n老师！",
     "wav_source": "reused",
     "duration": 4.5412083333333335,
     "sample_rate": 48000,
@@ -12480,7 +12480,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-25T18:23:59.919Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-021_home_cmmn-03",
