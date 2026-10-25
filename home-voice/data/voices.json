@@ -24366,7 +24366,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_cmmn-13.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_cmmn-13.wav",
     "ja": "お、私が雑誌の表紙に！",
-    "zh": "哦，本人上杂志封面了！",
+    "zh": "我……我上杂志封面了？！",
     "wav_source": "reused",
     "duration": 3.6769583333333333,
     "sample_rate": 48000,
@@ -24375,9 +24375,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-25T19:13:38.425Z"
+    "reviewed_at": "2026-10-25T19:14:11.940Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_cmmn-14",
