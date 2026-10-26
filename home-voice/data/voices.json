@@ -25000,7 +25000,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_transition-16.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_transition-16.wav",
     "ja": "柔らかくて穏やかで\n素敵な季節ですわね",
-    "zh": "柔和又宁静，\n真是美妙的季节哇",
+    "zh": "柔和又宁静，\n真是美妙的季节呢……",
     "wav_source": "reused",
     "duration": 5.0878125,
     "sample_rate": 48000,
@@ -25009,7 +25009,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-26T16:16:59.778Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-17",
