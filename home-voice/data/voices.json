@@ -25161,7 +25161,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_transition-24.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_transition-24.wav",
     "ja": "ううう。寒いですわ。外に出たくないでしょ？",
-    "zh": "呜呜……好冷哇。你也不想出门吧？",
+    "zh": "呜呜……好冷哇……\n不想出门哇……",
     "wav_source": "reused",
     "duration": 6.087020833333334,
     "sample_rate": 48000,
@@ -25170,7 +25170,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-26T17:55:42.067Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-25",
