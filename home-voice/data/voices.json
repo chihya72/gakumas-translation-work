@@ -24648,7 +24648,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_cmmn-30.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_cmmn-30.wav",
     "ja": "朝の4時から走ったら\n今日1日\nふにゃふにゃになってしまいそうですわ",
-    "zh": "若是从早上4点开始跑步，\n今天一整天\n都会变得软绵绵哇",
+    "zh": "早上4点开始跑步的话……\n今天一整天都会变得软绵绵哇……",
     "wav_source": "reused",
     "duration": 8.419333333333332,
     "sample_rate": 48000,
@@ -24657,7 +24657,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-26T14:12:19.713Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_touch-01",
