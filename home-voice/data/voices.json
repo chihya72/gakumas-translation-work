@@ -24838,7 +24838,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_transition-08.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_transition-08.wav",
     "ja": "先生、今日はもう少しだけ頑張りたいんですの！",
-    "zh": "老师，今天本人还想再努力一小会儿哇！",
+    "zh": "老师，今天我还想\n再努力一小会儿！",
     "wav_source": "reused",
     "duration": 4.3347291666666665,
     "sample_rate": 48000,
@@ -24847,7 +24847,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-26T15:05:19.569Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-09",
