@@ -16286,7 +16286,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-000_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-000_home_cmmn-01.wav",
     "ja": "全身全霊の歌\nちゃんと聞いてて",
-    "zh": "倾尽全力的歌\n好好听着",
+    "zh": "我倾尽全力的歌……\n好好听着。",
     "wav_source": "reused",
     "duration": 3.513333333333333,
     "sample_rate": 48000,
@@ -16298,7 +16298,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-14T01:09:38.042Z"
+    "reviewed_at": "2026-10-26T18:09:12.974Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-000_home_cmmn-02",
