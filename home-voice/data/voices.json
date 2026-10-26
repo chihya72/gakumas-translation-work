@@ -25180,8 +25180,8 @@
     "speaker": "千奈",
     "acb": "audio\\acb\\sud_vo_system_kcna_home_transition-25.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_transition-25.wav",
-    "ja": "この季節になると毎年、もこもこの服を着せられてしまいますな",
-    "zh": "每年一到这个季节，本人就会被穿上毛茸茸的衣服哇",
+    "ja": "この季節になると毎年、もこもこの服を着せられてしまいますの。",
+    "zh": "每年一到这个季节，我就会\n被逼着穿上毛茸茸的衣服呢。",
     "wav_source": "reused",
     "duration": 5.471854166666667,
     "sample_rate": 48000,
@@ -25190,7 +25190,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-26T17:57:23.123Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_birthday-01",
