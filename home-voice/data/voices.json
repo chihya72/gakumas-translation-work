@@ -25100,7 +25100,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_transition-21.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_transition-21.wav",
     "ja": "クラスの皆様と、今度落ち場で焼き芋を作るんですの！",
-    "zh": "我要和班上的同学们，\n在落叶堆那里烤红薯哦！",
+    "zh": "我要和班上的各位，\n在落叶堆那里烤红薯哦！",
     "wav_source": "reused",
     "duration": 4.542041666666667,
     "sample_rate": 48000,
@@ -25112,7 +25112,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-26T17:53:57.418Z"
+    "reviewed_at": "2026-10-26T17:54:23.110Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-22",
