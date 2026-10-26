@@ -25020,7 +25020,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_transition-17.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_transition-17.wav",
     "ja": "日がさに日焼け止め！\n日差し対策はバッチリですわ！",
-    "zh": "遮阳伞和防晒霜！\n防晒对策万无一失哇！",
+    "zh": "遮阳伞……防晒霜！\n防晒对策万无一失哇！",
     "wav_source": "reused",
     "duration": 5.478916666666667,
     "sample_rate": 48000,
@@ -25029,7 +25029,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-26T16:18:10.517Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-18",
