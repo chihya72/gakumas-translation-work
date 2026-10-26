@@ -24818,7 +24818,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_transition-07.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_transition-07.wav",
     "ja": "そろそろ帰らないと遅くなってしまいますわ",
-    "zh": "差不多该回去了，不然会太晚哇",
+    "zh": "差不多该回家了，\n不然时间就太晚了哇。",
     "wav_source": "reused",
     "duration": 4.304,
     "sample_rate": 48000,
@@ -24827,7 +24827,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-26T15:04:34.115Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-08",
