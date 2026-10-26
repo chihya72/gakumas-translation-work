@@ -24937,8 +24937,8 @@
     "speaker": "千奈",
     "acb": "audio\\acb\\sud_vo_system_kcna_home_transition-13.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_transition-13.wav",
-    "ja": "本当に、本当に！\n今年はお世話になりました！",
-    "zh": "真的，真的！\n今年承蒙您多多关照了！",
+    "ja": "本当に、本っっっ当に！今年はお世話になりました！",
+    "zh": "真的，真的非常感谢您！\n这一年承蒙您关照！",
     "wav_source": "reused",
     "duration": 6.021229166666667,
     "sample_rate": 48000,
@@ -24947,7 +24947,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-26T16:11:14.567Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-14",
