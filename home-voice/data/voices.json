@@ -25080,7 +25080,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_transition-20.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_transition-20.wav",
     "ja": "少し肌寒くなって、なんだか物悲しく感じます。",
-    "zh": "天气变得有些凉，总觉得有些伤感。",
+    "zh": "天气变得有些凉，\n总觉得有些伤感……",
     "wav_source": "reused",
     "duration": 5.6054375,
     "sample_rate": 48000,
@@ -25089,7 +25089,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-26T17:48:10.360Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-21",
