@@ -24978,8 +24978,8 @@
     "speaker": "千奈",
     "acb": "audio\\acb\\sud_vo_system_kcna_home_transition-15.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_transition-15.wav",
-    "ja": "この時期は毎年家族でお花見をしているんですが",
-    "zh": "这个时节每年都会和家人一起赏花……",
+    "ja": "この時期は毎年家族でお花見をしているんですの！",
+    "zh": "这个时节，\n每年都会和家人一起赏花！",
     "wav_source": "reused",
     "duration": 4.1425625,
     "sample_rate": 48000,
@@ -24988,7 +24988,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-26T16:15:52.989Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-16",
