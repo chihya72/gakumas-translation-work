@@ -24766,7 +24766,7 @@
     "acb": "audio\\acb\\sud_vo_system_kcna_home_transition-04.acb",
     "wav": "audio\\wav\\sud_vo_system_kcna_home_transition-04.wav",
     "ja": "お腹いっぱいでも眠らないよう気をつけませんと",
-    "zh": "即使肚子吃得很饱，也必须注意不要睡着才行",
+    "zh": "就算吃得饱饱的，\n也得留神不能睡着了……",
     "wav_source": "reused",
     "duration": 4.348229166666667,
     "sample_rate": 48000,
@@ -24775,7 +24775,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-26T18:07:16.893Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kcna_home_transition-05",
