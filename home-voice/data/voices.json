@@ -15356,8 +15356,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-003_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-003_home_cmmn-02.wav",
-    "ja": "今年は大きい花火が見たいなあ！\nとびっきり派手なやつ！",
-    "zh": "今年好想看大大的烟花啊！\n要特别华丽的那种！",
+    "ja": "今年は大きい花火が見たいなあ！とびっきり派手なやつ！",
+    "zh": "今年好想看大大的烟花啊～\n要超级华丽的那种！",
     "wav_source": "reused",
     "duration": 4.888083333333333,
     "sample_rate": 48000,
@@ -15366,7 +15366,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-27T19:14:11.659Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-003_home_cmmn-03",
