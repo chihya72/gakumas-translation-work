@@ -15231,7 +15231,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-001_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-001_home_cmmn-02.wav",
     "ja": "夏はやっぱ上がる曲が歌いたいよね～",
-    "zh": "夏天果然想唱让人情绪高涨的歌吧～",
+    "zh": "果然夏天就想唱些\n能让人嗨起来的歌对吧～",
     "wav_source": "reused",
     "duration": 3.4635416666666665,
     "sample_rate": 48000,
@@ -15240,7 +15240,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-27T12:01:52.622Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-001_home_cmmn-03",
