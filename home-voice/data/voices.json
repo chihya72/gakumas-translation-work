@@ -15887,7 +15887,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-013_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-013_home_cmmn-01.wav",
     "ja": "カッコよく歌い上げて、みんなを驚かせちゃおうかな～",
-    "zh": "帅气地高歌一曲，把大家都吓一跳吧～",
+    "zh": "帅气地一口气唱到底，\n让大家都大吃一惊吧～",
     "wav_source": "reused",
     "duration": 4.195104166666667,
     "sample_rate": 48000,
@@ -15896,7 +15896,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-27T19:45:17.488Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-013_home_cmmn-02",
