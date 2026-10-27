@@ -15600,7 +15600,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-008_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-008_home_cmmn-02.wav",
     "ja": "ビーチを微糖法？それとも甘いのが好き？",
-    "zh": "P亲是微糖派？还是喜欢甜口的？",
+    "zh": "P亲是微糖派？\n还是喜欢甜甜——的？",
     "wav_source": "reused",
     "duration": 4.568645833333333,
     "sample_rate": 48000,
@@ -15609,7 +15609,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-27T19:27:22.965Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-008_home_cmmn-03",
