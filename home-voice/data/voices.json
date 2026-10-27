@@ -15315,8 +15315,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-002_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-002_home_cmmn-03.wav",
-    "ja": "ピーチも、私には素直な気持ち吐き出していいよ。",
-    "zh": "P亲也可以把真心话对我倾吐出来哦。",
+    "ja": "Ｐっちも、私には素直な気持ち吐き出していいよ。",
+    "zh": "P亲在我面前，尽管把心里话\n都坦白说出来就好啦～",
     "wav_source": "reused",
     "duration": 4.2125625,
     "sample_rate": 48000,
@@ -15325,7 +15325,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-27T13:20:46.728Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-003_home_cmmn-01",
