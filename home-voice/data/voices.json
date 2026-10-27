@@ -15253,7 +15253,7 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-001_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-001_home_cmmn-03.wav",
-    "ja": "ピーチをどんな夏にしたい？あ……真面目な答えは、禁止！",
+    "ja": "Ｐっちをどんな夏にしたい？あ……真面目な答えは、禁止！",
     "zh": "P亲想要什么样的夏天？\n啊……不许一本正经回答！",
     "wav_source": "reused",
     "duration": 5.1410625,
@@ -15266,7 +15266,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-27T13:05:48.337Z"
+    "reviewed_at": "2026-10-27T13:16:24.429Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-002_home_cmmn-01",
