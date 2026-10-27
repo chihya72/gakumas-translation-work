@@ -15621,8 +15621,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-008_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-008_home_cmmn-03.wav",
-    "ja": "地作りチョコとか、他の人にはあげないんだからね。",
-    "zh": "手工巧克力什么的，我可不会送给别人哦。",
+    "ja": "手作りチョコとか、他の人にはあげないんだからね。",
+    "zh": "手工巧克力之类的，\n我才不会送给其他人呢……",
     "wav_source": "reused",
     "duration": 4.048416666666666,
     "sample_rate": 48000,
@@ -15631,7 +15631,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-27T19:29:34.680Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-009_home_cmmn-01",
