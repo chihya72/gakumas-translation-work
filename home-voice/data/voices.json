@@ -15294,8 +15294,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-002_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-002_home_cmmn-02.wav",
-    "ja": "まだビーチにも見せてない私がいたりしてー",
-    "zh": "我还有没展现给P亲看过\n的一面呢——",
+    "ja": "まだＰっちにも見せてない私がいたりしてー",
+    "zh": "我还有没展现给P亲看过\n的一面哦——",
     "wav_source": "reused",
     "duration": 4.58525,
     "sample_rate": 48000,
@@ -15307,7 +15307,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-27T13:14:41.171Z"
+    "reviewed_at": "2026-10-27T13:17:10.801Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-002_home_cmmn-03",
