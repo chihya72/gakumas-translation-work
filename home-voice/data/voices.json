@@ -15542,7 +15542,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-007_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-007_home_cmmn-02.wav",
     "ja": "私負けないよ。自分にも、他の誰にも。",
-    "zh": "我不会输的。\n不管是自己，还是别的任何人！",
+    "zh": "我不会输的。\n不管是自己，还是其他任何人！",
     "wav_source": "reused",
     "duration": 4.98375,
     "sample_rate": 48000,
@@ -15553,7 +15553,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-27T19:25:09.502Z"
+    "reviewed_at": "2026-10-27T19:25:28.880Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_home_cmmn-03",
