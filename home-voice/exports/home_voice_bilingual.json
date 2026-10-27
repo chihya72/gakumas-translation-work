@@ -4899,7 +4899,7 @@
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-009_home_cmmn-02",
     "speaker": "清夏",
     "ja": "あったかくなってくると、やっぱ気分も上がるよね～",
-    "zh": "天气暖和起来，心情果然也会变好呢～"
+    "zh": "天气暖和起来，\n心情果然也会变好呢～"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-009_home_cmmn-03",
