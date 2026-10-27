@@ -15418,8 +15418,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-005_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-005_home_cmmn-02.wav",
-    "ja": "ピーチも仮装しようよ！衣装は私が選んだゲレ！",
-    "zh": "P亲也来变装吧！衣服我来给你挑！",
+    "ja": "Ｐっちも仮装しようよ！衣装は私が選んでげる！",
+    "zh": "P亲也来变装吧！\n衣服我来给你挑！",
     "wav_source": "reused",
     "duration": 3.908333333333333,
     "sample_rate": 48000,
@@ -15428,7 +15428,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-27T19:17:54.068Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-005_home_cmmn-03",
