@@ -15337,7 +15337,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-003_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-003_home_cmmn-01.wav",
     "ja": "夏祭りはやっぱ浴衣着たいよね～\n着付けできないけど",
-    "zh": "夏日祭还是想穿浴衣吧～\n虽然不会穿。",
+    "zh": "夏日祭果然还是想穿浴衣对吧～\n虽然我不懂怎么穿♪",
     "wav_source": "reused",
     "duration": 4.723333333333334,
     "sample_rate": 48000,
@@ -15346,7 +15346,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-27T13:24:42.506Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-003_home_cmmn-02",
