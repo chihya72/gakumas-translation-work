@@ -15192,8 +15192,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-000_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-000_home_cmmn-03.wav",
-    "ja": "テンション上がりすぎて、ずっと歌ってた気分~",
-    "zh": "情绪太高了，感觉一直在唱歌～",
+    "ja": "テンション上がりすぎて、ずっと歌ってたい気分~",
+    "zh": "兴奋到不行了，好想一直唱下去～",
     "wav_source": "reused",
     "duration": 4.238166666666666,
     "sample_rate": 48000,
@@ -15202,7 +15202,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-27T13:02:58.419Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-001_home_cmmn-01",
