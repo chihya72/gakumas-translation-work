@@ -15683,8 +15683,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-009_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-009_home_cmmn-03.wav",
-    "ja": "春服買いに行きたいなあ\nぴっちー！付き合ってよ！",
-    "zh": "好想去买春装啊\nP亲——！陪我去吧！",
+    "ja": "春服買いに行きたいなあ~ぴっちー！付き合ってよ！",
+    "zh": "好想去买春装呀～\nP亲——！陪我一起嘛！",
     "wav_source": "reused",
     "duration": 4.6028125,
     "sample_rate": 48000,
@@ -15693,7 +15693,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-27T19:33:39.553Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-010_home_cmmn-01",
