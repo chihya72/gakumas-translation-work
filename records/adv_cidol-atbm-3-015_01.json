@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
-    "operator_qq": "1513442376",
-    "operator_github": "kkdou3",
-    "display_id": "悸动Douki",
+    "operator_qq": "1009440971",
+    "operator_github": "klsddd",
+    "display_id": "mk2",
     "display_source": "github",
-    "timestamp": "2026-10-27T11:02:45Z"
+    "timestamp": "2026-10-28T03:24:36Z"
   },
   "proofread": {
     "revision": 0,
@@ -29,14 +29,14 @@
   "artifacts": {
     "translation_csv": {
       "path": "translated_csv/adv/cidol-atbm-3-015/01.csv",
-      "operator_qq": "1513442376",
-      "operator_github": "kkdou3",
-      "display_id": "悸动Douki",
+      "operator_qq": "1009440971",
+      "operator_github": "klsddd",
+      "display_id": "mk2",
       "display_source": "github",
-      "timestamp": "2026-10-27T11:02:45Z"
+      "timestamp": "2026-10-28T03:24:36Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-28T02:47:38Z"
+    "updated_at": "2026-10-28T03:24:36Z"
   }
 }
