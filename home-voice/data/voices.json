@@ -16027,7 +16027,7 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-015_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-015_home_cmmn-02.wav",
-    "ja": "ビーチもたまには思いっきり羽目を外してはしゃごうよ！",
+    "ja": "Ｐっちもたまには思いっきり羽目を外してはしゃごうよ！",
     "zh": "P亲偶尔也尽情放开疯玩一场吧！",
     "wav_source": "reused",
     "duration": 4.53775,
@@ -16037,7 +16037,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-29T18:37:47.296Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-015_home_cmmn-03",
