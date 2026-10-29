@@ -15986,8 +15986,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-014_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-014_home_cmmn-03.wav",
-    "ja": "なんかビッチって私のこと超詳しいよね？",
-    "zh": "话说P亲，你对我的事超了解呢？",
+    "ja": "なんかＰっちって私のこと超詳しいよね？",
+    "zh": "话说P亲怎么这么懂我的啊？",
     "wav_source": "reused",
     "duration": 4.669395833333334,
     "sample_rate": 48000,
@@ -15996,7 +15996,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-29T18:36:47.251Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-015_home_cmmn-01",
