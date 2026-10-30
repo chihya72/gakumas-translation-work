@@ -16129,7 +16129,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-017_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-017_home_cmmn-01.wav",
     "ja": "ふたりでステージに立てるなんて、ほんと夢みたいだよ！",
-    "zh": "我们两个能一起站上舞台，真的像做梦一样！",
+    "zh": "能够两人一起站上舞台，\n真的像做梦一样！",
     "wav_source": "reused",
     "duration": 4.7861875,
     "sample_rate": 48000,
@@ -16138,7 +16138,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-10-30T16:17:43.976Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-017_home_cmmn-02",
