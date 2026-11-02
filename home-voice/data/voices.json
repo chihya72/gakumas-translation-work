@@ -16413,7 +16413,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-022_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-022_home_cmmn-03.wav",
     "ja": "ビーチにいたずらしちゃおうかなー。怖かまだもん。",
-    "zh": "要不要对P亲搞点恶作剧呢。反正我才不怕。",
+    "zh": "要不要对P亲搞点恶作剧呢——\n因为我是小恶魔嘛～",
     "wav_source": "reused",
     "duration": 4.545229166666667,
     "sample_rate": 48000,
@@ -16422,7 +16422,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-02T17:06:21.940Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-000_home_cmmn-01",
