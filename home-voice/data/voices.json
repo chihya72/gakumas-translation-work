@@ -16291,7 +16291,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-020_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-020_home_cmmn-03.wav",
     "ja": "一番好きって思えるような私になるから、見ててね！",
-    "zh": "我会成为能让自己觉得“最喜欢”的我，要看着我哦！",
+    "zh": "我会成为能让我最喜欢的自己，\n要好好看着我哦！",
     "wav_source": "reused",
     "duration": 4.289020833333334,
     "sample_rate": 48000,
@@ -16300,7 +16300,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-02T16:55:42.757Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-021_home_cmmn-01",
