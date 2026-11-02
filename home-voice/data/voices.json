@@ -16352,7 +16352,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ssmk-3-021_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ssmk-3-021_home_cmmn-03.wav",
     "ja": "ビーチはどこにも行ったりしないよね？",
-    "zh": "P亲哪里都不会去吧？",
+    "zh": "P亲哪儿都不会去的对吧？",
     "wav_source": "reused",
     "duration": 2.9596458333333335,
     "sample_rate": 48000,
@@ -16361,7 +16361,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-02T17:02:17.162Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ssmk-3-022_home_cmmn-01",
