@@ -27735,7 +27735,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-11.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-11.wav",
     "ja": "レッスン？それよりデートがいいなあ",
-    "zh": "训练？比起那个，我更想约会呀",
+    "zh": "训练？……\n比起那个，我更想去约会呀～",
     "wav_source": "reused",
     "duration": 3.8009583333333334,
     "sample_rate": 48000,
@@ -27744,7 +27744,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-05T13:11:49.508Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-12",
