@@ -8624,8 +8624,8 @@
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-04",
     "speaker": "清夏",
-    "ja": "私の夢は、やっぱりリーリヤを支えてあげることかな？",
-    "zh": "我的梦想，果然还是支持莉莉娅吧？"
+    "ja": "私の夢は、やっぱリーリヤを支えてあげることかな？",
+    "zh": "我的梦想，\n大概是支持莉莉娅吧？"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-05",
