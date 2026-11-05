@@ -27633,8 +27633,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-06.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-06.wav",
-    "ja": "この舞、撮ったプリ、めっちゃ盛れてない？",
-    "zh": "之前拍的大头贴，超好看的吧？",
+    "ja": "この前撮ったプリ、めっちゃ盛れてない？",
+    "zh": "之前拍的大头贴，是不是超上镜！",
     "wav_source": "reused",
     "duration": 2.603875,
     "sample_rate": 48000,
@@ -27643,7 +27643,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-05T12:56:08.726Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-07",
