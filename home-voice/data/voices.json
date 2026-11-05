@@ -27612,8 +27612,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-05.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-05.wav",
-    "ja": "今度の休みはリーリヤと遊びに行くな！",
-    "zh": "下次休息天要和莉莉娅去玩哦！",
+    "ja": "今度の休みはリーリヤと遊びに行くんだ！",
+    "zh": "下次休息天我要和莉莉娅去玩哦！",
     "wav_source": "reused",
     "duration": 3.2176458333333335,
     "sample_rate": 48000,
@@ -27622,7 +27622,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-05T12:49:08.831Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-06",
