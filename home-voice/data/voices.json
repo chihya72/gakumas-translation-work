@@ -27572,7 +27572,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-03.wav",
     "ja": "勉強とか、ご褒美ないとやってらんないよね～",
-    "zh": "学习什么的，没有奖励可做不下去呢～",
+    "zh": "学习这种事，\n没有奖励是坚持不下去的嘛～",
     "wav_source": "reused",
     "duration": 4.361208333333333,
     "sample_rate": 48000,
@@ -27581,7 +27581,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-05T12:36:09.397Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-04",
