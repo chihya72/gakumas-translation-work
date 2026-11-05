@@ -27815,7 +27815,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-15.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-15.wav",
     "ja": "一日で足りなかったら、またデートしてあげるからね！",
-    "zh": "如果一天不够的话，我会再和你约会的哦！",
+    "zh": "要是一天不尽兴，\n下次我再陪你约会好啦！",
     "wav_source": "reused",
     "duration": 3.8692083333333334,
     "sample_rate": 48000,
@@ -27824,7 +27824,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-05T16:31:41.597Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-16",
