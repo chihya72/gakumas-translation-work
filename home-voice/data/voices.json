@@ -27775,7 +27775,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-13.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-13.wav",
     "ja": "ピーチ鋭すぎ！ちょっと凹んでただけなのに",
-    "zh": "P亲也太敏锐了！明明我只是有点消沉而已。",
+    "zh": "P亲你也太敏锐啦！\n我就只是稍微有点消沉而已……",
     "wav_source": "reused",
     "duration": 4.717875,
     "sample_rate": 48000,
@@ -27784,7 +27784,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-05T16:29:04.307Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-14",
