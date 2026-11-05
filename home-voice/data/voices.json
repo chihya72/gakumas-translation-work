@@ -27755,7 +27755,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-12.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-12.wav",
     "ja": "どうしても怪我したときのこと思い出しちゃうんだよね",
-    "zh": "总是会想起受伤时的事呢",
+    "zh": "我总是忍不住，\n想起当时受伤的场景……",
     "wav_source": "reused",
     "duration": 4.596541666666667,
     "sample_rate": 48000,
@@ -27764,7 +27764,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-05T16:25:59.923Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-13",
