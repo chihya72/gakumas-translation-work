@@ -27835,7 +27835,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-16.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-16.wav",
     "ja": "ピーチとなら、ちゃんと強い私になれると思うんだ！",
-    "zh": "只要和P亲在一起，我觉得自己能成为真正坚强的我！",
+    "zh": "只要和P亲在一起，我觉得我一定\n能变得更强大！",
     "wav_source": "reused",
     "duration": 4.074625,
     "sample_rate": 48000,
@@ -27844,7 +27844,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-05T17:09:41.938Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-17",
