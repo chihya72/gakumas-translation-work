@@ -30022,8 +30022,8 @@
     "speaker": "千奈",
     "acb": "audio\\acb\\sud_vo_system_cidol-kcna-3-019_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kcna-3-019_home_cmmn-03.wav",
-    "ja": "あーもう、プルドックだなんて。先生ったら",
-    "zh": "啊——真是的，居然说什么斗牛犬。老师真是的。",
+    "ja": "もう、ブルドッグだなんて。\n先生ったら。",
+    "zh": "居然说我像斗牛犬……\n老师您真是的！",
     "duration": 5.10375,
     "sample_rate": 48000,
     "channels": 1,
@@ -30031,7 +30031,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "ja_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-06T08:48:03.277Z"
   }
 ]
