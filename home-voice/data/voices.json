@@ -27978,7 +27978,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-23.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-23.wav",
     "ja": "悔しいの嫌だし、本気でやっちゃうよ！",
-    "zh": "讨厌不甘心，所以我会认真上的哦！",
+    "zh": "我才不要留下遗憾，\n这次可要动真格的啦！",
     "wav_source": "reused",
     "duration": 3.4718333333333335,
     "sample_rate": 48000,
@@ -27987,7 +27987,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-06T09:12:24.981Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-24",
