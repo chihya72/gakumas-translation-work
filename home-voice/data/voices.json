@@ -28099,7 +28099,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-29.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-29.wav",
     "ja": "私、今日朝からサキッチと走ってきたんだけど、偉くない？",
-    "zh": "我啊，今天一大早就和咲季亲一起去跑步了，不厉害吗？",
+    "zh": "我今天一大早就和咲季亲一起去\n跑步了，不觉得很厉害吗？",
     "wav_source": "reused",
     "duration": 4.972479166666667,
     "sample_rate": 48000,
@@ -28108,7 +28108,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-06T09:25:24.366Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-30",
