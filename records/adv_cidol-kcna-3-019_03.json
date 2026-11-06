@@ -18,13 +18,14 @@
     "timestamp": "2026-11-05T09:27:41Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "1009440971",
     "operator_github": "klsddd",
     "display_id": "mk2",
-    "timestamp": "2026-11-06T01:54:17Z"
+    "timestamp": "2026-11-06T10:21:01Z",
+    "display_source": "github"
   },
   "artifacts": {
     "translation_csv": {
@@ -34,9 +35,17 @@
       "display_id": "悸动Douki",
       "display_source": "github",
       "timestamp": "2026-11-05T09:27:41Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/cidol-kcna-3-019/03.csv",
+      "operator_qq": "1009440971",
+      "operator_github": "klsddd",
+      "display_id": "mk2",
+      "display_source": "github",
+      "timestamp": "2026-11-06T10:21:01Z"
     }
   },
   "github": {
-    "updated_at": "2026-11-06T01:54:17Z"
+    "updated_at": "2026-11-06T10:21:01Z"
   }
 }
