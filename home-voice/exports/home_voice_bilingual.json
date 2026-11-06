@@ -9404,8 +9404,8 @@
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-01",
     "speaker": "千奈",
-    "ja": "先生の教えはずっと私の胸に残っていますわ。",
-    "zh": "老师的教诲一直留在本人心中哇。"
+    "ja": "先生の教えは\nずっと私の胸に残っていますわ。",
+    "zh": "老师的教诲一直留在我心中的哇。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-02",
