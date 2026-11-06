@@ -27936,8 +27936,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-21.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-21.wav",
-    "ja": "一緒に遊びですよ",
-    "zh": "要一起玩啦。",
+    "ja": "一緒におしゃべりしよ？",
+    "zh": "来聊一会？",
     "wav_source": "reused",
     "duration": 1.4762708333333334,
     "sample_rate": 48000,
@@ -27946,7 +27946,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-06T09:06:26.424Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-22",
