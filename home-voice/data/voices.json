@@ -28039,7 +28039,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-26.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-26.wav",
     "ja": "ピッチが教えてくれたことを、ちゃんと覚えてるからね！",
-    "zh": "P亲教给我的事，我会好好记住的哦！",
+    "zh": "P亲教给我的那些，\n我全——都好好记着呢！",
     "wav_source": "reused",
     "duration": 4.2560625,
     "sample_rate": 48000,
@@ -28048,7 +28048,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-06T09:19:24.987Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-27",
