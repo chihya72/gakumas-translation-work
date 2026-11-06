@@ -29942,8 +29942,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-018_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-018_home_cmmn-02.wav",
-    "ja": "これからも見ていてくださいね。ありのままの私は。",
-    "zh": "今后也请一直看着我呢。真实的我。",
+    "ja": "これからも見ていてくださいね。\nありのままの私は。",
+    "zh": "从今往后也请您一直看着呢，\n最真实的我。",
     "duration": 5.6865625,
     "sample_rate": 48000,
     "channels": 1,
@@ -29951,8 +29951,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "ja_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-06T07:43:59.408Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_home_cmmn-03",
