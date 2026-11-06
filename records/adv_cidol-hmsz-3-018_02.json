@@ -18,13 +18,14 @@
     "timestamp": "2026-11-05T20:40:54Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "1009440971",
     "operator_github": "klsddd",
     "display_id": "mk2",
-    "timestamp": "2026-11-06T01:54:45Z"
+    "timestamp": "2026-11-06T10:30:58Z",
+    "display_source": "github"
   },
   "artifacts": {
     "translation_csv": {
@@ -34,9 +35,17 @@
       "display_id": "pm",
       "display_source": "github",
       "timestamp": "2026-11-05T20:40:54Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/cidol-hmsz-3-018/02.csv",
+      "operator_qq": "1009440971",
+      "operator_github": "klsddd",
+      "display_id": "mk2",
+      "display_source": "github",
+      "timestamp": "2026-11-06T10:30:58Z"
     }
   },
   "github": {
-    "updated_at": "2026-11-06T01:54:45Z"
+    "updated_at": "2026-11-06T10:30:58Z"
   }
 }
