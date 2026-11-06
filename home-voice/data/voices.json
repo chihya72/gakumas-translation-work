@@ -28059,7 +28059,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-27.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-27.wav",
     "ja": "ピーチも今幸せ？\nそうだったらいいなあ",
-    "zh": "Peach现在，幸福吗？\n嘿嘿……是的话就好啦——",
+    "zh": "P亲现在，幸福吗？\n嘿嘿……是的话就好啦——",
     "wav_source": "reused",
     "duration": 6.165291666666667,
     "sample_rate": 48000,
@@ -28070,7 +28070,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-11-06T09:22:23.829Z"
+    "reviewed_at": "2026-11-06T09:22:55.362Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-28",
