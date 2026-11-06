@@ -28148,7 +28148,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "translation_model": "deepseek-v4-pro",
+    "reviewed": true,
+    "reviewed_at": "2026-11-06T13:22:17.518Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_touch-02",
