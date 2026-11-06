@@ -28017,8 +28017,8 @@
     "speaker": "清夏",
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-25.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-25.wav",
-    "ja": "えー、成績とかどうでもいいじゃん。",
-    "zh": "哎——，成绩什么的怎么样都无所谓吧。",
+    "ja": "えー、成績とかどうでもいいじゃん……",
+    "zh": "啊——成绩什么的，\n其实也没那么重要啦……",
     "wav_source": "reused",
     "duration": 3.9073333333333333,
     "sample_rate": 48000,
@@ -28027,7 +28027,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-06T09:18:48.252Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-26",
