@@ -28159,7 +28159,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_touch-02.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_touch-02.wav",
     "ja": "なになに？そんなに構ってほしいの？",
-    "zh": "怎么了怎么了？就那么想让我理你吗？",
+    "zh": "怎么啦怎么啦？\n就那么想让我理你吗？",
     "wav_source": "reused",
     "duration": 3.697375,
     "sample_rate": 48000,
@@ -28168,7 +28168,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-06T13:24:25.558Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-01",
