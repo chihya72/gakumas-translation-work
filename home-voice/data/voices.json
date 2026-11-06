@@ -27998,7 +27998,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-24.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-24.wav",
     "ja": "私のことをそんなに知りたいんだ",
-    "zh": "你就那么想了解我吗？",
+    "zh": "原来你这么想了解我呀～",
     "wav_source": "reused",
     "duration": 3.341270833333333,
     "sample_rate": 48000,
@@ -28007,7 +28007,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-06T09:14:34.610Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-25",
