@@ -29962,8 +29962,8 @@
     "speaker": "美鈴",
     "acb": "audio\\acb\\sud_vo_system_cidol-hmsz-3-018_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hmsz-3-018_home_cmmn-03.wav",
-    "ja": "まりちゃんも、あなたも、どちらも違う大切な人です。",
-    "zh": "小毬也是，你也是，都是不同的重要之人。",
+    "ja": "まりちゃんも、あなたも、\nどちらも違う大切な人です。",
+    "zh": "小毬也是、您也是，对我而言，\n都是与众不同的重要之人。",
     "duration": 6.2084375,
     "sample_rate": 48000,
     "channels": 1,
@@ -29971,8 +29971,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "ja_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-06T07:48:50.044Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-01",
