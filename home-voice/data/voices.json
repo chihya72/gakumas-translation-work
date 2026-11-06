@@ -27937,7 +27937,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_cmmn-21.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_cmmn-21.wav",
     "ja": "一緒におしゃべりしよ？",
-    "zh": "来聊一会？",
+    "zh": "来聊一会呗？",
     "wav_source": "reused",
     "duration": 1.4762708333333334,
     "sample_rate": 48000,
@@ -27949,7 +27949,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-11-06T09:06:26.424Z"
+    "reviewed_at": "2026-11-06T09:11:46.949Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-22",
