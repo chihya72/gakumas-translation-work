@@ -12614,7 +12614,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-000_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-000_home_cmmn-03.wav",
     "ja": "届かないくらい遠くても、羽ばたきは止めません！",
-    "zh": "就算遥远得无法触及，我也不会停止飞翔！",
+    "zh": "就算遥不可及，\n我也不会停止展翅高飞！",
     "wav_source": "reused",
     "duration": 4.414875,
     "sample_rate": 48000,
@@ -12625,7 +12625,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:05:25.354Z"
+    "reviewed_at": "2026-11-08T18:20:56.763Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-001_home_cmmn-01",
