@@ -28360,7 +28360,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_transition-10.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_transition-10.wav",
     "ja": "ちゃんとピーチにチョコ用意してるって！",
-    "zh": "我可有好好给P亲准备巧克力哦！",
+    "zh": "我超——认真地给P亲\n准备了巧克力哦！",
     "wav_source": "reused",
     "duration": 3.532979166666667,
     "sample_rate": 48000,
@@ -28369,7 +28369,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-08T17:13:45.317Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-11",
