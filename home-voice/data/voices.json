@@ -28558,7 +28558,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_transition-20.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_transition-20.wav",
     "ja": "あっという間に暗くなると思ったら、もう秋かー",
-    "zh": "还说天一下子就变暗了，\n原来都已经秋天了啊——",
+    "zh": "还说天一下子就黑了，\n原来都已经秋天了啊——",
     "wav_source": "reused",
     "duration": 4.287,
     "sample_rate": 48000,
@@ -28569,7 +28569,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-11-08T17:50:20.803Z"
+    "reviewed_at": "2026-11-08T17:51:17.349Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-21",
