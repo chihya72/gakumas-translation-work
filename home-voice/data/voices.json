@@ -28219,7 +28219,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_transition-03.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_transition-03.wav",
     "ja": "リーリヤのお弁当、見た目も味もめっちゃいいの！",
-    "zh": "莉莉娅的便当，外观和味道都超好！",
+    "zh": "莉莉娅的便当，\n颜值和味道都绝了！",
     "wav_source": "reused",
     "duration": 3.86525,
     "sample_rate": 48000,
@@ -28228,7 +28228,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-08T15:02:09.096Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-04",
