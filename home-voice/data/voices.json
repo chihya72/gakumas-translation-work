@@ -28320,7 +28320,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_transition-08.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_transition-08.wav",
     "ja": "このまま二人で夜更かしするとか楽しそうじゃん？",
-    "zh": "就这样两个人一起熬夜什么的，不觉得很有意思吗？",
+    "zh": "咱们就这么两个人一起熬夜，\n不觉得很有意思吗？",
     "wav_source": "reused",
     "duration": 3.3308541666666667,
     "sample_rate": 48000,
@@ -28329,7 +28329,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-08T15:40:22.357Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-09",
