@@ -18,14 +18,14 @@
     "timestamp": "2026-11-08T11:37:45Z"
   },
   "proofread": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
-    "operator_qq": "1513442376",
-    "operator_github": "kkdou3",
-    "display_id": "悸动Douki",
+    "operator_qq": "769185426",
+    "operator_github": "kitsurato",
+    "display_id": "病毒",
     "display_source": "github",
-    "timestamp": "2026-11-08T15:11:39Z"
+    "timestamp": "2026-11-08T16:31:56Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -38,14 +38,14 @@
     },
     "proofread_csv": {
       "path": "proofread_csv/adv/dear/hkne/000-05-horizontal.csv",
-      "operator_qq": "1513442376",
-      "operator_github": "kkdou3",
-      "display_id": "悸动Douki",
+      "operator_qq": "769185426",
+      "operator_github": "kitsurato",
+      "display_id": "病毒",
       "display_source": "github",
-      "timestamp": "2026-11-08T15:11:39Z"
+      "timestamp": "2026-11-08T16:31:56Z"
     }
   },
   "github": {
-    "updated_at": "2026-11-08T15:11:39Z"
+    "updated_at": "2026-11-08T16:31:56Z"
   }
 }
