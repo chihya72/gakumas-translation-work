@@ -28438,7 +28438,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_transition-14.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_transition-14.wav",
     "ja": "コスメ、春の新色がめっちゃ可愛いんだ！見て見て！",
-    "zh": "化妆品春季新色超可爱的！快看快看！",
+    "zh": "彩妆的春季新色号超可爱的！\n快看快看！",
     "wav_source": "reused",
     "duration": 4.574458333333333,
     "sample_rate": 48000,
@@ -28447,7 +28447,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-08T17:32:04.995Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-15",
