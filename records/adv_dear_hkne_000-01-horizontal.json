@@ -19,7 +19,13 @@
   },
   "proofread": {
     "revision": 0,
-    "draft_revision": 0
+    "draft_revision": 0,
+    "state": "进行中",
+    "operator_qq": "769185426",
+    "operator_github": "kitsurato",
+    "display_id": "病毒",
+    "display_source": "github",
+    "timestamp": "2026-11-08T15:03:25Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -32,6 +38,6 @@
     }
   },
   "github": {
-    "updated_at": "2026-11-08T06:49:59Z"
+    "updated_at": "2026-11-08T15:03:25Z"
   }
 }
