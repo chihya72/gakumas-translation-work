@@ -28498,7 +28498,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_transition-17.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_transition-17.wav",
     "ja": "あっつー！\nでも海とか絶対気持ちいいしょ？",
-    "zh": "好热——！\n不过海边什么的绝对很舒服吧？",
+    "zh": "好热——！\n不过这时候去海边绝对很舒服吧？",
     "wav_source": "reused",
     "duration": 5.153875,
     "sample_rate": 48000,
@@ -28507,7 +28507,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-08T17:45:30.233Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-18",
