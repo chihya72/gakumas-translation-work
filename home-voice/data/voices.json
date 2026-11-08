@@ -28478,7 +28478,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_transition-16.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_transition-16.wav",
     "ja": "桜のお菓子とか、リーリヤに作ってもらおうかな？",
-    "zh": "樱花点心什么的，要不要让莉莉娅做给我呢？",
+    "zh": "要不拜托莉莉娅做点\n樱花味的点心怎么样？",
     "wav_source": "reused",
     "duration": 4.062729166666666,
     "sample_rate": 48000,
@@ -28487,7 +28487,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-08T17:44:41.159Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-17",
