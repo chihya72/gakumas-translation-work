@@ -12571,8 +12571,8 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-000_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-000_home_cmmn-01.wav",
-    "ja": "やっぱり私の曲なんて恐れ多いです。",
-    "zh": "用作我的曲子果然我还是还是太不够格了。",
+    "ja": "う……やっぱり私の曲なんて恐れ多いです。",
+    "zh": "唔……果然，要给我做专属曲子\n什么的，实在愧不敢当。",
     "wav_source": "reused",
     "duration": 5.284791666666667,
     "sample_rate": 48000,
@@ -12583,7 +12583,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:03:14.904Z"
+    "reviewed_at": "2026-11-08T18:11:02.496Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-000_home_cmmn-02",
