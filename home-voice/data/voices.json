@@ -28596,7 +28596,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_transition-22.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_transition-22.wav",
     "ja": "私にとっての秋は、ファッションの秋かな？",
-    "zh": "对我来说秋天就是时尚之秋吧？",
+    "zh": "对我来说……\n秋天就是时尚之秋吧？",
     "wav_source": "reused",
     "duration": 4.5271875,
     "sample_rate": 48000,
@@ -28605,7 +28605,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-08T17:50:59.054Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-23",
