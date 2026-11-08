@@ -19,7 +19,7 @@
   },
   "proofread": {
     "revision": 1,
-    "draft_revision": 1,
+    "draft_revision": 2,
     "state": "完成",
     "operator_qq": "1513442376",
     "operator_github": "kkdou3",
@@ -51,10 +51,10 @@
       "display_id": "病毒",
       "display_source": "github",
       "based_on_revision": 1,
-      "timestamp": "2026-11-08T15:28:58Z"
+      "timestamp": "2026-11-08T15:29:30Z"
     }
   },
   "github": {
-    "updated_at": "2026-11-08T15:28:58Z"
+    "updated_at": "2026-11-08T15:29:30Z"
   }
 }
