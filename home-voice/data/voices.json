@@ -28400,7 +28400,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_transition-12.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_transition-12.wav",
     "ja": "クリスマスだし、今日こそデートビューリション！",
-    "zh": "都圣诞节了，今天一定要来场约会革命！",
+    "zh": "都圣诞节了，\n今天一定要来场特别的约会！",
     "wav_source": "reused",
     "duration": 3.990125,
     "sample_rate": 48000,
@@ -28409,7 +28409,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-08T18:00:52.724Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-13",
