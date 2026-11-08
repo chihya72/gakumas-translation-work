@@ -12592,8 +12592,8 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-000_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-000_home_cmmn-02.wav",
-    "ja": "もっと高く\n少しだけ\n私でもって思えるんです",
-    "zh": "更高一点\n哪怕只有一点点\n也能让我觉得“我可以”",
+    "ja": "もっと高く……少しだけ……私でもって思えるんです",
+    "zh": "飞向更高的地方……再高一点……\n我开始觉得，或许我也可以做到。",
     "wav_source": "reused",
     "duration": 5.828833333333334,
     "sample_rate": 48000,
@@ -12604,7 +12604,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:04:28.200Z"
+    "reviewed_at": "2026-11-08T18:19:10.570Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-000_home_cmmn-03",
