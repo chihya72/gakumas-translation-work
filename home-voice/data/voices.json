@@ -28239,7 +28239,7 @@
     "acb": "audio\\acb\\sud_vo_system_ssmk_home_transition-04.acb",
     "wav": "audio\\wav\\sud_vo_system_ssmk_home_transition-04.wav",
     "ja": "午後の授業つまんないし、今から遊びに行っちゃわない？",
-    "zh": "下午的课好无聊，不如现在就溜出去玩吧？",
+    "zh": "下午的课好无聊，\n不如现在就溜出去玩吧？",
     "wav_source": "reused",
     "duration": 3.925625,
     "sample_rate": 48000,
@@ -28248,7 +28248,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-08T15:06:43.188Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-05",

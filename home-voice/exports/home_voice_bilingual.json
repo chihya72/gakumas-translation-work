@@ -8817,7 +8817,7 @@
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-04",
     "speaker": "清夏",
     "ja": "午後の授業つまんないし、今から遊びに行っちゃわない？",
-    "zh": "下午的课好无聊，不如现在就溜出去玩吧？"
+    "zh": "下午的课好无聊，\n不如现在就溜出去玩吧？"
   },
   {
     "voiceAssetId": "sud_vo_system_ssmk_home_transition-05",
