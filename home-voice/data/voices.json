@@ -12776,7 +12776,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-004_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-004_home_cmmn-02.wav",
     "ja": "かぼちゃを使ったお菓子、何を作るか迷っちゃいます。",
-    "zh": "用南瓜做的点心，我正在犹豫要做哪一种。",
+    "zh": "准备做南瓜点心，\n但我都不知道该做哪种好了。",
     "wav_source": "reused",
     "duration": 4.3525625,
     "sample_rate": 48000,
@@ -12785,9 +12785,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:37:09.386Z"
+    "reviewed_at": "2026-11-09T09:31:14.359Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-004_home_cmmn-03",
