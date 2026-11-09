@@ -13197,7 +13197,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-011_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-011_home_cmmn-02.wav",
     "ja": "アニメグッズに囲まれてお仕事できるなんて、楽しみです！",
-    "zh": "居然能在动漫周边的包围下工作，真让人期待！",
+    "zh": "居然能在动漫周边的围绕下工作，\n真让人期待！",
     "wav_source": "reused",
     "duration": 4.828166666666666,
     "sample_rate": 48000,
@@ -13208,7 +13208,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:49:44.250Z"
+    "reviewed_at": "2026-11-09T14:43:08.165Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-011_home_cmmn-03",
