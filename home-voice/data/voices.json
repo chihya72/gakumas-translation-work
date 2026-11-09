@@ -13157,7 +13157,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-010_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-010_home_cmmn-03.wav",
     "ja": "一緒に写真撮りませんか？両親に送りたいんです。",
-    "zh": "要不要一起拍张照？我想发给父母。",
+    "zh": "要不要一起拍张照？\n我想发给父母。",
     "wav_source": "reused",
     "duration": 4.715125,
     "sample_rate": 48000,
@@ -13166,9 +13166,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:48:35.329Z"
+    "reviewed_at": "2026-11-09T14:30:43.515Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-011_home_cmmn-01",
