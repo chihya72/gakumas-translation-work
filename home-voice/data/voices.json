@@ -13217,7 +13217,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-011_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-011_home_cmmn-03.wav",
     "ja": "お仕事終わったら買いに行ってもいいですか？",
-    "zh": "工作结束后我可以去买吗？",
+    "zh": "工作结束之后，我可以去买吗？！",
     "wav_source": "reused",
     "duration": 3.791166666666667,
     "sample_rate": 48000,
@@ -13226,9 +13226,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:50:18.761Z"
+    "reviewed_at": "2026-11-09T14:46:05.478Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-012_home_cmmn-01",
