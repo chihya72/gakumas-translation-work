@@ -12673,8 +12673,8 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-001_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-001_home_cmmn-03.wav",
-    "ja": "先輩とお祭り\n行ってみたいな",
-    "zh": "好想和前辈\n一起去祭典转转啊",
+    "ja": "先輩とお祭り……行ってみたいな……",
+    "zh": "好想和前辈一起……\n去祭典逛一逛啊……",
     "wav_source": "reused",
     "duration": 4.809583333333333,
     "sample_rate": 48000,
@@ -12685,7 +12685,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:34:54.401Z"
+    "reviewed_at": "2026-11-09T09:22:55.541Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-002_home_cmmn-01",
