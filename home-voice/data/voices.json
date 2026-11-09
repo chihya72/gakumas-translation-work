@@ -12977,7 +12977,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-007_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-007_home_cmmn-03.wav",
     "ja": "作るのは楽しいけど、書庫を渡すのは緊張しそうです。",
-    "zh": "创作虽然很开心，但要把曲子交出去还是有点紧张。",
+    "zh": "做巧克力虽然很开心，可是要把它\n送出去的话，想想就好紧张。",
     "wav_source": "reused",
     "duration": 4.977166666666666,
     "sample_rate": 48000,
@@ -12986,9 +12986,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:43:41.719Z"
+    "reviewed_at": "2026-11-09T09:40:11.947Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-008_home_cmmn-01",
