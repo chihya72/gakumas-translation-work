@@ -13177,7 +13177,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-011_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-011_home_cmmn-01.wav",
     "ja": "お店を盛り上げられるように、精一杯頑張ります！",
-    "zh": "为了让店铺热闹起来，我会全力以赴的！",
+    "zh": "为了让店铺热闹起来，\n我会全力以赴的！",
     "wav_source": "reused",
     "duration": 3.812666666666667,
     "sample_rate": 48000,
@@ -13187,7 +13187,7 @@
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:49:17.248Z",
+    "reviewed_at": "2026-11-09T14:41:30.606Z",
     "zh_origin": "manual_viewer"
   },
   {
