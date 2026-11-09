@@ -12736,7 +12736,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-002_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-002_home_cmmn-03.wav",
     "ja": "アニメで見たんです。夏はイベントがたくさんあるって。",
-    "zh": "我在动画里看到过，说夏天会有很多的活动。",
+    "zh": "我在动画里看到过哦，\n说是夏天会有好多活动。",
     "wav_source": "reused",
     "duration": 4.238958333333334,
     "sample_rate": 48000,
@@ -12747,7 +12747,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:36:19.079Z"
+    "reviewed_at": "2026-11-09T09:27:13.400Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-004_home_cmmn-01",
