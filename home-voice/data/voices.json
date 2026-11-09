@@ -13057,7 +13057,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-009_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-009_home_cmmn-01.wav",
     "ja": "新しい季節が近づくと、なんだか胸が弾みます。",
-    "zh": "新的季节临近时，总觉得心里雀跃不已。",
+    "zh": "每当新的季节临近时，\n总觉得心里雀跃不已。",
     "wav_source": "reused",
     "duration": 4.3295625,
     "sample_rate": 48000,
@@ -13066,9 +13066,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:45:42.849Z"
+    "reviewed_at": "2026-11-09T14:25:34.930Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-009_home_cmmn-02",
