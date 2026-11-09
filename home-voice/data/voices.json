@@ -13357,7 +13357,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-014_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-014_home_cmmn-01.wav",
     "ja": "誰よりもかむしゃらに精一杯頑張ります！",
-    "zh": "我会比任何人都更一往无前的加油的！",
+    "zh": "我会比任何人都不顾一切、\n全力以赴的！",
     "wav_source": "reused",
     "duration": 3.519375,
     "sample_rate": 48000,
@@ -13368,7 +13368,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:53:42.332Z"
+    "reviewed_at": "2026-11-09T15:51:20.644Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-014_home_cmmn-02",
