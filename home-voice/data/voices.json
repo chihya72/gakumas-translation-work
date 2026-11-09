@@ -13077,7 +13077,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-009_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-009_home_cmmn-02.wav",
     "ja": "雪解けは嬉しいですよね",
-    "zh": "雪后的景色真让人开心呢。",
+    "zh": "积雪消融的景色真让人开心呢！",
     "wav_source": "reused",
     "duration": 2.907625,
     "sample_rate": 48000,
@@ -13088,7 +13088,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:46:40.996Z"
+    "reviewed_at": "2026-11-09T14:26:29.037Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-009_home_cmmn-03",
