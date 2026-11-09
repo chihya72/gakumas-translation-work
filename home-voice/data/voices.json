@@ -12897,7 +12897,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-006_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-006_home_cmmn-02.wav",
     "ja": "信じます。先輩を、先輩の言葉を。",
-    "zh": "我相信。相信前辈，相信前辈的话。",
+    "zh": "我相信。相信前辈，\n也相信前辈说的每一句话。",
     "wav_source": "reused",
     "duration": 4.838,
     "sample_rate": 48000,
@@ -12906,9 +12906,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:41:52.169Z"
+    "reviewed_at": "2026-11-09T09:36:07.362Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-006_home_cmmn-03",
