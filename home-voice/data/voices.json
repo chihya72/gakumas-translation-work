@@ -13317,7 +13317,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-013_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-013_home_cmmn-02.wav",
     "ja": "今、この瞬間も大切な宝物です。",
-    "zh": "现在，这一瞬间也是珍贵的宝物。",
+    "zh": "就连现在这个瞬间，\n也是无比珍贵的宝物。",
     "wav_source": "reused",
     "duration": 4.033166666666666,
     "sample_rate": 48000,
@@ -13326,9 +13326,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:52:25.424Z"
+    "reviewed_at": "2026-11-09T15:47:56.727Z",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-013_home_cmmn-03",
