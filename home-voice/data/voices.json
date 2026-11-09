@@ -12634,7 +12634,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-001_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-001_home_cmmn-01.wav",
     "ja": "日本の夏の楽しみ方教えてください、先輩！",
-    "zh": "前辈，请教教我怎么享受日本的夏天吧！",
+    "zh": "前辈，请教教我怎么享受\n日本的夏天吧！",
     "wav_source": "reused",
     "duration": 5.1118958333333335,
     "sample_rate": 48000,
@@ -12645,7 +12645,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:29:26.980Z"
+    "reviewed_at": "2026-11-09T09:20:18.016Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-001_home_cmmn-02",
