@@ -12714,8 +12714,8 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-002_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-002_home_cmmn-02.wav",
-    "ja": "水着で泳ぐの楽しみです！",
-    "zh": "我很期待穿着泳衣去游泳！",
+    "ja": "水着で泳ぐの……楽しみです！",
+    "zh": "穿上泳衣去游泳……\n想想就好期待！",
     "wav_source": "reused",
     "duration": 2.88225,
     "sample_rate": 48000,
@@ -12726,7 +12726,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:35:45.905Z"
+    "reviewed_at": "2026-11-09T09:24:55.496Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-002_home_cmmn-03",
