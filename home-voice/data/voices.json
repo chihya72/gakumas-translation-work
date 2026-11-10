@@ -13539,7 +13539,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-017_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-017_home_cmmn-01.wav",
     "ja": "アイドルとして、すみかちゃんとステージに立てるなんて！",
-    "zh": "竟然能作为偶像和小清夏一起站上舞台！",
+    "zh": "竟然能作为偶像和小清夏\n一起站上舞台……！",
     "wav_source": "reused",
     "duration": 4.5440625,
     "sample_rate": 48000,
@@ -13550,7 +13550,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:59:20.377Z"
+    "reviewed_at": "2026-11-10T06:31:36.100Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-017_home_cmmn-02",
