@@ -13599,7 +13599,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-018_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-018_home_cmmn-01.wav",
     "ja": "言い続けます。先輩と一緒にアイドルになりますって。",
-    "zh": "我会一直说下去：我要和前辈一起成为偶像。",
+    "zh": "我会一直说下去——\n我要和前辈一起，成为偶像。",
     "wav_source": "reused",
     "duration": 4.884083333333334,
     "sample_rate": 48000,
@@ -13608,7 +13608,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-10T12:47:01.181Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-018_home_cmmn-02",
