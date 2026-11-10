@@ -13477,8 +13477,8 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-016_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-016_home_cmmn-01.wav",
-    "ja": "葛城莉莉娅\n今日だけはルール無用で行きます！",
-    "zh": "葛城莉莉娅\n只有今天，我会无视规则全力以赴！",
+    "ja": "葛城リーリヤ、今日だけはルール無用で行きます！",
+    "zh": "葛城莉莉娅，今天会抛开所有\n规则，随心而行！",
     "wav_source": "reused",
     "duration": 4.2775,
     "sample_rate": 48000,
@@ -13490,7 +13490,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:57:34.861Z"
+    "reviewed_at": "2026-11-10T06:23:14.792Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-016_home_cmmn-02",
