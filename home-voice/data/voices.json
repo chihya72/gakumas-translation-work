@@ -13639,7 +13639,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-018_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-018_home_cmmn-03.wav",
     "ja": "楽しんで歌ってみます。アイドルに憧れたあの頃みたいに。",
-    "zh": "我会开心地唱，就像当初憧憬偶像时那样。",
+    "zh": "我会开心地去歌唱，\n就像当初憧憬偶像时那样。",
     "wav_source": "reused",
     "duration": 4.9827916666666665,
     "sample_rate": 48000,
@@ -13648,7 +13648,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-10T13:03:54.255Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-020_home_cmmn-01",
