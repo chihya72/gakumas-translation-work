@@ -13398,7 +13398,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-014_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-014_home_cmmn-03.wav",
     "ja": "当っていると私まで元気をもらえる気がします！",
-    "zh": "被灯光照着的时候，感觉我也能获得活力。",
+    "zh": "只要能触动到大家，\n我自己也会变得充满干劲！",
     "wav_source": "reused",
     "duration": 3.797416666666667,
     "sample_rate": 48000,
@@ -13409,7 +13409,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:54:57.278Z"
+    "reviewed_at": "2026-11-10T06:11:34.011Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_home_cmmn-01",
