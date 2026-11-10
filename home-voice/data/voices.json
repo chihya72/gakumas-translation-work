@@ -13719,7 +13719,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-021_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-021_home_cmmn-01.wav",
     "ja": "キラキラした夏の海、先輩と見に行きたいです！",
-    "zh": "我想和前辈一起去看闪闪发光的夏日大海！",
+    "zh": "闪闪发光的夏日大海……\n我想和前辈一起去看！",
     "wav_source": "reused",
     "duration": 4.667520833333334,
     "sample_rate": 48000,
@@ -13728,7 +13728,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-10T13:10:49.669Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-021_home_cmmn-02",
