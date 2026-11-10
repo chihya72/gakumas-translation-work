@@ -13679,7 +13679,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-020_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-020_home_cmmn-02.wav",
     "ja": "前向きでキラキラしてて勇気をもらえる曲ですよね？",
-    "zh": "这是一首积极向上、闪闪发亮、能给人勇气的曲子吧？",
+    "zh": "这是一首积极向上、闪闪发亮、\n能给人勇气的曲子对吧？",
     "wav_source": "reused",
     "duration": 5.77275,
     "sample_rate": 48000,
@@ -13688,7 +13688,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-10T13:09:06.878Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-020_home_cmmn-03",

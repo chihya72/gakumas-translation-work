@@ -4305,7 +4305,7 @@
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-020_home_cmmn-02",
     "speaker": "リーリヤ",
     "ja": "前向きでキラキラしてて勇気をもらえる曲ですよね？",
-    "zh": "这是一首积极向上、闪闪发亮、能给人勇气的曲子吧？"
+    "zh": "这是一首积极向上、闪闪发亮、\n能给人勇气的曲子对吧？"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-020_home_cmmn-03",
