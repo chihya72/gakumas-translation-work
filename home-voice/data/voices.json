@@ -25431,7 +25431,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_cmmn-02.wav",
     "ja": "先輩は、お菓子好きですか？",
-    "zh": "前辈喜欢点心吗？",
+    "zh": "前辈……喜欢点心吗？",
     "wav_source": "reused",
     "duration": 4.182541666666666,
     "sample_rate": 48000,
@@ -25440,7 +25440,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-10T14:51:06.054Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_cmmn-03",
