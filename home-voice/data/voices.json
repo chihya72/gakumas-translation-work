@@ -13799,8 +13799,8 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-022_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-022_home_cmmn-02.wav",
-    "ja": "自分の可能性。先輩が言うなら信じてみます。",
-    "zh": "自己的可能性。既然前辈这么说，我就试着相信。",
+    "ja": "自分の可能性……先輩が言うなら信じてみます。",
+    "zh": "自己的可能性……既然前辈\n这么说，那我愿意试着去相信。",
     "wav_source": "reused",
     "duration": 5.009229166666667,
     "sample_rate": 48000,
@@ -13809,7 +13809,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-10T14:02:14.104Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-022_home_cmmn-03",
