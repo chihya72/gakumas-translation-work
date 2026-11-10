@@ -13759,7 +13759,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-021_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-021_home_cmmn-03.wav",
     "ja": "大事な気持ちって、なかなか言葉にできないですよね。",
-    "zh": "重要的心情，总是很难用语言表达出来呢。",
+    "zh": "重要的心意，总是很难\n用语言表达出来呢。",
     "wav_source": "reused",
     "duration": 4.7015416666666665,
     "sample_rate": 48000,
@@ -13768,7 +13768,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-10T13:42:58.982Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-022_home_cmmn-01",
