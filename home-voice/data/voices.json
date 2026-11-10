@@ -13458,7 +13458,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-015_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-015_home_cmmn-03.wav",
     "ja": "私のことたくさん褒めてくれますか？",
-    "zh": "您会多夸夸我吗？",
+    "zh": "可以多夸夸我吗？",
     "wav_source": "reused",
     "duration": 3.8969375,
     "sample_rate": 48000,
@@ -13469,7 +13469,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:56:47.063Z"
+    "reviewed_at": "2026-11-10T06:21:02.819Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-016_home_cmmn-01",
