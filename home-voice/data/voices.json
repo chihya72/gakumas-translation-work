@@ -13376,8 +13376,8 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_cidol-kllj-3-014_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-kllj-3-014_home_cmmn-02.wav",
-    "ja": "私の音でみんなの背中を押せたらいいな",
-    "zh": "如果我的歌声能给大家带来力量就好了。",
+    "ja": "私の歌でみんなの背中を押せたらいいな……",
+    "zh": "如果我的歌声能给大家带来力量\n就好了……",
     "wav_source": "reused",
     "duration": 3.7538958333333334,
     "sample_rate": 48000,
@@ -13388,7 +13388,8 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-10T03:54:16.870Z"
+    "reviewed_at": "2026-11-10T06:10:50.809Z",
+    "ja_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-kllj-3-014_home_cmmn-03",
