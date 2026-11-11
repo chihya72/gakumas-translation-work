@@ -25634,7 +25634,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_cmmn-12.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_cmmn-12.wav",
     "ja": "自分でも成長したって思えるように頑張ります！",
-    "zh": "我会努力，让自己也能感受到成长！",
+    "zh": "我会好好努力，直到能切实感受到\n自己有所成长！",
     "wav_source": "reused",
     "duration": 4.704479166666666,
     "sample_rate": 48000,
@@ -25643,7 +25643,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-11T16:51:18.929Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_cmmn-13",
