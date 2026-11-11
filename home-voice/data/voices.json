@@ -25491,7 +25491,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_cmmn-05.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_cmmn-05.wav",
     "ja": "寝起きのすみかちゃん、とっても面白いんです。",
-    "zh": "刚起床的小澄香真的很有趣。",
+    "zh": "刚睡醒的小清夏，特别有意思呢。",
     "wav_source": "reused",
     "duration": 3.754125,
     "sample_rate": 48000,
@@ -25500,7 +25500,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-11T16:32:02.927Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_cmmn-06",
