@@ -25550,7 +25550,7 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_kllj_home_cmmn-08.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_cmmn-08.wav",
-    "ja": "まお先輩は素敵で、とても頼りになるんです。",
+    "ja": "麻央先輩は素敵で、とても頼りになるんです。",
     "zh": "麻央前辈很出色，也非常可靠。",
     "wav_source": "reused",
     "duration": 4.9914375,
@@ -25560,7 +25560,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-11T16:34:47.387Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_cmmn-09",
