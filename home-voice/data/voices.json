@@ -25580,8 +25580,8 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_kllj_home_cmmn-10.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_cmmn-10.wav",
-    "ja": "腹式呼吸難しいです。まだお腹痛くなっちゃいます。",
-    "zh": "腹式呼吸好难。我还是会练到肚子疼。",
+    "ja": "腹式呼吸……難しいです。まだお腹痛くなっちゃいます……",
+    "zh": "腹式呼吸……好难。\n练了那么久，肚子还是会疼……",
     "wav_source": "reused",
     "duration": 5.987625,
     "sample_rate": 48000,
@@ -25590,7 +25590,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-11T16:29:50.320Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_cmmn-11",
