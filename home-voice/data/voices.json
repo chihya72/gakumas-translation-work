@@ -25531,7 +25531,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_cmmn-07.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_cmmn-07.wav",
     "ja": "授業で当てられると、緊張して噛んじゃうんです。",
-    "zh": "上课被点到时，我会紧张得说错话。",
+    "zh": "上课被点名提问的时候，\n我会紧张得口齿打结。",
     "wav_source": "reused",
     "duration": 4.4186875,
     "sample_rate": 48000,
@@ -25540,7 +25540,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-11T16:33:46.649Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_cmmn-08",
