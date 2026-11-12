@@ -25831,8 +25831,8 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_kllj_home_cmmn-22.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_cmmn-22.wav",
-    "ja": "みんなに届けます",
-    "zh": "我会传递给大家。",
+    "ja": "みんなに……届けます。",
+    "zh": "我会……传递给大家。",
     "wav_source": "reused",
     "duration": 2.2414791666666667,
     "sample_rate": 48000,
@@ -25841,7 +25841,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-12T16:03:35.921Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_cmmn-23",
