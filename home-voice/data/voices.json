@@ -25694,7 +25694,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_cmmn-15.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_cmmn-15.wav",
     "ja": "また、一緒に息抜き行きたいです。",
-    "zh": "我还想和您一起去透透气。",
+    "zh": "我还想，再和您一起去放松一下。",
     "wav_source": "reused",
     "duration": 4.6575,
     "sample_rate": 48000,
@@ -25703,7 +25703,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-12T14:49:28.201Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_cmmn-16",
