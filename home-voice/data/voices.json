@@ -25794,7 +25794,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_cmmn-20.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_cmmn-20.wav",
     "ja": "日本での生活は刺激的で、とても楽しいです！",
-    "zh": "在日本的生活充满刺激，也非常开心！",
+    "zh": "在日本的生活充满刺激，\n也非常开心！",
     "wav_source": "reused",
     "duration": 4.9184375,
     "sample_rate": 48000,
@@ -25803,7 +25803,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-12T16:58:24.678Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_cmmn-21",
