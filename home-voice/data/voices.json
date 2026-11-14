@@ -26277,8 +26277,8 @@
     "speaker": "リーリヤ",
     "acb": "audio\\acb\\sud_vo_system_kllj_home_transition-12.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_transition-12.wav",
-    "ja": "お料理、釣り、プレゼント。\nクリスマスは大忙しです！",
-    "zh": "做饭、钓鱼、礼物。\n圣诞节忙得不可开交！",
+    "ja": "お料理、ツリー、プレゼント……\nクリスマスは大忙しです！",
+    "zh": "美食、圣诞树、礼物……\n圣诞节可有的忙了！",
     "wav_source": "reused",
     "duration": 5.8371875,
     "sample_rate": 48000,
@@ -26287,7 +26287,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T18:05:30.812Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_transition-13",
