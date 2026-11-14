@@ -26419,7 +26419,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_transition-19.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_transition-19.wav",
     "ja": "お祭りの屋台、花火大会。楽しみがたくさんです！",
-    "zh": "祭典的摊位、烟花大会，期待的事情好多！",
+    "zh": "祭典的小摊贩、烟花大会……\n值得期待的事情好多！",
     "wav_source": "reused",
     "duration": 5.9610625,
     "sample_rate": 48000,
@@ -26428,7 +26428,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T18:16:56.417Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_transition-20",
