@@ -16628,7 +16628,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-002_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-002_home_cmmn-03.wav",
     "ja": "私に似合う仮装って…なんだろう？",
-    "zh": "适合我的变装……是什么呢？",
+    "zh": "适合我的变装……是什么呢……",
     "wav_source": "reused",
     "duration": 4.335145833333334,
     "sample_rate": 48000,
@@ -16637,7 +16637,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T18:44:02.070Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-003_home_cmmn-01",
