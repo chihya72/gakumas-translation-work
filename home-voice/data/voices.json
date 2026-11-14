@@ -26539,7 +26539,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_transition-25.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_transition-25.wav",
     "ja": "こたつ、本当に出られなくなるんですね。",
-    "zh": "被炉，真的一进去就出不来了呢。",
+    "zh": "被炉一钻进去，\n真的就不想出来了呢……",
     "wav_source": "reused",
     "duration": 4.820270833333334,
     "sample_rate": 48000,
@@ -26548,7 +26548,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T18:33:34.707Z"
   },
   {
     "voiceAssetId": "sud_vo_system_shro_home_birthday-01",
