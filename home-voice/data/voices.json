@@ -16808,7 +16808,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-006_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-006_home_cmmn-03.wav",
     "ja": "クリスマスケーキくらいは許されるはず。特別な日だし。",
-    "zh": "圣诞蛋糕这种程度应该能被允许吧。\n毕竟是个特别的日子。",
+    "zh": "圣诞蛋糕这一点点应该没问题吧。\n毕竟是特别的日子。",
     "wav_source": "reused",
     "duration": 4.925104166666666,
     "sample_rate": 48000,
@@ -16817,7 +16817,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T18:55:00.702Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-007_home_cmmn-01",
