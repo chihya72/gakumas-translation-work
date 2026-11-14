@@ -16566,8 +16566,8 @@
     "speaker": "手毬",
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-001_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-001_home_cmmn-03.wav",
-    "ja": "私らしくカッコよく歌ってみせる",
-    "zh": "我会用我的方式帅气地唱给你看。",
+    "ja": "私らしく、カッコよく、歌ってみせる。",
+    "zh": "我会以我的风格，\n帅气地唱给你看。",
     "wav_source": "reused",
     "duration": 3.3723541666666668,
     "sample_rate": 48000,
@@ -16576,7 +16576,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T18:41:17.767Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-002_home_cmmn-01",
