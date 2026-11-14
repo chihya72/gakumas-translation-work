@@ -26117,7 +26117,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_transition-04.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_transition-04.wav",
     "ja": "今のうちに午前の復習しておこうかな。",
-    "zh": "趁现在把上午的内容复习一下吧。",
+    "zh": "要不趁现在把上午的内容\n复习一下吧……",
     "wav_source": "reused",
     "duration": 4.770125,
     "sample_rate": 48000,
@@ -26126,7 +26126,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T17:58:00.663Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_transition-05",
