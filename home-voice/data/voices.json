@@ -16728,7 +16728,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-004_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-004_home_cmmn-02.wav",
     "ja": "この夏で、周りと差をつけてみせます！",
-    "zh": "这个夏天，我要和周围拉开差距给你看！",
+    "zh": "这个夏天，我要和其他人\n拉开差距给你看！",
     "wav_source": "reused",
     "duration": 3.2237916666666666,
     "sample_rate": 48000,
@@ -16737,7 +16737,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T18:50:15.199Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-004_home_cmmn-03",
