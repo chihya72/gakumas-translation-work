@@ -25875,7 +25875,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_cmmn-24.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_cmmn-24.wav",
     "ja": "私、成長できてますか？",
-    "zh": "我，有在成长吗？",
+    "zh": "我……有在成长吗？",
     "wav_source": "reused",
     "duration": 4.5024375,
     "sample_rate": 48000,
@@ -25884,7 +25884,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T15:59:56.221Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_cmmn-25",
