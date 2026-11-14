@@ -25916,7 +25916,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_cmmn-26.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_cmmn-26.wav",
     "ja": "私の先輩はすごいって、やっと証明できました！",
-    "zh": "终于证明了，我的前辈很厉害！",
+    "zh": "我终于证明了，\n我的前辈很厉害！",
     "wav_source": "reused",
     "duration": 4.9465,
     "sample_rate": 48000,
@@ -25925,7 +25925,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T17:29:12.294Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_cmmn-27",
