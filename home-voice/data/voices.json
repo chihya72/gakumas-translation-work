@@ -16828,7 +16828,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-007_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-007_home_cmmn-01.wav",
     "ja": "証明してやりたいんです。\n立派に独り立ちしたぞって。",
-    "zh": "我想证明给他们看。\n我能好好独立了。",
+    "zh": "我想证明给她们看。\n我已经可以出色地独当一面了。",
     "wav_source": "reused",
     "duration": 4.994270833333333,
     "sample_rate": 48000,
@@ -16837,7 +16837,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T18:59:52.423Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-007_home_cmmn-02",
