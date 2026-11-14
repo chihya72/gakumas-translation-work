@@ -16668,7 +16668,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-003_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-003_home_cmmn-02.wav",
     "ja": "べ、別に水着のためにダイエットしてるわけじゃ。",
-    "zh": "才、才不是为了泳装才减肥的呢。",
+    "zh": "才、才不是为了穿泳装\n才在减肥的……",
     "wav_source": "reused",
     "duration": 3.476770833333333,
     "sample_rate": 48000,
@@ -16677,7 +16677,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T18:45:30.023Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-003_home_cmmn-03",
