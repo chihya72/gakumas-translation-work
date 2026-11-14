@@ -26379,7 +26379,7 @@
     "acb": "audio\\acb\\sud_vo_system_kllj_home_transition-17.acb",
     "wav": "audio\\wav\\sud_vo_system_kllj_home_transition-17.wav",
     "ja": "日本の夏は暑すぎます。",
-    "zh": "日本的夏天太热了。",
+    "zh": "日本的夏天……太热了。",
     "wav_source": "reused",
     "duration": 3.155,
     "sample_rate": 48000,
@@ -26388,7 +26388,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-14T18:09:52.684Z"
   },
   {
     "voiceAssetId": "sud_vo_system_kllj_home_transition-18",
