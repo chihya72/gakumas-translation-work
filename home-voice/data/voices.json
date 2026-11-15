@@ -17212,7 +17212,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-013_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-013_home_cmmn-02.wav",
     "ja": "私の歌声で\n全員ねじ伏せてきます！",
-    "zh": "我要用我的歌声\n把所有人都压服！",
+    "zh": "我要用我的歌声，折服所有人！",
     "wav_source": "reused",
     "duration": 4.413895833333333,
     "sample_rate": 48000,
@@ -17221,7 +17221,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T17:58:51.422Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-013_home_cmmn-03",
