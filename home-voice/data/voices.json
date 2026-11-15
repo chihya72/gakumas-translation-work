@@ -16949,7 +16949,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-009_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-009_home_cmmn-01.wav",
     "ja": "やっと、外でトレーニングしやすい季節になりますね。",
-    "zh": "终于到了适合在户外训练的季节了呢。",
+    "zh": "终于，到了适合在户外训练\n的季节了啊。",
     "wav_source": "reused",
     "duration": 5.7200625,
     "sample_rate": 48000,
@@ -16958,7 +16958,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T14:21:40.800Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-009_home_cmmn-02",
