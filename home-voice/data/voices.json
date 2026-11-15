@@ -17028,8 +17028,8 @@
     "speaker": "手毬",
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-010_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-010_home_cmmn-02.wav",
-    "ja": "お花見は静かな場所がいいです。\n屋台があると誘惑が。",
-    "zh": "赏花还是安静的地方好。\n有摊贩的话就会有诱惑。",
+    "ja": "お花見は静かな場所がいいです。\n屋台があると誘惑が……",
+    "zh": "赏樱要选安静的地方才好。\n要是有小摊的话那些诱惑实在……",
     "wav_source": "reused",
     "duration": 5.385458333333333,
     "sample_rate": 48000,
@@ -17038,9 +17038,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
     "reviewed": true,
-    "reviewed_at": "2026-11-15T17:31:32.402Z"
+    "reviewed_at": "2026-11-15T17:34:00.129Z",
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-010_home_cmmn-03",
