@@ -17050,7 +17050,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-010_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-010_home_cmmn-03.wav",
     "ja": "桜餅。\nつぶあんとこしあんどっち派ですか？",
-    "zh": "樱花饼。\n带颗粒的红豆沙和细红豆沙，你喜欢哪种？",
+    "zh": "樱饼的豆沙馅，\n你喜欢有颗粒感的还是细的？",
     "wav_source": "reused",
     "duration": 4.3933333333333335,
     "sample_rate": 48000,
@@ -17059,7 +17059,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T17:38:37.183Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-011_home_cmmn-01",
