@@ -17413,7 +17413,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-016_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-016_home_cmmn-03.wav",
     "ja": "あなたのことも連れて行きます。\n一番高いところまで。",
-    "zh": "我也会带上你。\n直到最高的地方。",
+    "zh": "我也会带上你，\n一同去往最高的地方。",
     "wav_source": "reused",
     "duration": 5.0679791666666665,
     "sample_rate": 48000,
@@ -17422,7 +17422,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T18:50:58.541Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-017_home_cmmn-01",
