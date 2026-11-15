@@ -17353,7 +17353,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-015_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-015_home_cmmn-03.wav",
     "ja": "プロデューサーの機嫌なんてすぐに直してあげますから",
-    "zh": "制作人的心情，我马上就能帮你变好。",
+    "zh": "制作人的心情，\n我很快就能帮你调整好。",
     "wav_source": "reused",
     "duration": 4.503958333333333,
     "sample_rate": 48000,
@@ -17362,7 +17362,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T18:48:46.822Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-016_home_cmmn-01",
