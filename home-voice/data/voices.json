@@ -17192,7 +17192,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-013_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-013_home_cmmn-01.wav",
     "ja": "歌ってきます。私の中にある渇望を。",
-    "zh": "我去唱了。把我心中的渴望唱出来。",
+    "zh": "我要去唱了。\n唱出我心底的那份渴望。",
     "wav_source": "reused",
     "duration": 4.082895833333334,
     "sample_rate": 48000,
@@ -17201,7 +17201,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T17:57:52.280Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-013_home_cmmn-02",
