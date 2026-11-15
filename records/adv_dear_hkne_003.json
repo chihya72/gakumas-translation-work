@@ -18,14 +18,14 @@
     "timestamp": "2026-11-15T07:55:59Z"
   },
   "proofread": {
-    "revision": 2,
+    "revision": 3,
     "draft_revision": 0,
     "state": "完成",
     "operator_qq": "948279048",
     "operator_github": "1Lianjinshushi",
     "display_id": "煉金術式",
     "display_source": "github",
-    "timestamp": "2026-11-15T15:12:47Z"
+    "timestamp": "2026-11-15T15:13:33Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -42,10 +42,10 @@
       "operator_github": "1Lianjinshushi",
       "display_id": "煉金術式",
       "display_source": "github",
-      "timestamp": "2026-11-15T15:12:47Z"
+      "timestamp": "2026-11-15T15:13:33Z"
     }
   },
   "github": {
-    "updated_at": "2026-11-15T15:12:47Z"
+    "updated_at": "2026-11-15T15:13:33Z"
   }
 }
