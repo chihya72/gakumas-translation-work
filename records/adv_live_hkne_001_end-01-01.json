@@ -15,11 +15,17 @@
     "operator_github": "chihya72",
     "display_id": "pm",
     "display_source": "github",
-    "timestamp": "2026-11-15T16:17:26Z"
+    "timestamp": "2026-11-15T19:16:58Z"
   },
   "proofread": {
-    "revision": 0,
-    "draft_revision": 0
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "1072536235",
+    "operator_github": "chihya72",
+    "display_id": "pm",
+    "display_source": "github",
+    "timestamp": "2026-11-15T19:16:58Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -28,11 +34,18 @@
       "operator_github": "chihya72",
       "display_id": "pm",
       "display_source": "github",
-      "timestamp": "2026-11-15T16:17:26Z"
+      "timestamp": "2026-11-15T19:16:58Z"
+    },
+    "proofread_csv": {
+      "path": "proofread_csv/adv/live/hkne/001/end-01-01.csv",
+      "operator_qq": "1072536235",
+      "operator_github": "chihya72",
+      "display_id": "pm",
+      "display_source": "github",
+      "timestamp": "2026-11-15T19:16:58Z"
     }
   },
-  "direct_machine_proofread": true,
   "github": {
-    "updated_at": "2026-11-15T16:17:26Z"
+    "updated_at": "2026-11-15T19:16:58Z"
   }
 }
