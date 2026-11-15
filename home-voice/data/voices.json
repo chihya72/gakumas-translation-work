@@ -17130,8 +17130,8 @@
     "speaker": "手毬",
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-012_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-012_home_cmmn-01.wav",
-    "ja": "私が一日定員\n責任だと思います",
-    "zh": "我当一日店员\n我觉得这是责任。",
+    "ja": "私が一日店員？適任だと思います。",
+    "zh": "让我当一天店员？\n我认为我很合适。",
     "wav_source": "reused",
     "duration": 4.6256458333333335,
     "sample_rate": 48000,
@@ -17140,7 +17140,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T17:51:50.166Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-012_home_cmmn-02",
