@@ -17292,7 +17292,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-014_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-014_home_cmmn-03.wav",
     "ja": "歌ってると明るい気持ちになれる楽しい曲ですよね",
-    "zh": "这是一首唱起来就能变得开朗愉快的歌，对吧。",
+    "zh": "唱起来就能心情明快，\n是首让人开心的曲子对吧。",
     "wav_source": "reused",
     "duration": 4.640895833333333,
     "sample_rate": 48000,
@@ -17301,7 +17301,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T18:05:51.578Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-015_home_cmmn-01",
