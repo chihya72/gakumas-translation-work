@@ -16927,8 +16927,8 @@
     "speaker": "手毬",
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-008_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-008_home_cmmn-03.wav",
-    "ja": "ちょこの作り方教えてもらおうかな",
-    "zh": "要不请人教我巧克力的做法吧。",
+    "ja": "ちょこの作り方……教えてもらおうかな。",
+    "zh": "巧克力的做法……\n能不能教教我……",
     "wav_source": "reused",
     "duration": 4.4890625,
     "sample_rate": 48000,
@@ -16937,7 +16937,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T14:18:00.287Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-009_home_cmmn-01",
