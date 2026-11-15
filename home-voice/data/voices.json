@@ -17009,7 +17009,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-010_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-010_home_cmmn-01.wav",
     "ja": "桜を見に行くなら、付き合ってあげてもいいですよ。",
-    "zh": "如果要去看樱花，我也不是不能陪你去。",
+    "zh": "你要是想去看樱花的话，\n我陪你去也可以哦。",
     "wav_source": "reused",
     "duration": 4.0723125,
     "sample_rate": 48000,
@@ -17018,7 +17018,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T17:24:56.893Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-010_home_cmmn-02",
