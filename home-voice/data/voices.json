@@ -17312,7 +17312,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-015_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-015_home_cmmn-01.wav",
     "ja": "担当アイドルの話はしっかり聞くべきだと思いますよ。",
-    "zh": "我觉得你应该好好听自己负责偶像的话。",
+    "zh": "我觉得你应该好好听\n自己负责偶像的话。",
     "wav_source": "reused",
     "duration": 4.5845,
     "sample_rate": 48000,
@@ -17321,7 +17321,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T18:06:44.417Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-015_home_cmmn-02",
