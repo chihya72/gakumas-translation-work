@@ -16969,7 +16969,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-009_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-009_home_cmmn-02.wav",
     "ja": "春限定スイーツとか、なんでこんなに誘惑が多いの？",
-    "zh": "春季限定甜点什么的，为什么诱惑这么多啊？",
+    "zh": "春季限定甜点什么的……\n为什么诱惑这么多啊？",
     "wav_source": "reused",
     "duration": 4.824145833333334,
     "sample_rate": 48000,
@@ -16978,7 +16978,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T14:23:29.233Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-009_home_cmmn-03",
