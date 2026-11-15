@@ -17433,7 +17433,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-017_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-017_home_cmmn-01.wav",
     "ja": "全員、私の歌の虜にしてみせますよ。",
-    "zh": "我会让所有人都成为我的歌声的俘虏。",
+    "zh": "我会让所有人都成为\n我的歌声的俘虏。",
     "wav_source": "reused",
     "duration": 3.9945625,
     "sample_rate": 48000,
@@ -17442,7 +17442,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T19:03:16.388Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-017_home_cmmn-02",
