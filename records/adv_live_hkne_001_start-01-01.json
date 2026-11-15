@@ -8,14 +8,14 @@
     "proofread": false
   },
   "translation": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
     "operator_qq": "1072536235",
     "operator_github": "chihya72",
     "display_id": "pm",
     "display_source": "github",
-    "timestamp": "2026-11-15T16:17:35Z"
+    "timestamp": "2026-11-15T16:18:04Z"
   },
   "proofread": {
     "revision": 0,
@@ -28,11 +28,11 @@
       "operator_github": "chihya72",
       "display_id": "pm",
       "display_source": "github",
-      "timestamp": "2026-11-15T16:17:35Z"
+      "timestamp": "2026-11-15T16:18:04Z"
     }
   },
   "direct_machine_proofread": true,
   "github": {
-    "updated_at": "2026-11-15T16:17:35Z"
+    "updated_at": "2026-11-15T16:18:04Z"
   }
 }
