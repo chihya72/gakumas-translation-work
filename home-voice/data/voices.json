@@ -17453,7 +17453,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-017_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-017_home_cmmn-02.wav",
     "ja": "プロデューサーのおかげで最近の私、絶好調なんです。",
-    "zh": "多亏了制作人，最近的我状态超好。",
+    "zh": "多亏了制作人，\n最近的我状态超好。",
     "wav_source": "reused",
     "duration": 5.512333333333333,
     "sample_rate": 48000,
@@ -17462,7 +17462,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-15T19:04:28.745Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-017_home_cmmn-03",

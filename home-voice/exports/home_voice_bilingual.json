@@ -5421,7 +5421,7 @@
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-017_home_cmmn-02",
     "speaker": "手毬",
     "ja": "プロデューサーのおかげで最近の私、絶好調なんです。",
-    "zh": "多亏了制作人，最近的我状态超好。"
+    "zh": "多亏了制作人，\n最近的我状态超好。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-017_home_cmmn-03",
