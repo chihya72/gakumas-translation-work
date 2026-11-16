@@ -5487,7 +5487,7 @@
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-022_home_cmmn-01",
     "speaker": "手毬",
     "ja": "私の歌で、誰もを鶏子にしてみせますよ。",
-    "zh": "我要用我的歌，把所有人都变成俘虏。"
+    "zh": "我要用我的歌，\n把所有人都变成俘虏。"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-022_home_cmmn-02",
