@@ -17615,7 +17615,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-021_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-021_home_cmmn-01.wav",
     "ja": "あなたと過ごした非日常も、全部歌に込めます。",
-    "zh": "和你一起度过的非日常，我也会全部唱进歌里。",
+    "zh": "与你共度的那些非同寻常的时光，\n我也要全部倾注于歌声之中。",
     "wav_source": "reused",
     "duration": 4.6486875,
     "sample_rate": 48000,
@@ -17624,7 +17624,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-16T06:35:03.820Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-021_home_cmmn-02",
