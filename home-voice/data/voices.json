@@ -17714,8 +17714,8 @@
     "speaker": "手毬",
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-022_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-022_home_cmmn-03.wav",
-    "ja": "小悪魔らしい振る舞い。私にもできますから。",
-    "zh": "小恶魔般的举止。\n我也做得来。",
+    "ja": "小悪魔らしい振る舞い、私にもできますから。",
+    "zh": "小恶魔般的举止，我也做得到。",
     "wav_source": "reused",
     "duration": 4.8264375,
     "sample_rate": 48000,
@@ -17724,7 +17724,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-16T06:47:52.649Z"
   },
   {
     "voiceAssetId": "sud_vo_system_fktn_home_birthday-01",
