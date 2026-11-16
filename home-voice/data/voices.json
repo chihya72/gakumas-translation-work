@@ -30041,7 +30041,7 @@
     "acb": "audio\\acb\\sud_vo_system_ttmr_home_transition-22.acb",
     "wav": "audio\\wav\\sud_vo_system_ttmr_home_transition-22.wav",
     "ja": "何か言いたそうにしてますね。運動の秋です。",
-    "zh": "你看起来想说什么呢。秋天是运动的季节。",
+    "zh": "你好像想说什么啊。\n这是运动之秋！",
     "wav_source": "reused",
     "duration": 4.217770833333334,
     "sample_rate": 48000,
@@ -30050,7 +30050,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-16T18:58:12.016Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ttmr_home_transition-23",
