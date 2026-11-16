@@ -17574,7 +17574,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-020_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-020_home_cmmn-02.wav",
     "ja": "私の歌、ナムコプロの方々にも聞いてもらえるかな？",
-    "zh": "我的歌，也能让Namco Pro的各位听到吗？",
+    "zh": "我的歌，765Pro的各位\n也会听到吗？",
     "wav_source": "reused",
     "duration": 6.2009375,
     "sample_rate": 48000,
@@ -17583,7 +17583,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-16T06:07:15.687Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-020_home_cmmn-03",
