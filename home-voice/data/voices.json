@@ -17635,7 +17635,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-021_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-021_home_cmmn-02.wav",
     "ja": "プロデューサーも覚えててください。あの時間のこと。",
-    "zh": "制作人也请记住。记住那段时光。",
+    "zh": "制作人也请记住。\n记住那段时光。",
     "wav_source": "reused",
     "duration": 4.274104166666667,
     "sample_rate": 48000,
@@ -17644,7 +17644,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-16T06:39:04.580Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-021_home_cmmn-03",
