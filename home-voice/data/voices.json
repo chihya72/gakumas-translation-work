@@ -30001,7 +30001,7 @@
     "acb": "audio\\acb\\sud_vo_system_ttmr_home_transition-20.acb",
     "wav": "audio\\wav\\sud_vo_system_ttmr_home_transition-20.wav",
     "ja": "夜、すずむしの声が聞こえて落ち着くんですよね。",
-    "zh": "晚上听到铃虫的叫声，会让人平静下来呢。",
+    "zh": "夜里听见铃虫的叫声，\n内心就平静下来了呢。",
     "wav_source": "reused",
     "duration": 3.9602708333333334,
     "sample_rate": 48000,
@@ -30010,7 +30010,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-16T18:56:39.067Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ttmr_home_transition-21",
