@@ -9165,7 +9165,7 @@
     "voiceAssetId": "sud_vo_system_ttmr_home_transition-04",
     "speaker": "手毬",
     "ja": "お腹すいて午前の授業集中できなかった。",
-    "zh": "肚子饿了，上午的课都没法集中精神。"
+    "zh": "肚子饿了，上午的课都\n没法集中精神……"
   },
   {
     "voiceAssetId": "sud_vo_system_ttmr_home_transition-05",
