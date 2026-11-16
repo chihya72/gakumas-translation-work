@@ -29701,7 +29701,7 @@
     "acb": "audio\\acb\\sud_vo_system_ttmr_home_transition-05.acb",
     "wav": "audio\\wav\\sud_vo_system_ttmr_home_transition-05.wav",
     "ja": "さあ、レッスンを始めましょう。すぐに。",
-    "zh": "好了，开始训练吧。马上开始。",
+    "zh": "好了，开始训练吧，马上开始。",
     "wav_source": "reused",
     "duration": 3.1214583333333334,
     "sample_rate": 48000,
@@ -29710,7 +29710,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-16T17:57:41.780Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ttmr_home_transition-06",
