@@ -28999,7 +28999,7 @@
     "acb": "audio\\acb\\sud_vo_system_ttmr_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_ttmr_home_cmmn-02.wav",
     "ja": "おぼろ、すいとの。たまにはラーメンとか。うんうん、カモンカモン",
-    "zh": "嫩豆腐、面疙瘩……偶尔来点拉面什么的……嗯嗯，来吧来吧。",
+    "zh": "肚子好饿啊。偶尔吃顿拉面也……\n不行不行，忍住忍住。",
     "wav_source": "reused",
     "duration": 5.160708333333333,
     "sample_rate": 48000,
@@ -29008,7 +29008,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-16T06:54:46.241Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ttmr_home_cmmn-03",
