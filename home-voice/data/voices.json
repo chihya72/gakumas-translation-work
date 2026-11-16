@@ -29179,7 +29179,7 @@
     "acb": "audio\\acb\\sud_vo_system_ttmr_home_cmmn-11.acb",
     "wav": "audio\\wav\\sud_vo_system_ttmr_home_cmmn-11.wav",
     "ja": "食い物なんかで簡単に信頼したりしませんから",
-    "zh": "我才不会因为一点吃的就轻易信任别人。",
+    "zh": "我不会因为这点吃的，\n就轻易信任你哦。",
     "wav_source": "reused",
     "duration": 4.200854166666667,
     "sample_rate": 48000,
@@ -29188,7 +29188,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-16T14:24:52.114Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ttmr_home_cmmn-12",
