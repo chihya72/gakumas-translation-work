@@ -17594,7 +17594,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-ttmr-3-020_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-ttmr-3-020_home_cmmn-03.wav",
     "ja": "GO MY WAY!!\nGO 前へ!!",
-    "zh": "GO MY WAY\n勇往直前\n",
+    "zh": "GO MY WAY！\n向前冲！……嘻嘻……",
     "wav_source": "reused",
     "duration": 4.3579791666666665,
     "sample_rate": 48000,
@@ -17606,7 +17606,7 @@
     "ja_origin": "manual_viewer",
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-11-06T07:36:45.710Z"
+    "reviewed_at": "2026-11-16T06:09:41.993Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-ttmr-3-021_home_cmmn-01",
