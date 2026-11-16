@@ -9189,7 +9189,7 @@
     "voiceAssetId": "sud_vo_system_ttmr_home_transition-08",
     "speaker": "手毬",
     "ja": "今からレッスンでも、私は平気ですよ。",
-    "zh": "就算现在开始训练，我也没问题。"
+    "zh": "就算现在开始训练，\n我也没问题。"
   },
   {
     "voiceAssetId": "sud_vo_system_ttmr_home_transition-09",
