@@ -29721,7 +29721,7 @@
     "acb": "audio\\acb\\sud_vo_system_ttmr_home_transition-06.acb",
     "wav": "audio\\wav\\sud_vo_system_ttmr_home_transition-06.wav",
     "ja": "プロデューサー！ま、待ってなんかないです！",
-    "zh": "制作人！我、我才没有在等你。",
+    "zh": "制作人！\n……我、我才没有在等你。",
     "wav_source": "reused",
     "duration": 3.2975416666666666,
     "sample_rate": 48000,
@@ -29730,7 +29730,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-16T17:58:53.302Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ttmr_home_transition-07",
