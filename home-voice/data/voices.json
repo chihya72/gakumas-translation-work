@@ -30061,7 +30061,7 @@
     "acb": "audio\\acb\\sud_vo_system_ttmr_home_transition-23.acb",
     "wav": "audio\\wav\\sud_vo_system_ttmr_home_transition-23.wav",
     "ja": "寒くても、いつでも声を出せるようにしてますよ。",
-    "zh": "就算冷，我也随时都能唱出声来。",
+    "zh": "就算很冷，\n我也随时都能唱出来。",
     "wav_source": "reused",
     "duration": 3.4805208333333333,
     "sample_rate": 48000,
@@ -30070,7 +30070,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-16T18:59:05.780Z"
   },
   {
     "voiceAssetId": "sud_vo_system_ttmr_home_transition-24",
