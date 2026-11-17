@@ -6562,8 +6562,8 @@
     "speaker": "莉波",
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-000_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-000_home_cmmn-01.wav",
-    "ja": "恋とかハートとか、深い意味はないから。",
-    "zh": "恋爱啊爱心啊，没什么深意的。",
+    "ja": "恋とかハートとか、ふ、深い意味はないから……",
+    "zh": "恋爱啊、爱心之类的，\n才、才没有什么深层意思呢……",
     "wav_source": "reused",
     "duration": 4.292104166666666,
     "sample_rate": 48000,
@@ -6572,7 +6572,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-17T19:11:11.120Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-000_home_cmmn-02",
