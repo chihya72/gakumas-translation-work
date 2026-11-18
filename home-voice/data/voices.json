@@ -6584,7 +6584,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-000_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-000_home_cmmn-02.wav",
     "ja": "やっぱり、ちょっとくらいはみ出す勇気、出さなきゃだよね？",
-    "zh": "果然，还是得拿出一点勇气，稍微跳出常规才行吧？",
+    "zh": "果然，还是要拿出点勇气，\n稍微跨出一步才行吧？",
     "wav_source": "reused",
     "duration": 5.735125,
     "sample_rate": 48000,
@@ -6593,7 +6593,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-18T09:42:34.168Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-000_home_cmmn-03",
