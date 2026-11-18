@@ -6604,7 +6604,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-000_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-000_home_cmmn-03.wav",
     "ja": "不器用で伝えきれない。すっごくよくわかるなあ。",
-    "zh": "笨拙得无法好好表达出来。我特别懂这种感觉呢。",
+    "zh": "笨拙得无法好好表达出来……\n我太懂这种感觉了……",
     "wav_source": "reused",
     "duration": 6.045416666666667,
     "sample_rate": 48000,
@@ -6613,7 +6613,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-18T09:44:57.859Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-001_home_cmmn-01",
