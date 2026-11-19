@@ -6845,7 +6845,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-004_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-004_home_cmmn-03.wav",
     "ja": "ふふふ\n毎日シャワーで済ませてちゃダメだよ",
-    "zh": "呵呵呵\n每天只冲个澡可不行哦。",
+    "zh": "呵呵……每天都拿淋浴凑合，\n可不行哦！",
     "wav_source": "reused",
     "duration": 4.755416666666667,
     "sample_rate": 48000,
@@ -6854,7 +6854,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-19T18:55:41.525Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-005_home_cmmn-01",
