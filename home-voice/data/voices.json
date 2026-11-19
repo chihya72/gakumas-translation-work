@@ -6926,7 +6926,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-006_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-006_home_cmmn-01.wav",
     "ja": "クリスマスにはケーキでも作っちゃおうかな？",
-    "zh": "圣诞节要不要做个蛋糕之类的呢？",
+    "zh": "圣诞节要不来做个蛋糕怎么样？",
     "wav_source": "reused",
     "duration": 3.5069583333333334,
     "sample_rate": 48000,
@@ -6935,7 +6935,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-19T19:01:21.632Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-006_home_cmmn-02",
