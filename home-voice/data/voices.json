@@ -6986,7 +6986,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-007_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-007_home_cmmn-01.wav",
     "ja": "逃げないし、負けない。私、戦うよ！",
-    "zh": "我不会逃避，也绝不认输。\n我，要战斗！",
+    "zh": "我不会逃避，也绝不认输。\n我，要去战斗！",
     "wav_source": "reused",
     "duration": 5.3401875,
     "sample_rate": 48000,
@@ -6997,7 +6997,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-11-19T19:08:50.034Z"
+    "reviewed_at": "2026-11-19T19:33:59.204Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-007_home_cmmn-02",
