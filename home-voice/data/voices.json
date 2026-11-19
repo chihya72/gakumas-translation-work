@@ -6665,7 +6665,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-001_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-001_home_cmmn-03.wav",
     "ja": "私の夏は特別になる気がするな。\nなんとなくだけど、ね？",
-    "zh": "我觉得我的夏天会变得特别呢。\n虽然只是莫名这么觉得，对吧？",
+    "zh": "我感觉今年的夏天会变得很特别。\n我有这么一种预感，你说呢？",
     "wav_source": "reused",
     "duration": 5.765625,
     "sample_rate": 48000,
@@ -6674,7 +6674,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-19T18:41:56.731Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-002_home_cmmn-01",
