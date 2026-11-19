@@ -7168,7 +7168,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-010_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-010_home_cmmn-01.wav",
     "ja": "そろそろ桜も見頃かなぁ\nねえ、一緒に見に行こっか",
-    "zh": "樱花也差不多到观赏期了吧\n哎，我们一起去看看吧？",
+    "zh": "樱花也差不多到观赏期了吧……\n我说，我们一起去看看吧？",
     "wav_source": "reused",
     "duration": 6.0246458333333335,
     "sample_rate": 48000,
@@ -7177,7 +7177,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-19T19:26:51.915Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-010_home_cmmn-02",
