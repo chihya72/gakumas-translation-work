@@ -6865,7 +6865,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-005_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-005_home_cmmn-01.wav",
     "ja": "ハロウィンか\n君のお菓子も用意しておくね",
-    "zh": "万圣节啊\n你的糖果我也会准备好哦。",
+    "zh": "万圣节啊……呵呵……\n你的糖果我也会准备好哦。",
     "wav_source": "reused",
     "duration": 5.973958333333333,
     "sample_rate": 48000,
@@ -6874,7 +6874,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-19T18:57:22.079Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-005_home_cmmn-02",
