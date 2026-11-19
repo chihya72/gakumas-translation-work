@@ -6705,7 +6705,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-002_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-002_home_cmmn-02.wav",
     "ja": "ねえ、今日は一緒に帰ろっか",
-    "zh": "呐，今天一起回去吧？",
+    "zh": "我说，今天一起回去吧？",
     "wav_source": "reused",
     "duration": 3.8989375,
     "sample_rate": 48000,
@@ -6716,7 +6716,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-10-17T13:23:21.861Z"
+    "reviewed_at": "2026-11-19T18:45:36.974Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-002_home_cmmn-03",
