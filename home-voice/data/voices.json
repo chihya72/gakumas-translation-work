@@ -6623,8 +6623,8 @@
     "speaker": "莉波",
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-001_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-001_home_cmmn-01.wav",
-    "ja": "ふふふ\n今年の夏は賑やかになりそうだね！",
-    "zh": "呵呵呵\n今年的夏天会变得很热闹呢！",
+    "ja": "ふふ……今年の夏は賑やかになりそうだね！",
+    "zh": "呵呵……今年的夏天\n会变得很热闹呢！",
     "wav_source": "reused",
     "duration": 4.2679375,
     "sample_rate": 48000,
@@ -6633,7 +6633,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-19T18:37:05.179Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-001_home_cmmn-02",
