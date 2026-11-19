@@ -6966,7 +6966,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-006_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-006_home_cmmn-03.wav",
     "ja": "もしホワイトクリスマスになったら、素敵だよね？",
-    "zh": "圣诞节要是下雪了，该多美好啊，\n你说呢？",
+    "zh": "圣诞节要是下雪了，该多美好啊，\n对吧？",
     "wav_source": "reused",
     "duration": 4.3457083333333335,
     "sample_rate": 48000,
@@ -6977,7 +6977,7 @@
     "asr_review": [],
     "zh_origin": "manual_viewer",
     "reviewed": true,
-    "reviewed_at": "2026-11-19T19:06:14.350Z"
+    "reviewed_at": "2026-11-19T19:06:35.669Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-007_home_cmmn-01",
