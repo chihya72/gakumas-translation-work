@@ -7087,7 +7087,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-008_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-008_home_cmmn-03.wav",
     "ja": "君に渡したいものがあるの\nあとで時間\nくれる？",
-    "zh": "我有想给你的东西\n之后的时间\n能给我一点吗？",
+    "zh": "我有东西想要给你……\n一会……有空吗？",
     "wav_source": "reused",
     "duration": 6.2354375,
     "sample_rate": 48000,
@@ -7096,7 +7096,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-19T19:18:59.378Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-009_home_cmmn-01",
