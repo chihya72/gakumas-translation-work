@@ -7065,8 +7065,8 @@
     "speaker": "莉波",
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-008_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-008_home_cmmn-02.wav",
-    "ja": "言葉にできない気持ちも全部、ちょこっと歌に込めるよ",
-    "zh": "无法用言语表达的心情，也全部一点点融进歌里哦。",
+    "ja": "言葉にできない気持ちも全部、チョコと歌に込めるよ",
+    "zh": "无法用言语表达的心意，\n我会全部融进巧克力和歌声里哦。",
     "wav_source": "reused",
     "duration": 5.078291666666667,
     "sample_rate": 48000,
@@ -7075,7 +7075,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-19T19:16:49.088Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-008_home_cmmn-03",
