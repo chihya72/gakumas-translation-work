@@ -7249,7 +7249,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-011_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-011_home_cmmn-02.wav",
     "ja": "一人一人の目を見て、笑顔で、いらっしゃいません？",
-    "zh": "要看着每个人的眼睛，带着笑容问“您不来吗？”",
+    "zh": "看着每一位客人的眼睛，\n笑着说……欢迎光临！",
     "wav_source": "reused",
     "duration": 5.9770625,
     "sample_rate": 48000,
@@ -7258,7 +7258,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-19T19:32:51.830Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-011_home_cmmn-03",
