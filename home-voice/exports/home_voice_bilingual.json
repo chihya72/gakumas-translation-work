@@ -2331,7 +2331,7 @@
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-014_home_cmmn-03",
     "speaker": "莉波",
     "ja": "みんなと一緒に盛り上がれそうな曲で、嬉しいな！",
-    "zh": "是能和大家一起热闹起来的曲子，好开心呀！"
+    "zh": "是能和大家一起热闹起来的曲子，\n好开心呀！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-015_home_cmmn-01",

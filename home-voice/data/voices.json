@@ -7449,7 +7449,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-014_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-014_home_cmmn-03.wav",
     "ja": "みんなと一緒に盛り上がれそうな曲で、嬉しいな！",
-    "zh": "是能和大家一起热闹起来的曲子，好开心呀！",
+    "zh": "是能和大家一起热闹起来的曲子，\n好开心呀！",
     "wav_source": "reused",
     "duration": 3.6551666666666667,
     "sample_rate": 48000,
@@ -7458,7 +7458,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-21T18:15:47.918Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-015_home_cmmn-01",
