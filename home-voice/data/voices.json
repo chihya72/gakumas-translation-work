@@ -7389,7 +7389,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-013_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-013_home_cmmn-03.wav",
     "ja": "もし踏み出したら君は\nどう答えてくれる？",
-    "zh": "如果我迈出那一步，你会\n怎么回应我？",
+    "zh": "倘若我迈出这一步，你会……\n给我怎样的答复？",
     "wav_source": "reused",
     "duration": 4.546770833333333,
     "sample_rate": 48000,
@@ -7398,7 +7398,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-21T14:25:06.283Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-014_home_cmmn-01",
