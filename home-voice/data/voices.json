@@ -7429,7 +7429,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-014_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-014_home_cmmn-02.wav",
     "ja": "君と一緒にいられる今も、ミラクルなのかも。なんて？",
-    "zh": "能像现在这样和你在一起，说不定也是奇迹呢。……开玩笑的？",
+    "zh": "能像现在这样和你在一起，说不定\n也是奇迹呢。……开玩笑啦！",
     "wav_source": "reused",
     "duration": 6.208583333333333,
     "sample_rate": 48000,
@@ -7438,7 +7438,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-21T18:14:38.342Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-014_home_cmmn-03",
