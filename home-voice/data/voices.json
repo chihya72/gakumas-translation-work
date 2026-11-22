@@ -7689,8 +7689,8 @@
     "speaker": "莉波",
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-018_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-018_home_cmmn-03.wav",
-    "ja": "君とユニットを組んだら、指定ユニットになるのかな？",
-    "zh": "和你组成组合的话，会不会成为指定组合呢？",
+    "ja": "君とユニットを組んだら、姉弟ユニットになるのかな？",
+    "zh": "要是跟你搭档成团，\n我们算不算姐弟组合啊？",
     "wav_source": "reused",
     "duration": 4.952395833333333,
     "sample_rate": 48000,
@@ -7699,7 +7699,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-22T17:23:47.624Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-020_home_cmmn-01",
