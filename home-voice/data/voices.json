@@ -7670,7 +7670,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-018_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-018_home_cmmn-02.wav",
     "ja": "寝不足になっちゃうくらい、いろいろ考えてくれたんだね。",
-    "zh": "你为我考虑了这么多，都到睡眠不足的地步了呢。",
+    "zh": "原来你为我想了这么多，\n都熬到睡眠不足了呀。",
     "wav_source": "reused",
     "duration": 4.5088125,
     "sample_rate": 48000,
@@ -7679,7 +7679,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-22T17:21:38.359Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-018_home_cmmn-03",
