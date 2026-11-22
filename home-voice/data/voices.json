@@ -7629,7 +7629,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-017_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-017_home_cmmn-03.wav",
     "ja": "私ね、君のお姉さんでいるの、結構好きなんだ。",
-    "zh": "我啊，还挺喜欢当你的姐姐的。",
+    "zh": "其实呀，我还挺喜欢\n做你的姐姐的。",
     "wav_source": "reused",
     "duration": 5.546770833333333,
     "sample_rate": 48000,
@@ -7638,7 +7638,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-22T17:16:05.088Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-018_home_cmmn-01",
