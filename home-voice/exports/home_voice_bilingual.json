@@ -6213,7 +6213,7 @@
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-02",
     "speaker": "莉波",
     "ja": "君の方が年上だけど、やっぱり弟くんって感じかな？",
-    "zh": "虽然你年纪比我大，但感觉还是像弟弟呢。"
+    "zh": "虽然你年纪比我大，\n但感觉还是像弟弟呢。"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-03",
