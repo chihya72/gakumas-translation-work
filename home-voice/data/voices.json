@@ -7851,7 +7851,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-022_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-022_home_cmmn-02.wav",
     "ja": "小悪魔らしく誘惑。わ、私も挑戦してみるね。",
-    "zh": "像小恶魔那样诱惑。我、我也试着挑战一下哦。",
+    "zh": "像小恶魔一样的诱惑……\n我、我也试着挑战看看哦。",
     "wav_source": "reused",
     "duration": 5.8640625,
     "sample_rate": 48000,
@@ -7860,7 +7860,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-22T17:37:47.616Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-022_home_cmmn-03",
