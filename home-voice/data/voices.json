@@ -7751,7 +7751,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-020_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-020_home_cmmn-03.wav",
     "ja": "私もなりたいな。君と私が一番大好きな私に",
-    "zh": "我也想成为呢，你和我都最喜欢的我。",
+    "zh": "我也好想，变成你和我心中\n最喜欢的那个我。",
     "wav_source": "reused",
     "duration": 6.1935,
     "sample_rate": 48000,
@@ -7760,7 +7760,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-22T17:31:25.255Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-021_home_cmmn-01",
