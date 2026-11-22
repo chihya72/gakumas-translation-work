@@ -1580,7 +1580,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hrnm-3-016_home_cmmn-01",
-      "text": "莉波姐姐的歌声，会把大家都迷倒哦。"
+      "text": "莉波姐姐的歌声，\n会把大家都迷倒哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hrnm-3-016_home_cmmn-02",
