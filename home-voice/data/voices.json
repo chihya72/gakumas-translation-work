@@ -20405,7 +20405,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_cmmn-08.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_cmmn-08.wav",
     "ja": "何かあったらいつでも頼ってね",
-    "zh": "有什么事的话，随时可以依靠我哦。",
+    "zh": "遇到什么事的话，\n随时可以依靠我哦。",
     "wav_source": "reused",
     "duration": 3.049729166666667,
     "sample_rate": 48000,
@@ -20414,7 +20414,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-22T18:13:23.024Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-09",
