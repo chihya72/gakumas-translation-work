@@ -7589,7 +7589,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-017_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-017_home_cmmn-01.wav",
     "ja": "今は君の好きな私を見せられてるかな？",
-    "zh": "现在有让你看到你喜欢的我吗？",
+    "zh": "我现在，是不是展现出了\n你喜欢的样子呢？",
     "wav_source": "reused",
     "duration": 4.312625,
     "sample_rate": 48000,
@@ -7598,7 +7598,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-22T17:10:24.108Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_home_cmmn-02",
