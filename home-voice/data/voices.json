@@ -7609,7 +7609,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-hrnm-3-017_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-hrnm-3-017_home_cmmn-02.wav",
     "ja": "無理はダメだけど、体調が悪い時はまた看病するからね。",
-    "zh": "虽然不能硬撑，但你身体不舒服的时候我会再照顾你哦。",
+    "zh": "可不能硬撑哦，要是身体不舒服，\n我还会再来照顾你的。",
     "wav_source": "reused",
     "duration": 5.0017708333333335,
     "sample_rate": 48000,
@@ -7618,7 +7618,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-22T17:14:33.672Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_home_cmmn-03",
