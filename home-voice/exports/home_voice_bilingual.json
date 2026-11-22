@@ -6207,7 +6207,7 @@
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-01",
     "speaker": "莉波",
     "ja": "プロデューサーくん、そろそろ休憩しない？",
-    "zh": "制作人君，差不多该休息一下了吧？"
+    "zh": "制作人君，差不多该\n休息一下了吧？"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-02",
