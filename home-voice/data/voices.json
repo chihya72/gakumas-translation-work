@@ -20245,7 +20245,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_birthday-01.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_birthday-01.wav",
     "ja": "ハッピーバースデーだね、プロデューサーくん",
-    "zh": "生日快乐呀，制作人君。",
+    "zh": "生日快乐哦，制作人君。",
     "wav_source": "reused",
     "duration": 3.2515416666666668,
     "sample_rate": 48000,
@@ -20254,7 +20254,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-22T18:07:33.932Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-01",
