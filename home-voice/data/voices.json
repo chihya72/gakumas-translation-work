@@ -20565,7 +20565,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_cmmn-16.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_cmmn-16.wav",
     "ja": "今はまだ弟だけど、いつかは…\nな、なんでもないよ！",
-    "zh": "现在虽然还只是弟弟，但总有一天……\n没、没什么！",
+    "zh": "现在虽然还只是弟弟，\n但总有一天……没、没什么！",
     "wav_source": "reused",
     "duration": 5.5424375,
     "sample_rate": 48000,
@@ -20574,7 +20574,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-23T16:46:49.201Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-17",
