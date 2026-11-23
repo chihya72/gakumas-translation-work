@@ -20665,7 +20665,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_cmmn-21.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_cmmn-21.wav",
     "ja": "あっ、プロデューサーくん！\nこっちでお話ししよう。",
-    "zh": "啊，制作人君！\n来这边聊聊吧。",
+    "zh": "啊，制作人君！来这边聊聊吧！",
     "wav_source": "reused",
     "duration": 3.9543125,
     "sample_rate": 48000,
@@ -20674,7 +20674,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-23T16:54:02.806Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-22",
