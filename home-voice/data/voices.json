@@ -20445,7 +20445,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_cmmn-10.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_cmmn-10.wav",
     "ja": "再会した途端にスカウトなんて、すっごく驚いちゃった。",
-    "zh": "才重逢就突然被挖角，真是吓了一大跳。",
+    "zh": "才刚重逢就被你招募，\n当时我真的大吃一惊。",
     "wav_source": "reused",
     "duration": 4.7298125,
     "sample_rate": 48000,
@@ -20454,7 +20454,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-23T16:36:04.532Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-11",
