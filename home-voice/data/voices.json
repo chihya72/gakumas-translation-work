@@ -21185,7 +21185,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_transition-15.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_transition-15.wav",
     "ja": "お花見なら任せて！いっぱいお弁当作っていくよ！",
-    "zh": "赏花的话就交给我吧！我会做很多便当带过去的！",
+    "zh": "赏樱的事情就交给我吧！\n我会做好多便当带过去的！",
     "wav_source": "reused",
     "duration": 4.2940625,
     "sample_rate": 48000,
@@ -21194,7 +21194,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-23T17:58:19.643Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_transition-16",
