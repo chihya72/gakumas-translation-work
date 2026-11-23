@@ -21105,7 +21105,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_transition-11.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_transition-11.wav",
     "ja": "うーん、いたずらってなかなか思いつかないなあ。",
-    "zh": "嗯——，恶作剧什么的还真想不出来呢。",
+    "zh": "唔……我实在想不出\n什么恶作剧呢。",
     "wav_source": "reused",
     "duration": 5.775729166666666,
     "sample_rate": 48000,
@@ -21114,7 +21114,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-23T17:52:02.524Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_transition-12",
