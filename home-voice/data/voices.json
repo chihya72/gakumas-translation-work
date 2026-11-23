@@ -21345,7 +21345,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_transition-23.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_transition-23.wav",
     "ja": "リョウの子たちとお鍋パーティー？\n楽しそう！",
-    "zh": "和宿舍的孩子们开火锅派对？\n听起来好开心！",
+    "zh": "和宿舍的孩子们开火锅派对？\n听起来很好玩！",
     "wav_source": "reused",
     "duration": 5.382729166666667,
     "sample_rate": 48000,
@@ -21354,7 +21354,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-23T18:12:09.005Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_transition-24",
