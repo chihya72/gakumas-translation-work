@@ -20485,7 +20485,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_cmmn-12.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_cmmn-12.wav",
     "ja": "お姉さんって意識するとすっごく難しいんだね。",
-    "zh": "一旦意识到自己是姐姐，就觉得超级难呢。",
+    "zh": "原来姐姐这种感觉，\n一旦去在意就很难把握呢。",
     "wav_source": "reused",
     "duration": 5.316375,
     "sample_rate": 48000,
@@ -20494,7 +20494,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-23T16:40:44.208Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-13",
