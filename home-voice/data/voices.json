@@ -20785,7 +20785,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_cmmn-27.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_cmmn-27.wav",
     "ja": "君と駆け抜けた時間、ずっとずっと忘れないよ",
-    "zh": "和你一起全力奔跑过的时光，我永远永远都不会忘记哦。",
+    "zh": "和你一起奔赴过的时光，\n我永远永远都不会忘记的！",
     "wav_source": "reused",
     "duration": 6.146729166666667,
     "sample_rate": 48000,
@@ -20794,7 +20794,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-23T17:11:25.201Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-28",
