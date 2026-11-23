@@ -20765,7 +20765,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_cmmn-26.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_cmmn-26.wav",
     "ja": "言っちゃったんだ。私の本当の気持ち",
-    "zh": "不小心说出口了呢。我真正的心情。",
+    "zh": "不小心说出口了……\n我真正的心意……",
     "wav_source": "reused",
     "duration": 6.162729166666667,
     "sample_rate": 48000,
@@ -20774,7 +20774,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-23T17:08:03.388Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_cmmn-27",
