@@ -21365,7 +21365,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_transition-24.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_transition-24.wav",
     "ja": "プロデューサー君は寒くて起きられなかったりしない？",
-    "zh": "制作人君不会因为太冷起不来床吧？",
+    "zh": "制作人君会不会因为天冷，\n赖床起不来呀？",
     "wav_source": "reused",
     "duration": 3.8875,
     "sample_rate": 48000,
@@ -21374,7 +21374,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-23T18:14:19.769Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_transition-25",
