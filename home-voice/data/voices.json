@@ -20905,7 +20905,7 @@
     "acb": "audio\\acb\\sud_vo_system_hrnm_home_transition-01.acb",
     "wav": "audio\\wav\\sud_vo_system_hrnm_home_transition-01.wav",
     "ja": "おはよう\n睡癖ついてるよ",
-    "zh": "早上好\n头发翘起来了哦。",
+    "zh": "早安！呵呵……\n头发睡翘起来咯。",
     "wav_source": "reused",
     "duration": 4.3796875,
     "sample_rate": 48000,
@@ -20914,7 +20914,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-23T17:20:17.851Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hrnm_home_transition-02",
