@@ -31666,7 +31666,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_transition-12.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_transition-12.wav",
     "ja": "いいですか。サンタクロースの正体は、お嬢様には秘密です。",
-    "zh": "听好了。圣诞老人的真实身份，要对大小姐保密。",
+    "zh": "听好了。圣诞老人的真实身份，\n要对大小姐保密。",
     "wav_source": "vgmstream",
     "duration": 6.008625,
     "sample_rate": 48000,
@@ -31676,8 +31676,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T19:29:43.808Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_transition-13",

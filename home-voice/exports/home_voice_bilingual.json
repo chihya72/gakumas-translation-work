@@ -9675,7 +9675,7 @@
     "voiceAssetId": "sud_vo_system_hkne_home_transition-12",
     "speaker": "香名江",
     "ja": "いいですか。サンタクロースの正体は、お嬢様には秘密です。",
-    "zh": "听好了。圣诞老人的真实身份，要对大小姐保密。"
+    "zh": "听好了。圣诞老人的真实身份，\n要对大小姐保密。"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_transition-13",
