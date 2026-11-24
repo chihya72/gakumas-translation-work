@@ -31198,7 +31198,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_cmmn-17.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_cmmn-17.wav",
     "ja": "今後はあなたのことも支えていきますね。",
-    "zh": "今后我也会支持您的。",
+    "zh": "往后，我也会支持您的。",
     "wav_source": "vgmstream",
     "duration": 3.35375,
     "sample_rate": 48000,
@@ -31208,8 +31208,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T18:54:31.743Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_cmmn-18",
