@@ -9717,7 +9717,7 @@
     "voiceAssetId": "sud_vo_system_hkne_home_transition-19",
     "speaker": "香名江",
     "ja": "夏を快適に過ごせるよう、いろいろと準備しなくては。",
-    "zh": "为了让夏天过得舒适，我得做各种准备才行。"
+    "zh": "为了让夏天过得舒适，\n我得做各种准备才行。"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_transition-20",
