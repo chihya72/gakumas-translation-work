@@ -30841,7 +30841,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_birthday-01.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_birthday-01.wav",
     "ja": "お誕生日おめでとうございます。",
-    "zh": "生日快乐。",
+    "zh": "祝您生日快乐。",
     "wav_source": "vgmstream",
     "duration": 2.726770833333333,
     "sample_rate": 48000,
@@ -30851,8 +30851,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T18:01:10.905Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_cmmn-01",
