@@ -31347,7 +31347,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_cmmn-24.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_cmmn-24.wav",
     "ja": "今の私がどう見えるか、率直な意見をお聞かせください。",
-    "zh": "请坦率地告诉我，现在的我看起来如何。",
+    "zh": "您如何看待现在的我，\n还请坦诚告知。",
     "wav_source": "vgmstream",
     "duration": 4.493416666666667,
     "sample_rate": 48000,
@@ -31357,8 +31357,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T19:00:40.247Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_cmmn-25",
