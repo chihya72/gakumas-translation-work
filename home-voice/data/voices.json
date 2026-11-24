@@ -31517,7 +31517,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_transition-05.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_transition-05.wav",
     "ja": "早速、レッスンに参りましょう。",
-    "zh": "我们立刻去训练吧。",
+    "zh": "我们即刻去训练吧。",
     "wav_source": "vgmstream",
     "duration": 2.4804375,
     "sample_rate": 48000,
@@ -31527,8 +31527,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T19:13:12.157Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_transition-06",
