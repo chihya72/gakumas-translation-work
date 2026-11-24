@@ -31114,7 +31114,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_cmmn-13.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_cmmn-13.wav",
     "ja": "鏡の中の私、私ではないようでした。",
-    "zh": "镜中的我，仿佛不是我自己。",
+    "zh": "镜子里的我，看着……\n好像都已经不是我了。",
     "wav_source": "vgmstream",
     "duration": 6.126729166666666,
     "sample_rate": 48000,
@@ -31124,8 +31124,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T18:43:48.465Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_cmmn-14",
