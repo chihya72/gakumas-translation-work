@@ -30898,7 +30898,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_cmmn-03.wav",
     "ja": "お嬢様を悲しませることは、何があっても許しません。",
-    "zh": "无论发生什么，我都不允许大小姐伤心。",
+    "zh": "无论发生什么，我都绝不允许\n有人让大小姐伤心。",
     "wav_source": "vgmstream",
     "duration": 4.356520833333334,
     "sample_rate": 48000,
@@ -30908,8 +30908,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T17:55:45.392Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_cmmn-04",
