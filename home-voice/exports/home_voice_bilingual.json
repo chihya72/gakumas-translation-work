@@ -9729,7 +9729,7 @@
     "voiceAssetId": "sud_vo_system_hkne_home_transition-21",
     "speaker": "香名江",
     "ja": "少し肌寒くなってきたので、風邪にはお気をつけください。",
-    "zh": "天气有些转凉了，请注意不要感冒。"
+    "zh": "天气有些转凉了，\n请注意不要感冒。"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_transition-22",
