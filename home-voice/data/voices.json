@@ -31283,7 +31283,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_cmmn-21.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_cmmn-21.wav",
     "ja": "お話ですか？\n手短にお願いします。",
-    "zh": "您有事要谈吗？\n请长话短说。",
+    "zh": "您有事要谈吗？请长话短说。",
     "wav_source": "vgmstream",
     "duration": 5.0531041666666665,
     "sample_rate": 48000,
@@ -31293,8 +31293,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T18:57:03.527Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_cmmn-22",
