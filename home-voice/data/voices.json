@@ -31156,7 +31156,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_cmmn-15.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_cmmn-15.wav",
     "ja": "あなたのおかげで、知らなかった気持ちに気づけました。",
-    "zh": "多亏了您，我才察觉到了自己从未知晓的心情。",
+    "zh": "多亏了您，我才察觉到了\n自己从未知晓的心意。",
     "wav_source": "vgmstream",
     "duration": 4.345604166666667,
     "sample_rate": 48000,
@@ -31166,8 +31166,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T18:50:37.808Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_cmmn-16",
