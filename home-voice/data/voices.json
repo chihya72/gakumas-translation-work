@@ -31602,7 +31602,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_transition-09.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_transition-09.wav",
     "ja": "明けましておめでとうございます。",
-    "zh": "新年快乐。",
+    "zh": "祝您新年快乐。",
     "wav_source": "vgmstream",
     "duration": 1.9869583333333334,
     "sample_rate": 48000,
@@ -31612,8 +31612,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T19:22:59.139Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_transition-10",
