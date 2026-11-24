@@ -31421,7 +31421,9 @@
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
     "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "machine",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T19:04:20.796Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_transition-01",
