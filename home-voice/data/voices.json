@@ -30988,7 +30988,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_cmmn-07.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_cmmn-07.wav",
     "ja": "お嬢様が見ている景色を、もっと知りたいです。",
-    "zh": "我想更多地了解大小姐所看到的景色。",
+    "zh": "我想要更多地去了解，\n大小姐所看见的风景。",
     "wav_source": "vgmstream",
     "duration": 4.128625,
     "sample_rate": 48000,
@@ -30998,8 +30998,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T18:24:59.260Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_cmmn-08",
