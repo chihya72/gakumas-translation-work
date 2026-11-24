@@ -31304,7 +31304,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_cmmn-22.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_cmmn-22.wav",
     "ja": "いい結果を出してみせます。",
-    "zh": "我会做出好结果给您看。",
+    "zh": "我一定会拿出好成果给您看。",
     "wav_source": "vgmstream",
     "duration": 1.7199166666666668,
     "sample_rate": 48000,
@@ -31314,8 +31314,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T18:57:58.916Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_cmmn-23",
