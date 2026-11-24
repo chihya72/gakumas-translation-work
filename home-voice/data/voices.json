@@ -31496,7 +31496,7 @@
     "acb": "audio\\acb\\sud_vo_system_hkne_home_transition-04.acb",
     "wav": "audio\\wav\\sud_vo_system_hkne_home_transition-04.wav",
     "ja": "倉本家の従者として、恥じない成績を収めねばなりません。",
-    "zh": "作为仓本家的侍从，我必须取得不辱没仓本家名声的成绩。",
+    "zh": "身为仓本家的侍从，我必须取得\n不使这身份蒙羞的成绩。",
     "wav_source": "vgmstream",
     "duration": 4.5616875,
     "sample_rate": 48000,
@@ -31506,8 +31506,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-24T19:12:41.740Z"
   },
   {
     "voiceAssetId": "sud_vo_system_hkne_home_transition-05",
