@@ -10406,7 +10406,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-002_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-002_home_cmmn-03.wav",
     "ja": "全力を尽くすわ。私の望みをこの手で叶えるためにね。",
-    "zh": "我会全力以赴。为了亲手实现我的愿望呢。",
+    "zh": "我将竭尽所能，\n亲手达成我的愿望。",
     "wav_source": "reused",
     "duration": 5.289791666666667,
     "sample_rate": 48000,
@@ -10415,7 +10415,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-25T09:33:24.404Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-003_home_cmmn-01",
