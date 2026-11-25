@@ -10666,7 +10666,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-007_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-007_home_cmmn-01.wav",
     "ja": "普段と思考を変えて、水中トレーニングもいいわね。",
-    "zh": "偶尔换换思路，做做水中训练也不错呢。",
+    "zh": "偶尔换换思路，\n做做水中训练也不错呢。",
     "wav_source": "reused",
     "duration": 4.011125,
     "sample_rate": 48000,
@@ -10675,7 +10675,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-25T09:46:19.328Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-007_home_cmmn-02",
