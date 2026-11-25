@@ -3243,7 +3243,7 @@
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-002_home_cmmn-02",
     "speaker": "星南",
     "ja": "どんな相手だろうと、この私が受けてたすわ！",
-    "zh": "无论对手是谁，我都会亲自应战！"
+    "zh": "无论对手是谁，\n我都会亲自应战！"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-002_home_cmmn-03",
