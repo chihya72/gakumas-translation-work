@@ -10286,7 +10286,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-000_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-000_home_cmmn-03.wav",
     "ja": "これはきっと特別な歌。\nそんな気がするわ。",
-    "zh": "这一定是一首特别的歌。\n我有这种感觉。",
+    "zh": "这一定是一首很特别的歌，\n我有这种预感。",
     "wav_source": "reused",
     "duration": 5.048520833333333,
     "sample_rate": 48000,
@@ -10295,7 +10295,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-25T09:26:42.654Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-001_home_cmmn-01",
