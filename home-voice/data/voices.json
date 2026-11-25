@@ -10726,7 +10726,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-008_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-008_home_cmmn-01.wav",
     "ja": "もう夏祭りの季節ね。見回りの予定を決めないと。",
-    "zh": "已经到了夏祭的季节了呢。得定下巡视的安排了。",
+    "zh": "已经到夏日祭的时节了。\n得把巡查的计划定下来。",
     "wav_source": "reused",
     "duration": 4.275416666666667,
     "sample_rate": 48000,
@@ -10735,7 +10735,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-25T09:50:23.737Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-008_home_cmmn-02",
