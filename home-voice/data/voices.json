@@ -10766,7 +10766,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-008_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-008_home_cmmn-03.wav",
     "ja": "屋台って、普段食べないようなものが並んで楽しいわよね？",
-    "zh": "摊位上摆满了平时不怎么吃的东西，很有趣吧？",
+    "zh": "小摊上摆满了平时吃不到的东西，\n很有意思对吧？",
     "wav_source": "reused",
     "duration": 4.635916666666667,
     "sample_rate": 48000,
@@ -10775,7 +10775,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-25T09:53:35.840Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-009_home_cmmn-01",
