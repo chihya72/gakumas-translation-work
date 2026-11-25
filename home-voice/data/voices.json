@@ -10466,7 +10466,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-003_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-003_home_cmmn-03.wav",
     "ja": "日頃お世話になってる人には、お礼はしないと。ね？",
-    "zh": "对平日里关照我的人，不道谢可不行。对吧？",
+    "zh": "平日里承蒙照顾的人，\n必须向对方表达谢意。对吧？",
     "wav_source": "reused",
     "duration": 5.7319375,
     "sample_rate": 48000,
@@ -10475,7 +10475,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-25T09:36:14.470Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-004_home_cmmn-01",
