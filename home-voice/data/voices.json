@@ -10845,8 +10845,8 @@
     "speaker": "星南",
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-010_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-010_home_cmmn-01.wav",
-    "ja": "この私が定員になるのだから、大繁盛間違いなしね！",
-    "zh": "既然有我来当店员，绝对会生意兴隆呢！",
+    "ja": "この私が店員になるのだから、大繁盛間違いなしね！",
+    "zh": "由我来担任店员，\n生意肯定会火爆的！",
     "wav_source": "reused",
     "duration": 4.569354166666667,
     "sample_rate": 48000,
@@ -10855,7 +10855,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-26T14:32:37.106Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-010_home_cmmn-02",
