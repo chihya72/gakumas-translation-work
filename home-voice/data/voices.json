@@ -10806,7 +10806,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-009_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-009_home_cmmn-02.wav",
     "ja": "どの子にどんな仮装が似合うか\n考えるのもまた一興ね",
-    "zh": "思考哪个孩子适合什么样的变装\n也别有一番乐趣呢。",
+    "zh": "哪个孩子适合什么样的装扮……\n光是想想，也别有一番趣味呢。",
     "wav_source": "reused",
     "duration": 5.361,
     "sample_rate": 48000,
@@ -10815,7 +10815,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-26T14:29:43.037Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-009_home_cmmn-03",
