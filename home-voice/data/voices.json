@@ -10887,7 +10887,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-010_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-010_home_cmmn-03.wav",
     "ja": "アニメの話題なら、後輩とも盛り上がるかしら。",
-    "zh": "动画的话题，和后辈也能聊得热闹起来吧。",
+    "zh": "要是聊动画的话题，\n或许能和后辈们聊得很热闹吧……",
     "wav_source": "reused",
     "duration": 4.453083333333334,
     "sample_rate": 48000,
@@ -10896,7 +10896,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-26T14:34:44.779Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-011_home_cmmn-01",
