@@ -10786,7 +10786,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-009_home_cmmn-01.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-009_home_cmmn-01.wav",
     "ja": "ハッピーハロウィン。あなたにもお菓子をあげるわ。",
-    "zh": "万圣节快乐。我也给你糖果哦。",
+    "zh": "万圣节快乐。也给你糖果哦。",
     "wav_source": "reused",
     "duration": 4.7549375,
     "sample_rate": 48000,
@@ -10795,7 +10795,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-26T14:28:07.733Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-009_home_cmmn-02",
