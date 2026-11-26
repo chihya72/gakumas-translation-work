@@ -10948,7 +10948,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-011_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-011_home_cmmn-03.wav",
     "ja": "もし本当にユニットを組んだら\n暑いわね",
-    "zh": "如果真的组成组合\n可真是火热呢。",
+    "zh": "要是真的组成组合的话……\n呵呵……想想就很火热呢。",
     "wav_source": "reused",
     "duration": 6.07875,
     "sample_rate": 48000,
@@ -10957,7 +10957,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-26T14:41:21.740Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-012_home_cmmn-01",
