@@ -10926,8 +10926,8 @@
     "speaker": "星南",
     "acb": "audio\\acb\\sud_vo_system_cidol-jsna-3-011_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-jsna-3-011_home_cmmn-02.wav",
-    "ja": "みすずからは時折、とんでもない圧を感じるのよね。",
-    "zh": "美铃身上偶尔会散发出惊人的压迫感呢。",
+    "ja": "美鈴からは時折、とんでもない圧を感じるのよね……",
+    "zh": "美铃这个人，身上偶尔会散发出\n不得了的压迫感呢……",
     "wav_source": "reused",
     "duration": 4.529729166666667,
     "sample_rate": 48000,
@@ -10936,7 +10936,10 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro"
+    "ja_origin": "manual_viewer",
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-26T14:38:45.692Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-jsna-3-011_home_cmmn-03",
