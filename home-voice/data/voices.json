@@ -32083,7 +32083,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-amao-3-023_home_cmmn-03.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-amao-3-023_home_cmmn-03.wav",
     "ja": "僕の得意な演技はアイドルの仕事でできて嬉しいです！",
-    "zh": "我擅长的演技能在偶像工作中发挥出来，好开心！",
+    "zh": "我很开心我所擅长的演技能在\\n偶像工作中用上！",
     "wav_source": "vgmstream",
     "duration": 4.165895833333333,
     "sample_rate": 48000,
@@ -32093,8 +32093,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-27T22:01:21.167Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-atbm-3-020_home_cmmn-01",
