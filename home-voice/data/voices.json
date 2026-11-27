@@ -32062,7 +32062,7 @@
     "acb": "audio\\acb\\sud_vo_system_cidol-amao-3-023_home_cmmn-02.acb",
     "wav": "audio\\wav\\sud_vo_system_cidol-amao-3-023_home_cmmn-02.wav",
     "ja": "君が言うなら信じます。いいユニットになるって。",
-    "zh": "既然你都这么说了，我就信了。会是个好组合的。",
+    "zh": "既然这么说了，我就相信你吧。\\n一定会是个好组合的。",
     "wav_source": "vgmstream",
     "duration": 4.029833333333333,
     "sample_rate": 48000,
@@ -32072,8 +32072,9 @@
     "asr_error": "",
     "asr_model": "D:\\GIT\\MOSS-Transcribe-Diarize\\pretrained\\moss-transcribe-diarize",
     "asr_review": [],
-    "translation_model": "deepseek-v4-pro",
-    "zh_origin": "machine"
+    "zh_origin": "manual_viewer",
+    "reviewed": true,
+    "reviewed_at": "2026-11-27T21:57:41.773Z"
   },
   {
     "voiceAssetId": "sud_vo_system_cidol-amao-3-023_home_cmmn-03",
